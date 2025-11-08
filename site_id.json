@@ -1,0 +1,32 @@
+{
+  "sites": [
+    {
+      "id": "6903e357b552c2ec9e6a0eed",
+      "workspaceId": "68e18550eef8f07f0bb14985",
+      "displayName": "Copy of Marketing Reports",
+      "shortName": "marketing-reports-website-1cf8efb5dbda6",
+      "previewUrl": "https://screenshots.webflow.com/sites/6903e357b552c2ec9e6a0eed/20251108181748_0789daec807400f52674decc7f1f796b.png",
+      "timeZone": "America/New_York",
+      "createdOn": "2025-10-30T22:14:49.063Z",
+      "lastUpdated": "2025-11-08T18:18:24.186Z",
+      "lastPublished": "2025-11-08T18:17:47.693Z",
+      "parentFolderId": null,
+      "customDomains": [],
+      "locales": {
+        "primary": {
+          "id": "6903e357b552c2ec9e6a0f28",
+          "cmsLocaleId": "6903e357b552c2ec9e6a0ef0",
+          "enabled": false,
+          "displayName": "English",
+          "displayImageId": null,
+          "redirect": true,
+          "subdirectory": "en",
+          "tag": "en"
+        },
+        "secondary": []
+      },
+      "dataCollectionEnabled": false,
+      "dataCollectionType": "always"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "name",
+  "slug": "slug",
+  "subtitle": "",
+  "source": "source",
+  "author": "author",
+  "link": "source-url",
+  "thumbnail": "thumbnail-image",
+  "tags": "tags",
+  "category": "category",
+  "description": "post-summary",
+  "access": "access",
+  "source_type": "source-type",
+  "license": "license",
+  "last_checked": "last-checked",
+  "language": "language"
+}
