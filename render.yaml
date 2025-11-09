@@ -1,0 +1,19 @@
+# Render.com deployment configuration
+# This enables one-click deploy to Render
+
+services:
+  - type: web
+    name: webflow-cms-automation
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: WEBFLOW_TOKEN
+        sync: false
+      - key: PORT
+        value: 10000
+    healthCheckPath: /health
+

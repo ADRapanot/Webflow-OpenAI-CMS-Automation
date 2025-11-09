@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List
 
-import requests
+from openai import OpenAI
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
@@ -20,46 +20,39 @@ def encode_image(image_path: str) -> str:
 
 def analyze_image(image_path: str, keywords: str, api_key: str) -> Dict:
     try:
+        client = OpenAI(api_key=api_key)
         base64_image = encode_image(image_path)
         
-        response = requests.post(
-            "https://api.openai.com/v1/chat/completions",
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {api_key}"
-            },
-            json={
-                "model": "gpt-5",
-                "messages": [{
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": f"""Rate how well this image matches these keywords: "{keywords}"
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": f"""Rate how well this image matches these keywords: "{keywords}"
 
 Respond with JSON only:
 {{
   "score": <0-100>,
   "reasoning": "<brief explanation>"
 }}"""
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/jpeg;base64,{base64_image}",
-                                "detail": "low"
-                            }
+                    },
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}",
+                            "detail": "low"
                         }
-                    ]
-                }],
-                "max_tokens": 300
-            },
-            timeout=60
+                    }
+                ]
+            }],
+            max_tokens=300
         )
-        response.raise_for_status()
         
-        content = response.json()['choices'][0]['message']['content']
+        content = response.choices[0].message.content
         
+        # Clean up potential markdown formatting
         content = content.strip()
         if content.startswith('```json'):
             content = content[7:]
@@ -79,11 +72,8 @@ Respond with JSON only:
     except json.JSONDecodeError as e:
         logging.error(f"JSON parse error: {e}")
         return {'score': 0, 'reasoning': f'JSON error: {str(e)}'}
-    except requests.RequestException as e:
-        logging.error(f"API request error: {e}")
-        return {'score': 0, 'reasoning': f'API error: {str(e)}'}
     except Exception as e:
-        logging.error(f"Unexpected error: {e}")
+        logging.error(f"API request error: {e}")
         return {'score': 0, 'reasoning': f'Error: {str(e)}'}
 
 

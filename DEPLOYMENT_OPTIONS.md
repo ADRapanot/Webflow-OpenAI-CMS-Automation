@@ -1,74 +1,24 @@
 # 🚀 Deployment Options Overview
 
-Your project now supports multiple deployment methods. Choose the one that best fits your needs!
+Your project supports multiple deployment methods. Choose the one that best fits your needs!
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    DEPLOYMENT OPTIONS                           │
 └─────────────────────────────────────────────────────────────────┘
 
-    ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-    │   HEROKU     │      │    DOCKER    │      │   MANUAL     │
-    │  (Cloud)     │      │  (Container) │      │   (Server)   │
-    └──────────────┘      └──────────────┘      └──────────────┘
-          │                     │                      │
-          ▼                     ▼                      ▼
-    Easy Deploy          Cross-Platform        Full Control
-    Auto-scaling         Reproducible          Any Server
-    Managed Chrome       Local or Cloud        Custom Setup
+         ┌──────────────┐              ┌──────────────┐
+         │    DOCKER    │              │   MANUAL     │
+         │  (Container) │              │   (Server)   │
+         └──────────────┘              └──────────────┘
+               │                             │
+               ▼                             ▼
+         Cross-Platform                Full Control
+         Reproducible                  Any Server
+         Local or Cloud                Custom Setup
 ```
 
-## 🌟 Option 1: Heroku (Recommended for Cloud)
-
-**Best for:** Production deployment, easy scaling, managed infrastructure
-
-### Quick Deploy Methods:
-
-#### A. One-Click Deploy 🎯 **EASIEST**
-1. Click: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-2. Enter API keys
-3. Done! ✅
-
-#### B. Automated Script 🤖 **FAST**
-```bash
-# Windows
-deploy-heroku.bat
-
-# Mac/Linux
-./deploy-heroku.sh
-```
-
-#### C. Manual Heroku CLI 🔧 **FULL CONTROL**
-```bash
-heroku create your-app-name
-heroku buildpacks:add https://github.com/heroku/heroku-buildpack-google-chrome
-heroku buildpacks:add https://github.com/heroku/heroku-buildpack-chromedriver
-heroku buildpacks:add heroku/python
-heroku config:set OPENAI_API_KEY=xxx WEBFLOW_TOKEN=xxx
-git push heroku master
-```
-
-### ✅ Pros:
-- Managed Chrome/ChromeDriver (no manual install)
-- Auto-scaling
-- Free tier available
-- SSL/HTTPS included
-- Easy monitoring
-- One-command deployment
-
-### ❌ Cons:
-- Costs money for always-on (Basic: $7/mo)
-- Free tier has sleep delays
-- Limited customization
-
-### 📚 Documentation:
-- Quick Start: [`HEROKU_QUICKSTART.md`](HEROKU_QUICKSTART.md)
-- Full Guide: [`HEROKU_DEPLOYMENT.md`](HEROKU_DEPLOYMENT.md)
-- Setup Summary: [`HEROKU_SETUP_SUMMARY.md`](HEROKU_SETUP_SUMMARY.md)
-
----
-
-## 🐳 Option 2: Docker
+## 🐳 Option 1: Docker
 
 **Best for:** Local development, reproducible environments, any cloud provider
 
@@ -104,7 +54,7 @@ docker run -d -p 5000:5000 \
 
 ---
 
-## 🖥️ Option 3: Manual Server Deployment
+## 🖥️ Option 2: Manual Server Deployment
 
 **Best for:** Custom servers, existing infrastructure, full control
 
@@ -148,29 +98,22 @@ gunicorn server:app --bind 0.0.0.0:5000 --timeout 300
 
 ## 📊 Comparison Table
 
-| Feature | Heroku | Docker | Manual |
-|---------|--------|--------|--------|
-| **Setup Time** | 5 min ⚡ | 15 min ⚙️ | 30+ min 🔧 |
-| **Ease of Use** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Chrome Setup** | Auto ✅ | Auto ✅ | Manual ⚠️ |
-| **Cost** | $0-25/mo | $0* | $0* |
-| **Scaling** | Auto ✅ | Manual | Manual |
-| **SSL/HTTPS** | Auto ✅ | Manual | Manual |
-| **Monitoring** | Built-in ✅ | DIY | DIY |
-| **Best For** | Production | Dev/Any Cloud | Custom Needs |
+| Feature | Docker | Manual |
+|---------|--------|--------|
+| **Setup Time** | 15 min ⚙️ | 30+ min 🔧 |
+| **Ease of Use** | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Chrome Setup** | Auto ✅ | Manual ⚠️ |
+| **Cost** | $0* | $0* |
+| **Scaling** | Manual | Manual |
+| **SSL/HTTPS** | Manual | Manual |
+| **Monitoring** | DIY | DIY |
+| **Best For** | Dev/Any Cloud | Custom Needs |
 
 \* Infrastructure costs may apply
 
 ---
 
 ## 🎯 Decision Guide
-
-### Choose Heroku if:
-- ✅ You want quick cloud deployment
-- ✅ You don't want to manage infrastructure
-- ✅ You need auto-scaling
-- ✅ You're okay with monthly costs ($0-25)
-- ✅ You want built-in monitoring
 
 ### Choose Docker if:
 - ✅ You want to run locally first
@@ -189,11 +132,6 @@ gunicorn server:app --bind 0.0.0.0:5000 --timeout 300
 ---
 
 ## 🚦 Getting Started - Step by Step
-
-### For Beginners → Heroku
-1. Read: [`HEROKU_QUICKSTART.md`](HEROKU_QUICKSTART.md)
-2. Run: `deploy-heroku.bat` (Windows) or `./deploy-heroku.sh` (Mac/Linux)
-3. Test: `curl https://your-app.herokuapp.com/health`
 
 ### For Docker Users → Docker
 1. Read: [`DOCKER.md`](DOCKER.md)
@@ -240,22 +178,19 @@ No matter which deployment method you choose, you need:
 
 | Issue | See Documentation |
 |-------|-------------------|
-| Heroku deployment | [`HEROKU_DEPLOYMENT.md`](HEROKU_DEPLOYMENT.md) |
 | Docker deployment | [`DOCKER.md`](DOCKER.md) |
 | General usage | [`README.md`](README.md) |
-| Quick troubleshooting | [`HEROKU_QUICKSTART.md`](HEROKU_QUICKSTART.md) |
 
 ---
 
 ## 🎉 Ready to Deploy?
 
-Pick your method above and follow the documentation. All three methods will get you to a working deployment!
+Pick your method above and follow the documentation. Both methods will get you to a working deployment!
 
 **Recommended path for most users:**
-1. Start with Heroku (easiest)
-2. Test with free tier
-3. Upgrade to Basic dyno ($7/mo) for production
-4. Switch to Docker/Manual later if needed
+1. Start with Docker for local testing
+2. Deploy to production using Docker or manual setup
+3. Choose based on your infrastructure needs
 
 Good luck! 🚀
 

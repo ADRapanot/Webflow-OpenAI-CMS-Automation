@@ -14,6 +14,10 @@ from typing import Dict, List, Any
 
 import requests
 from flask import Flask, request, jsonify
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 from scrape_images_js import scrape_images_with_js
 from select_best_image import analyze_image
@@ -504,6 +508,21 @@ def webhook_endpoint():
 def health():
     """Health check endpoint."""
     return jsonify({'status': 'ok'})
+
+
+@app.route('/debug/env', methods=['GET'])
+def debug_env():
+    """Debug endpoint to check if environment variables are loaded (for troubleshooting)."""
+    openai_key = os.getenv("OPENAI_API_KEY")
+    webflow_token = os.getenv("WEBFLOW_TOKEN")
+    
+    return jsonify({
+        'openai_key_set': bool(openai_key),
+        'openai_key_prefix': openai_key[:7] if openai_key else None,
+        'webflow_token_set': bool(webflow_token),
+        'webflow_token_length': len(webflow_token) if webflow_token else 0,
+        'all_env_vars': list(os.environ.keys())  # List all available env vars
+    })
 
 
 if __name__ == "__main__":

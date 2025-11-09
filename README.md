@@ -310,30 +310,33 @@ All operations are logged with appropriate levels:
 
 ## Production Deployment
 
-### Deploy to Heroku (Recommended)
+### 🆓 FREE Cloud Hosting (No Credit Card Required) ⭐ **EASIEST**
 
-The easiest way to deploy this service is using Heroku. See **[HEROKU_DEPLOYMENT.md](HEROKU_DEPLOYMENT.md)** for detailed instructions.
+Deploy to **Render.com** or other free platforms - **no payment method needed!**
 
-Quick deploy:
+**[➡️ See FREE_HOSTING_OPTIONS.md for all free platforms](FREE_HOSTING_OPTIONS.md)**
 
-```bash
-# Use the automated script
-./deploy-heroku.sh
+**Quick Deploy to Render.com** (5 minutes, completely free):
 
-# Or manually
-heroku create your-app-name
-heroku buildpacks:add https://github.com/heroku/heroku-buildpack-google-chrome
-heroku buildpacks:add https://github.com/heroku/heroku-buildpack-chromedriver
-heroku buildpacks:add heroku/python
-heroku config:set OPENAI_API_KEY=your-key WEBFLOW_TOKEN=your-token
-git push heroku master
-```
+1. Push code to GitHub
+2. Sign up at [Render.com](https://render.com) (free, no credit card)
+3. New Web Service → Connect your repo
+4. Add env vars: `OPENAI_API_KEY`, `WEBFLOW_TOKEN`
+5. Deploy! ✅
 
-Or click here: [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+**[📖 Full Render.com Guide](RENDER_DEPLOYMENT.md)** | **[🆓 All Free Options](FREE_HOSTING_OPTIONS.md)**
 
-### Custom Server Deployment
+**Other Free Platforms:**
 
-If you prefer to deploy on your own server:
+- Railway.app - Easy setup, $5 monthly credit
+- Fly.io - Global deployment
+- **All details:** [FREE_HOSTING_OPTIONS.md](FREE_HOSTING_OPTIONS.md)
+
+---
+
+### 🖥️ Custom Server Deployment
+
+For deploying on your own server with full control:
 
 1. Set all required environment variables
 2. Ensure ChromeDriver is installed and in PATH
