@@ -1,0 +1,58 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Documentation (already removed but just in case)
+*.md
+
+# Test files
+test_*.py
+
+# Temporary data directories
+images/*
+best_match/*
+content/*
+
+# Keep directory structure but ignore contents
+!images/.gitkeep
+!best_match/.gitkeep
+!content/.gitkeep
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Environment files (don't include in image)
+.env
+.env.*
+
+
+

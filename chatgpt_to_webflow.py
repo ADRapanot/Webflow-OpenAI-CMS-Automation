@@ -183,9 +183,9 @@ class DashboardGenerator:
                     "source (organization), author (team or department), "
                     "link (direct dashboard URL), thumbnail (valid image URL), "
                     "tags (2-5 lowercase keywords), category (top-level classification), "
-                    "description (80-150 words), access (e.g., public, gated), source_type (gov_open_data, vendor, community, etc.), "
+                    "description (under 320 letters), access (e.g., public, gated), source_type (gov_open_data, vendor, community, etc.), "
                     "license (if unknown use null), last_checked (ISO date for today), language (ISO 639-1 code).\n"
-                    "Only include entries where both the dashboard link and thumbnail are known to exist."
+                    "Only include entries where both the dashboard link and thumbnail are known to exist.and give me as json type"
                 ),
             },
         ]

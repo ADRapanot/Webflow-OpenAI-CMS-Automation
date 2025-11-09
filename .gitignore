@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+*_token.txt
+*_key.txt
+credentials/
+
+# Generated/Temporary Files
+collection_schema_*.json
+staging_payloads/
+*.log
+logs/
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional: Uncomment to ignore scraped images
+# best_match/*/
+# images/*.jpg
+# images/*.png
+

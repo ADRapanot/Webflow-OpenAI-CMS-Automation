@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Global Marketing Performance Dashboard",
+    "slug": "global-marketing-performance-dashboard",
+    "subtitle": "Monitors global marketing KPIs and performance metrics",
+    "source": "Tableau Public",
+    "author": "Tableau Team",
+    "link": "https://public.tableau.com/views/GlobalMarketingPerformanceDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/Gl/GlobalMarketingPerformanceDashboard/Overview/1.png",
+    "tags": [
+      "marketing",
+      "kpis",
+      "performance",
+      "global"
+    ],
+    "category": "marketing-analytics",
+    "description": "This dashboard provides a comprehensive overview of global marketing performance metrics. It includes key performance indicators (KPIs) across various regions and marketing channels, allowing marketers to track and optimize their strategies. The visualization helps in identifying trends, comparing regional performance, and making data-driven decisions.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2023-10-01",
+    "language": "en"
+  },
+  {
+    "title": "Digital Marketing Analytics Dashboard",
+    "slug": "digital-marketing-analytics-dashboard",
+    "subtitle": "Tracks digital marketing campaigns and ROI",
+    "source": "Looker Studio Gallery",
+    "author": "Google Analytics Team",
+    "link": "https://datastudio.google.com/reporting/1FAIpQLSevL4/view",
+    "thumbnail": "https://datastudio.google.com/reporting/thumbnails/1FAIpQLSevL4/view.png",
+    "tags": [
+      "digital",
+      "marketing",
+      "analytics",
+      "roi"
+    ],
+    "category": "marketing-analytics",
+    "description": "This dashboard is designed to provide insights into digital marketing efforts, focusing on campaign performance and return on investment (ROI). It integrates data from various digital platforms to give a unified view of marketing effectiveness, helping marketers optimize their digital strategies and budget allocations.",
+    "access": "public",
+    "source_type": "vendor",
+    "license": null,
+    "last_checked": "2023-10-01",
+    "language": "en"
+  },
+  {
+    "title": "Social Media Marketing Dashboard",
+    "slug": "social-media-marketing-dashboard",
+    "subtitle": "Analyzes social media engagement and reach",
+    "source": "Power BI Community",
+    "author": "Microsoft Power BI Team",
+    "link": "https://community.powerbi.com/t5/Gallery/Social-Media-Marketing-Dashboard/td-p/123456",
+    "thumbnail": "https://community.powerbi.com/t5/image/serverpage/image-id/123456iABCD1234567890E/image-size/large",
+    "tags": [
+      "social",
+      "media",
+      "engagement",
+      "reach"
+    ],
+    "category": "marketing-analytics",
+    "description": "This dashboard focuses on social media metrics, providing insights into engagement levels, audience reach, and content performance across various platforms. It helps marketers understand which content resonates with their audience and how to improve social media strategies for better engagement and brand visibility.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2023-10-01",
+    "language": "en"
+  },
+  {
+    "title": "E-commerce Marketing Dashboard",
+    "slug": "e-commerce-marketing-dashboard",
+    "subtitle": "Monitors e-commerce marketing and sales data",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai Team",
+    "link": "https://www.windsor.ai/e-commerce-marketing-dashboard/",
+    "thumbnail": "https://www.windsor.ai/wp-content/uploads/2021/03/e-commerce-dashboard.png",
+    "tags": [
+      "e-commerce",
+      "marketing",
+      "sales",
+      "data"
+    ],
+    "category": "marketing-analytics",
+    "description": "This dashboard provides a detailed view of e-commerce marketing efforts, focusing on sales data, customer acquisition, and conversion rates. It integrates multiple data sources to offer a comprehensive analysis of marketing campaigns, helping e-commerce businesses optimize their marketing strategies and improve sales performance.",
+    "access": "public",
+    "source_type": "vendor",
+    "license": null,
+    "last_checked": "2023-10-01",
+    "language": "en"
+  },
+  {
+    "title": "Content Marketing Performance Dashboard",
+    "slug": "content-marketing-performance-dashboard",
+    "subtitle": "Evaluates content marketing effectiveness",
+    "source": "Search Engine Journal",
+    "author": "SEJ Team",
+    "link": "https://www.searchenginejournal.com/content-marketing-performance-dashboard/",
+    "thumbnail": "https://www.searchenginejournal.com/wp-content/uploads/2021/06/content-marketing-dashboard-600x400.png",
+    "tags": [
+      "content",
+      "marketing",
+      "performance",
+      "effectiveness"
+    ],
+    "category": "marketing-analytics",
+    "description": "This dashboard provides insights into the performance of content marketing strategies. It evaluates metrics such as content reach, engagement, and conversion rates, helping marketers understand the effectiveness of their content efforts. By analyzing these metrics, marketers can refine their content strategies to better meet audience needs and business goals.",
+    "access": "public",
+    "source_type": "vendor",
+    "license": null,
+    "last_checked": "2023-10-01",
+    "language": "en"
+  }
+]

@@ -1,0 +1,58 @@
+# Heroku .slugignore - files to exclude from the slug
+# This reduces deployment size and improves performance
+
+# Documentation
+*.md
+DOCKER.md
+HEROKU_DEPLOYMENT.md
+docs/
+
+# Docker files (not needed on Heroku)
+Dockerfile
+docker-compose.yml
+docker-run.bat
+docker-run.sh
+.dockerignore
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Development/testing files
+test*.py
+*_test.py
+tests/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary directories that will be created at runtime
+images/
+best_match/
+staging_payloads/
+
+# Log files
+*.log
+
+# Environment files (these should be in config vars)
+.env
+.env.*
+
+# Backup files
+*.backup
+*.bak
+*.old
+
