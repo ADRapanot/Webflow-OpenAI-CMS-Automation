@@ -11,7 +11,7 @@ from chatgpt_to_webflow import DashboardGenerator
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-    api_key = "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"
+    api_key = "API Key"
     if not api_key:
         raise RuntimeError("Set OPENAI_API_KEY in your environment before running this script.")
 
