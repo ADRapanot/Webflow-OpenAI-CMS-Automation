@@ -333,15 +333,54 @@ def webhook_endpoint():
     Extracts slug/category from fieldData, generates items using GPT, processes each, and posts to Webflow.
     """
     try:
-        data = request.get_json()
+        data = request.get_json(silent=True)
+        
+        if data is None:
+            # Fallback: handle application/x-www-form-urlencoded (or other form submissions)
+            if request.form:
+                form_dict = {}
+                for key in request.form.keys():
+                    values = request.form.getlist(key)
+                    parsed_values = []
+                    for value in values:
+                        value = value.strip()
+                        if not value:
+                            parsed_values.append(value)
+                            continue
+                        try:
+                            parsed_values.append(json.loads(value))
+                        except json.JSONDecodeError:
+                            parsed_values.append(value)
+                    form_dict[key] = parsed_values[0] if len(parsed_values) == 1 else parsed_values
+                data = form_dict or None
+            elif request.data:
+                # Attempt to parse raw payload as JSON string
+                raw_payload = request.data.decode("utf-8").strip()
+                if raw_payload:
+                    try:
+                        data = json.loads(raw_payload)
+                    except json.JSONDecodeError:
+                        data = None
         
         if not data:
-            return jsonify({'error': 'No JSON data provided'}), 400
+            return jsonify({'error': 'No data provided'}), 400
         
         collection_id = data.get('collection_id')
         site_id = data.get('site_id')
         field_data = data.get('fieldData', {})
-        count = data.get('count', 15)
+        if isinstance(field_data, str):
+            try:
+                field_data = json.loads(field_data)
+            except json.JSONDecodeError:
+                return jsonify({'error': 'fieldData must be valid JSON'}), 400
+        elif not isinstance(field_data, dict):
+            return jsonify({'error': 'fieldData must be an object'}), 400
+        
+        raw_count = data.get('count', 15)
+        try:
+            count = int(raw_count)
+        except (TypeError, ValueError):
+            return jsonify({'error': 'count must be an integer'}), 400
         
         # Extract topic from fieldData (slug or category)
         topic = field_data.get('title', '') + ' ' + field_data.get('slug', '') + ' ' + field_data.get('category', '') + ' ' + field_data.get('description', '')
