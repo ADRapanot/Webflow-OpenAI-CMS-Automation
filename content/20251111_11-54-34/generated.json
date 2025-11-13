@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Windsor Marketing Dashboard",
+    "slug": "windsor-marketing-dashboard",
+    "subtitle": "High-level marketing overview with traffic, engagement, and conversion trends",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketingDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketingDashboard/Overview/4_3.png",
+    "tags": [
+      "analytics",
+      "overview"
+    ],
+    "category": "Marketing",
+    "description": "An executive marketing dashboard summarizing key KPIs across acquisition, engagement, and conversions for a Windsor-themed dataset.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Web Analytics | Marketing Dashboard",
+    "slug": "web-analytics-marketing-dashboard",
+    "subtitle": "Traffic sources, behavior, and conversion funnel for web analytics",
+    "source": "Tableau Public",
+    "author": "Aurora Malinauskaite",
+    "link": "https://public.tableau.com/app/profile/aurora.malinauskaite/viz/WebAnalyticsMarketingDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/We/WebAnalyticsMarketingDashboard/Overview/4_3.png",
+    "tags": [
+      "web",
+      "funnels"
+    ],
+    "category": "Marketing",
+    "description": "A marketing analytics dashboard focusing on web traffic, acquisition channels, user behavior, and conversion funnel metrics.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Analytics Marketing Dashboard",
+    "slug": "google-analytics-marketing-dashboard-lovelytics",
+    "subtitle": "Multi-dimensional Google Analytics overview by Lovelytics",
+    "source": "Tableau Public",
+    "author": "Lovelytics",
+    "link": "https://public.tableau.com/app/profile/lovelytics/viz/GoogleAnalyticsMarketingDashboard_16281050069760/GoogleAnalytics",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAnalyticsMarketingDashboard_16281050069760/GoogleAnalytics/4_3.png",
+    "tags": [
+      "ga",
+      "acquisition"
+    ],
+    "category": "Marketing",
+    "description": "A Google Analytics dashboard highlighting sessions, users, channels, and behavior metrics for marketing analysis.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Windsor Marketing - Google Ads",
+    "slug": "windsor-marketing-google-ads",
+    "subtitle": "Campaign and keyword performance for Google Ads",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketing-GoogleAds/GoogleAds",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketing-GoogleAds/GoogleAds/4_3.png",
+    "tags": [
+      "google-ads",
+      "campaigns"
+    ],
+    "category": "Marketing",
+    "description": "Google Ads performance view including spend, clicks, CTR, conversions, and keyword-level insights for the Windsor dataset.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "DIGITAL MARKETING - Google Ads",
+    "slug": "digital-marketing-google-ads-accelerator",
+    "subtitle": "Tableau Accelerator for Google Ads performance monitoring",
+    "source": "Tableau Public",
+    "author": "Tableau Accelerators",
+    "link": "https://public.tableau.com/app/profile/lintao/viz/GoogleAdsDashboard/Home",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAdsDashboard/Home/4_3.png",
+    "tags": [
+      "google-ads",
+      "accelerator"
+    ],
+    "category": "Marketing",
+    "description": "A ready-to-use Google Ads Accelerator featuring spend, impressions, clicks, conversions, and CPC/CPA benchmarking across campaigns.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Marketing Dashboard- google Ad word",
+    "slug": "marketing-dashboard-google-adword",
+    "subtitle": "Google AdWords campaign and KPI summary",
+    "source": "Tableau Public",
+    "author": "Janmajay Naik",
+    "link": "https://public.tableau.com/app/profile/janmajay.naik/viz/MarketingDashboard-googleAdword/Dashboard1",
+    "thumbnail": "https://public.tableau.com/static/images/Ma/MarketingDashboard-googleAdword/Dashboard1/4_3.png",
+    "tags": [
+      "adwords",
+      "kpis"
+    ],
+    "category": "Marketing",
+    "description": "A marketing dashboard centered on Google AdWords metrics with campaign-level KPIs such as spend, CTR, and conversions.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Analytics Marketing Dashboard",
+    "slug": "google-analytics-marketing-dashboard-fungi",
+    "subtitle": "Multi-dimensional GA dashboard by Fungi Marketing",
+    "source": "Tableau Public",
+    "author": "Fungi Marketing",
+    "link": "https://public.tableau.com/app/profile/fungi.marketing/viz/GoogleAnalyticsMarketingDashboard_0/Muli-DimensionalDashboard",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAnalyticsMarketingDashboard_0/Muli-DimensionalDashboard/4_3.png",
+    "tags": [
+      "ga",
+      "traffic"
+    ],
+    "category": "Marketing",
+    "description": "Google Analytics dashboard covering traffic sources, sessions, users, and engagement for marketing reporting.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Ad Spend and Campaign Performance - Accelerator",
+    "slug": "google-ad-spend-and-campaign-performance-accelerator",
+    "subtitle": "Spend, clicks, conversions and efficiency KPIs",
+    "source": "Tableau Public",
+    "author": "Ifeoma Uwadia",
+    "link": "https://public.tableau.com/app/profile/ify2820/viz/GoogleAdSpendandCampaignPerformance-Accelerator/Home",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAdSpendandCampaignPerformance-Accelerator/Home/4_3.png",
+    "tags": [
+      "google-ads",
+      "spend"
+    ],
+    "category": "Marketing",
+    "description": "An accelerator-style dashboard for monitoring Google Ads spend, performance, and efficiency across campaigns and time.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Windsor Marketing - Facebook Ads",
+    "slug": "windsor-marketing-facebook-ads",
+    "subtitle": "Paid social performance for Windsor campaigns",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketing-FacebookAds/FacebookAds",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketing-FacebookAds/FacebookAds/4_3.png",
+    "tags": [
+      "facebook",
+      "paid-social"
+    ],
+    "category": "Marketing",
+    "description": "A Facebook Ads dashboard covering spend, impressions, clicks, and conversion metrics for Windsor paid social campaigns.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Analytics Marketing Dashboard",
+    "slug": "google-analytics-marketing-dashboard-silvertone",
+    "subtitle": "Silvertone Analytics’ GA performance view",
+    "source": "Tableau Public",
+    "author": "Silvertone Analytics",
+    "link": "https://public.tableau.com/app/profile/silvertone.analytics/viz/GoogleAnalyticsMarketingDashboard/Muli-DimensionalDashboard",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAnalyticsMarketingDashboard/Muli-DimensionalDashboard/4_3.png",
+    "tags": [
+      "ga",
+      "channels"
+    ],
+    "category": "Marketing",
+    "description": "A Google Analytics dashboard featuring channel mix, sessions, users, and key engagement KPIs for marketing teams.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  }
+]

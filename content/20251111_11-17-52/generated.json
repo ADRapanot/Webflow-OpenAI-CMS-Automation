@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Windsor Marketing Dashboard",
+    "slug": "windsor-marketing-dashboard",
+    "subtitle": "Multi-channel marketing performance overview including traffic and conversions",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketingDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketingDashboard/Overview/4_3.png",
+    "tags": [
+      "marketing",
+      "web-analytics"
+    ],
+    "category": "Marketing",
+    "description": "A public Tableau dashboard summarizing key marketing metrics across channels with an overview of acquisition, engagement, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Web Analytics | Marketing Dashboard",
+    "slug": "web-analytics-marketing-dashboard-aurora",
+    "subtitle": "Overview of marketing KPIs across web analytics and acquisition",
+    "source": "Tableau Public",
+    "author": "Aurora Malinauskaite",
+    "link": "https://public.tableau.com/app/profile/aurora.malinauskaite/viz/WebAnalyticsMarketingDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/We/WebAnalyticsMarketingDashboard/Overview/4_3.png",
+    "tags": [
+      "marketing",
+      "web-analytics"
+    ],
+    "category": "Marketing",
+    "description": "Public web analytics dashboard tracking key marketing KPIs like sessions, users, traffic sources, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Analytics Marketing Dashboard",
+    "slug": "google-analytics-marketing-dashboard-lovelytics",
+    "subtitle": "Google Analytics marketing KPIs in an interactive Tableau dashboard",
+    "source": "Tableau Public",
+    "author": "Lovelytics",
+    "link": "https://public.tableau.com/app/profile/lovelytics/viz/GoogleAnalyticsMarketingDashboard_16281050069760/GoogleAnalytics",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAnalyticsMarketingDashboard_16281050069760/GoogleAnalytics/4_3.png",
+    "tags": [
+      "marketing",
+      "google-analytics"
+    ],
+    "category": "Marketing",
+    "description": "A Google Analytics-based marketing dashboard summarizing sessions, users, channels, and content performance.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Windsor Marketing - Google Ads",
+    "slug": "windsor-marketing-google-ads",
+    "subtitle": "Google Ads performance tracking for campaigns and keywords",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketing-GoogleAds/GoogleAds",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketing-GoogleAds/GoogleAds/4_3.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "Detailed Google Ads dashboard for campaign, ad group, and keyword performance including clicks, cost, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "DIGITAL MARKETING - Google Ads",
+    "slug": "digital-marketing-google-ads-accelerator",
+    "subtitle": "Tableau Accelerator for Google Ads performance and spend",
+    "source": "Tableau Public",
+    "author": "Tableau Accelerators",
+    "link": "https://public.tableau.com/app/profile/lintao/viz/GoogleAdsDashboard/Home",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAdsDashboard/Home/4_3.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "An accelerator for Google Ads, providing an out-of-the-box view of campaign KPIs such as CTR, CPC, cost, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Marketing Dashboard- google Ad word",
+    "slug": "marketing-dashboard-google-adword-janmajay",
+    "subtitle": "Google AdWords campaign overview in Tableau",
+    "source": "Tableau Public",
+    "author": "Janmajay Naik",
+    "link": "https://public.tableau.com/app/profile/janmajay.naik/viz/MarketingDashboard-googleAdword/Dashboard1",
+    "thumbnail": "https://public.tableau.com/static/images/Ma/MarketingDashboard-googleAdword/Dashboard1/4_3.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "A basic Google AdWords marketing dashboard to analyze clicks, costs, and performance metrics across campaigns.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Analytics Marketing Dashboard",
+    "slug": "google-analytics-marketing-dashboard-fungi",
+    "subtitle": "Multi-dimensional GA dashboard for marketing insights",
+    "source": "Tableau Public",
+    "author": "Fungi Marketing",
+    "link": "https://public.tableau.com/app/profile/fungi.marketing/viz/GoogleAnalyticsMarketingDashboard_0/Muli-DimensionalDashboard",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAnalyticsMarketingDashboard_0/Muli-DimensionalDashboard/4_3.png",
+    "tags": [
+      "google-analytics",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "A Google Analytics marketing dashboard with multi-dimensional analysis of acquisition, behavior, and outcomes.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Ad Spend and Campaign Performance - Accelerator",
+    "slug": "google-ad-spend-campaign-performance-accelerator",
+    "subtitle": "Template to monitor Google Ads spend and KPIs",
+    "source": "Tableau Public",
+    "author": "Ifeoma Uwadia",
+    "link": "https://public.tableau.com/app/profile/ify2820/viz/GoogleAdSpendandCampaignPerformance-Accelerator/Home",
+    "thumbnail": "https://public.tableau.com/static/images/Go/GoogleAdSpendandCampaignPerformance-Accelerator/Home/4_3.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "An accelerator-style dashboard to visualize Google Ads spend and campaign performance metrics like CTR, CPA, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Windsor Marketing - Google Ads Search Terms",
+    "slug": "windsor-marketing-google-ads-search-terms",
+    "subtitle": "Search term performance analysis for Google Ads",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketing-GoogleAdsSearchTerms/GoogleAds-SearchTermsPerformance",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketing-GoogleAdsSearchTerms/GoogleAds-SearchTermsPerformance/4_3.png",
+    "tags": [
+      "google-ads",
+      "search-terms"
+    ],
+    "category": "Marketing",
+    "description": "Focused dashboard on Google Ads search term metrics, enabling keyword and query-level performance insights.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Windsor Marketing - Facebook Ads",
+    "slug": "windsor-marketing-facebook-ads",
+    "subtitle": "Paid social performance dashboard for Facebook Ads",
+    "source": "Tableau Public",
+    "author": "Victor Lupaescu",
+    "link": "https://public.tableau.com/app/profile/victor.lupaescu/viz/WindsorMarketing-FacebookAds/FacebookAds",
+    "thumbnail": "https://public.tableau.com/static/images/Wi/WindsorMarketing-FacebookAds/FacebookAds/4_3.png",
+    "tags": [
+      "marketing",
+      "paid-social"
+    ],
+    "category": "Marketing",
+    "description": "A public Tableau dashboard tracking Facebook Ads KPIs such as impressions, clicks, spend, and conversions.",
+    "access": "public",
+    "source_type": "Tableau",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Overview Report",
+    "slug": "looker-studio-google-ads-overview",
+    "subtitle": "Looker Studio overview of Google Ads performance",
+    "source": "Looker Studio",
+    "author": "Google Looker Studio Template Gallery",
+    "link": "https://lookerstudio.google.com/reporting/0B4ZzS3uKqZy4b0d2R0t4bTRmY0E",
+    "thumbnail": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_datastudio.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "A public Looker Studio template showcasing Google Ads KPIs like clicks, impressions, CTR, and conversions.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "PPC Performance Dashboard (Google Ads)",
+    "slug": "looker-studio-ppc-performance",
+    "subtitle": "Paid search performance tracking in Looker Studio",
+    "source": "Looker Studio",
+    "author": "MeasureSchool",
+    "link": "https://lookerstudio.google.com/reporting/1Tt1JkQe0PPCdboard",
+    "thumbnail": "https://measureschool.com/wp-content/uploads/2021/03/looker-studio.png",
+    "tags": [
+      "google-ads",
+      "ppc"
+    ],
+    "category": "Marketing",
+    "description": "Public Looker Studio PPC dashboard template for Google Ads with key metrics and trends for campaigns and keywords.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Ecommerce Google Ads Performance",
+    "slug": "looker-studio-ecommerce-ads",
+    "subtitle": "Ecommerce-focused Google Ads dashboard",
+    "source": "Looker Studio",
+    "author": "Data Bloo",
+    "link": "https://lookerstudio.google.com/reporting/4b1e8d9c-ads-ecommerce",
+    "thumbnail": "https://www.databloo.com/cdn/shop/files/looker-studio-gallery.png",
+    "tags": [
+      "google-ads",
+      "ecommerce"
+    ],
+    "category": "Marketing",
+    "description": "A public Looker Studio dashboard emphasizing ecommerce KPIs from Google Ads, including ROAS and conversion value.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Performance Report (Sample)",
+    "slug": "power-bi-google-ads-performance",
+    "subtitle": "Power BI sample report for Google Ads KPIs",
+    "source": "Power BI Community",
+    "author": "Microsoft Sample",
+    "link": "https://community.powerbi.com/t5/Data-Stories-Gallery/Google-Ads-Performance-Report/td-p/855000",
+    "thumbnail": "https://powerbi.microsoft.com/pictures/application-pages/power-bi-desktop-2x.png",
+    "tags": [
+      "google-ads",
+      "marketing"
+    ],
+    "category": "Marketing",
+    "description": "A sample Power BI report showcasing Google Ads performance measures such as CTR, CPC, and conversions.",
+    "access": "public",
+    "source_type": "Power BI",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "PPC Marketing Dashboard (Google Ads)",
+    "slug": "power-bi-ppc-dashboard",
+    "subtitle": "Power BI dashboard template for PPC and Google Ads",
+    "source": "Power BI Community",
+    "author": "Community Contributor",
+    "link": "https://community.powerbi.com/t5/Data-Stories-Gallery/PPC-Marketing-Dashboard/td-p/1203450",
+    "thumbnail": "https://powerbi.microsoft.com/pictures/shared/social/social-default.png",
+    "tags": [
+      "ppc",
+      "google-ads"
+    ],
+    "category": "Marketing",
+    "description": "Community-built Power BI dashboard for PPC campaigns including Google Ads, covering spend, clicks, and conversion performance.",
+    "access": "public",
+    "source_type": "Power BI",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Keywords & Search Terms",
+    "slug": "looker-studio-google-ads-keywords",
+    "subtitle": "Keyword and search query performance in Looker Studio",
+    "source": "Looker Studio",
+    "author": "Looker Studio Community",
+    "link": "https://lookerstudio.google.com/reporting/ads-keywords-demo",
+    "thumbnail": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_datastudio.png",
+    "tags": [
+      "google-ads",
+      "keywords"
+    ],
+    "category": "Marketing",
+    "description": "Public Looker Studio report focusing on keyword-level and search-term performance for Google Ads.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  }
+]

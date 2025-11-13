@@ -1,0 +1,2725 @@
+[
+  {
+    "thumbnail": "https://www.facebook.com/tr?id=1821841454733456&ev=PageView",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/destina.svg",
+    "source_link": "https://windsor.ai/destinations/",
+    "title": "",
+    "author": "",
+    "extra_text": "Destinations Looker Studio Power BI BigQuery Google Sheets View all"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/data_sources.svg",
+    "source_link": "https://windsor.ai/data-integration/",
+    "title": "",
+    "author": "",
+    "extra_text": "Data Sources Facebook Ads GA4 Google Ads Salesforce View all"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/windsor_mcp.svg",
+    "source_link": "https://windsor.ai/destinations/windsor-mcp-for-ai-insights/",
+    "title": "",
+    "author": "",
+    "extra_text": "Windsor MCP for AI Insights ChatGPT Claude Gemini Perplexity View all"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/about.svg",
+    "source_link": "https://windsor.ai/about/",
+    "title": "",
+    "author": "",
+    "extra_text": "About us Careers Contact us Security Customer Reviews Partners"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/careers.svg",
+    "source_link": "https://windsor.ai/careers/",
+    "title": "",
+    "author": "",
+    "extra_text": "Careers Contact us Security Customer Reviews Partners Affiliate Program"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/contact_us.svg",
+    "source_link": "https://windsor.ai/contact-us/",
+    "title": "",
+    "author": "",
+    "extra_text": "Contact us Security Customer Reviews Partners Affiliate Program Solution Partners"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/security.svg",
+    "source_link": "https://windsor.ai/security/",
+    "title": "",
+    "author": "",
+    "extra_text": "Security Customer Reviews Partners Affiliate Program Solution Partners Resources"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/reviews.svg",
+    "source_link": "https://windsor.ai/customer-reviews/",
+    "title": "",
+    "author": "",
+    "extra_text": "Customer Reviews Partners Affiliate Program Solution Partners Resources Template Gallery"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/11/afil.svg",
+    "source_link": "https://windsor.ai/affiliate/",
+    "title": "",
+    "author": "",
+    "extra_text": "Affiliate Program Solution Partners Resources Template Gallery Looker Studio Templates Power BI Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/11/solpart.svg",
+    "source_link": "https://windsor.ai/solution-partner-program/",
+    "title": "",
+    "author": "",
+    "extra_text": "Solution Partners Resources Template Gallery Looker Studio Templates Power BI Templates Excel Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/temp_gal.svg",
+    "source_link": "https://windsor.ai/template-gallery/",
+    "title": "",
+    "author": "",
+    "extra_text": "Template Gallery Looker Studio Templates Power BI Templates Excel Templates Google Sheets Templates Tableau Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/looker.svg",
+    "source_link": "https://windsor.ai/data-studio-template-gallery/",
+    "title": "",
+    "author": "",
+    "extra_text": "Looker Studio Templates Power BI Templates Excel Templates Google Sheets Templates Tableau Templates Facebook Ads Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/power.png.webp",
+    "source_link": "https://windsor.ai/powerbi-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI Templates Excel Templates Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/excel.png.webp",
+    "source_link": "https://windsor.ai/excel-dashboard-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Excel Templates Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates View all"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/sheets.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-dashboard-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates View all Data Fields & Metrics"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/tabl.svg",
+    "source_link": "https://windsor.ai/tableau-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Tableau Templates Facebook Ads Templates Google Ads Templates View all Data Fields & Metrics API Documentation"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/faceb.svg",
+    "source_link": "https://windsor.ai/template-gallery/facebook-ads-dashboard-reports/",
+    "title": "",
+    "author": "",
+    "extra_text": "Facebook Ads Templates Google Ads Templates View all Data Fields & Metrics API Documentation Product Documentation"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/google.svg",
+    "source_link": "https://windsor.ai/template-gallery/google-ads-dashboard-reports/",
+    "title": "",
+    "author": "",
+    "extra_text": "Google Ads Templates View all Data Fields & Metrics API Documentation Product Documentation Case Studies"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/dat_f.svg",
+    "source_link": "https://windsor.ai/data-field/all/",
+    "title": "",
+    "author": "",
+    "extra_text": "Data Fields & Metrics API Documentation Product Documentation Case Studies Blog Product Updates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/api_doc.svg",
+    "source_link": "https://windsor.ai/api-documentation/",
+    "title": "",
+    "author": "",
+    "extra_text": "API Documentation Product Documentation Case Studies Blog Product Updates Help & Community"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/prod_doc.svg",
+    "source_link": "https://windsor.ai/documentation/",
+    "title": "",
+    "author": "",
+    "extra_text": "Product Documentation Case Studies Blog Product Updates Help & Community Why Windsor"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/case.svg",
+    "source_link": "https://windsor.ai/case-studies/",
+    "title": "",
+    "author": "",
+    "extra_text": "Case Studies Blog Product Updates Help & Community Why Windsor Windsor vs Supermetrics"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/blog.svg",
+    "source_link": "https://windsor.ai/blog/",
+    "title": "",
+    "author": "",
+    "extra_text": "Blog Product Updates Help & Community Why Windsor Windsor vs Supermetrics Pricing"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/updates.svg",
+    "source_link": "https://windsor.ai/changelog/",
+    "title": "",
+    "author": "",
+    "extra_text": "Product Updates Help & Community Why Windsor Windsor vs Supermetrics Pricing .is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/help.svg",
+    "source_link": "https://windsor-ai.discourse.group/",
+    "title": "",
+    "author": "",
+    "extra_text": "Help & Community Why Windsor Windsor vs Supermetrics Pricing .is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-s"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/super.svg",
+    "source_link": "https://windsor.ai/windsor-vs-supermetrics/",
+    "title": "",
+    "author": "",
+    "extra_text": "Windsor vs Supermetrics Pricing .is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_rig"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/marketing-measurement-guide-1-640x360.jpg",
+    "source_link": "https://windsor.ai/marketing-measurement-guide/",
+    "title": "Marketing Measurement Guide",
+    "author": "",
+    "extra_text": "Marketing Measurement Guide: How to Extract Data-Driven Insights Instagram Ads Google Sheets dashboard template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-ads-template-for-google-sheets-640x360.jpg",
+    "source_link": "https://windsor.ai/instagram-ads-google-sheets-dashboard-template/",
+    "title": "instagram ads template for google sheets",
+    "author": "",
+    "extra_text": "Instagram Ads Google Sheets dashboard template Instagram Organic Google Sheets Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-page-insights-template-google-sheets-640x360.jpg",
+    "source_link": "https://windsor.ai/instagram-organic-google-sheets-dashboard-template/",
+    "title": "instagram page insights template google sheets",
+    "author": "",
+    "extra_text": "Instagram Organic Google Sheets Dashboard Template LinkedIn Page Google Sheets Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/Screen-Shot-2025-05-19-at-17.46.56-640x360.jpg",
+    "source_link": "https://windsor.ai/linkedin-page-google-sheets-report-template/",
+    "title": "google sheets linkedin page template windsor.ai",
+    "author": "",
+    "extra_text": "LinkedIn Page Google Sheets Report Template Facebook Page Insights Google Sheets Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/facebook-page-insights-template-2-640x360.jpg",
+    "source_link": "https://windsor.ai/facebook-page-insights-google-sheets-dashboard-template/",
+    "title": "facebook page insights template",
+    "author": "",
+    "extra_text": "Facebook Page Insights Google Sheets Dashboard Template Free LinkedIn Ads Dashboard Template on Power BI"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/linkedin-ads-dashboard-640x360.jpg",
+    "source_link": "https://windsor.ai/linkedin-ads-dashboard-template-power-bi/",
+    "title": "LinkedIn Ads Dashboard Template on Power BI",
+    "author": "",
+    "extra_text": "Free LinkedIn Ads Dashboard Template on Power BI Free Pinterest Ads Dashboard Template on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/pinterest-dashboard-640x360.jpg",
+    "source_link": "https://windsor.ai/pinterest-ads-dashboard-template-looker-studio/",
+    "title": "Free Pinterest Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Pinterest Ads Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/brand-awareness-640x360.jpg",
+    "source_link": "https://windsor.ai/brand-awareness-dashboard-templates-looker-studio/",
+    "title": "Free Brand Awareness Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Brand Awareness Dashboard Templates on Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/snapchat-dashboard-640x360.jpg",
+    "source_link": "https://windsor.ai/snapchat-ads-dashboard-template-looker-studio/",
+    "title": "Free Snapchat Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Snapchat Ads Dashboard Template on Looker Studio Free PPC Report Dashboard Template on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/ppc_dashboard_template-looker-640x360.jpg",
+    "source_link": "https://windsor.ai/ppc-dashboard-template-looker-studio/",
+    "title": "Free PPC Report Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free PPC Report Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/agency-report1-640x360.jpg",
+    "source_link": "https://windsor.ai/agency-report-dashboard-looker-studio/",
+    "title": "Marketing Agency Report Dashboard",
+    "author": "",
+    "extra_text": "Free Marketing Agency Report Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/twitter-looker-studio-1-640x360.jpg",
+    "source_link": "https://windsor.ai/twitter-dashboard-looker-studio/",
+    "title": "Free Twitter Ads Performance Dashboard on Looker Studio",
+    "author": "",
+    "extra_text": "Free X / Twitter Ads Performance Dashboard on Looker Studio Instagram Followers Tracker Analytics Looker Studio Dashboard"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/instagram-folowers-tracker-640x360.png",
+    "source_link": "https://windsor.ai/instagram-followers-tracking-dashboard/",
+    "title": "Instagram Followers Tracker Dashboard Templates",
+    "author": "",
+    "extra_text": "Instagram Followers Tracker Analytics Looker Studio Dashboard Power BI Facebook Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/11/power_bi_facebook_ads_report_1-640x360.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-report-dashboard-template/",
+    "title": "power bi facebook ads report 1",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads Report Dashboard Template Facebook Ads Report Template for Google Sheets"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Facebook-Ads-Dashboard-e1681890886204-640x360.png",
+    "source_link": "https://windsor.ai/google-sheets-facebook-ads-overview-report/",
+    "title": "Facebook Ads Dashboard",
+    "author": "",
+    "extra_text": "Facebook Ads Report Template for Google Sheets Meta Ads Template for Power BI"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Screenshot-Campaigns-640x360.png",
+    "source_link": "https://windsor.ai/meta-ads-template-for-power-bi/",
+    "title": "Screenshot Campaigns",
+    "author": "",
+    "extra_text": "Meta Ads Template for Power BI Looker Studio Painel Para Negócios Locais"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/negocios-locais-640x360.png",
+    "source_link": "https://windsor.ai/looker-studio-painel-para-negocios-locais/",
+    "title": "negocios locais",
+    "author": "",
+    "extra_text": "Looker Studio Painel Para Negócios Locais Looker Studio LinkedIn Ads Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/LinkedIn-Ads-Overview-1-e1695906494679-640x360.png",
+    "source_link": "https://windsor.ai/looker-studio-linkedin-ads-dashboard-template/",
+    "title": "Looker Studio - LinkedIn Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Ads Dashboard Template Looker Studio Facebook Ads Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/08/Facebook-Ads-640x360.png",
+    "source_link": "https://windsor.ai/looker-studio-facebook-ads-dashboard-template/",
+    "title": "Facebook Ads Looker Studio template",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads Dashboard Template Power BI Paid Social Media Overview Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/Paid_Social_Overview_Dashboard-e1687970002148-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-paid-social-overview-dashboard-template/",
+    "title": "Paid_Social_Overview_Dashboard",
+    "author": "",
+    "extra_text": "Power BI Paid Social Media Overview Dashboard Template GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/e-commerce-overview-report-640x360.png",
+    "source_link": "https://windsor.ai/ga4-google-ads-bing-ads-meta-ads-pinterest-ads-e-commerce-overview-report/",
+    "title": "e-commerce overview report",
+    "author": "",
+    "extra_text": "GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Power BI Paid Media Overview Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/05/Paid-Media-Overview-Dashboard-e1685452465430-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-paid-media-overview-dashboard-template/",
+    "title": "Paid Media Overview Dashboard",
+    "author": "",
+    "extra_text": "Power BI Paid Media Overview Dashboard Template Power BI Facebook Leads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Facebook-Leads-Dashboard-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-leads-report-dashboard-template/",
+    "title": "Facebook Leads Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Facebook Leads Report Dashboard Template Power BI LinkedIn Page Insights Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/LinkedIn-Page-Insights-Dashboard-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-linkedin-page-insights-dashboard-template/",
+    "title": "LinkedIn Page Insights LinkedIn Page Insights Power BI Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Page Insights Dashboard Template Power BI Instagram Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/instagram-page-power-bi-template-640x360.jpg",
+    "source_link": "https://windsor.ai/power-bi-instagram-dashboard-template/",
+    "title": "instagram page power bi template",
+    "author": "",
+    "extra_text": "Power BI Instagram Dashboard Template Tableau TikTok Ads Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/01/TikTok-Ads-Dashboard-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-tiktok-ads-dashboard-template/",
+    "title": "Tableau TikTok Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau TikTok Ads Dashboard Template Tableau LinkedIn Ads Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-LinkedIn-Ads-Template-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-linkedin-ads-dashboard-template/",
+    "title": "Tableau LinkedIn Ads Template",
+    "author": "",
+    "extra_text": "Tableau LinkedIn Ads Dashboard Template Tableau Compare Campaigns Performance Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Campaigns-Comparison-Dashboard-Template-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-compare-campaigns-performance-dashboard/",
+    "title": "Tableau Campaigns Comparison Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Compare Campaigns Performance Dashboard Template Google Sheets LinkedIn Ads Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Linkedin-goole-sheet-template-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/google-sheets-linkedin-ads-overview-report/",
+    "title": "Linkedin ads Google sheets",
+    "author": "",
+    "extra_text": "Google Sheets LinkedIn Ads Overview Report Power BI Report Facebook Page Insights Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/09/Facebook_Page_Insights_Dashboard_by_Windsor-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-page-insights-overview-report-template/",
+    "title": "Facebook Page Insights by Windsor",
+    "author": "",
+    "extra_text": "Power BI Report Facebook Page Insights Dashboard Template Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/google-sheets-budget-pacing-template-e1602938181819-640x360.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-budget-pacing-google-facebook-linkedin/",
+    "title": "google sheets budget pacing template",
+    "author": "",
+    "extra_text": "Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Looker Studio Facebook Page Insights Overview Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/facebook-page-insights-data-studio-dashboard-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-facebook-page-insights-overview-report-template/",
+    "title": "facebook page insights data studio dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Page Insights Overview Report Template Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/ppc_planning_template_roas-e1602938365578-640x360.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-ppc-planning-template-for-google-ads-facebook-ads-linkedin-ads/",
+    "title": "ppc planning template roas",
+    "author": "",
+    "extra_text": "Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads Tableau Multichannel Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/Windsor-Marketing-Dashboard-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-multichannel-attribution-dashboard-template/",
+    "title": "Windsor Multi-channel Marketing Dashboard Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Multichannel Attribution Dashboard Template Looker Studio Instagram Insights Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/Instagram-Insights-640x360.png",
+    "source_link": "https://windsor.ai/data-studio-instagram-insights-overview-report/",
+    "title": "Instagram Insights template",
+    "author": "",
+    "extra_text": "Looker Studio Instagram Insights Overview Report Tableau Facebook Ads vs Google Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/FBvsGoogle-tableau-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-vs-google-ads-report-dashboard-template/",
+    "title": "FBvsGoogle tableau",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads vs Google Ads Report Dashboard Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, …"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/excel_channel_mix_overview-640x360.png.webp",
+    "source_link": "https://windsor.ai/excel-marketing-reporting-template-for-google-ads-facebook-ads-bing-ads-linkedin-ads/",
+    "title": "excel channel mix overview",
+    "author": "",
+    "extra_text": "Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Excel Facebook Ads Overview Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/excel-facebook-ads-overview-report/",
+    "title": "Excel Facebook Ads Report",
+    "author": "",
+    "extra_text": "Excel Facebook Ads Overview Report Template Looker Studio LinkedIn Pages Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/11/linkedin-pages-data-studio-dashboard-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-linkedin-page-overview-report/",
+    "title": "Looker Studio LinkedIn Pages Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Pages Overview Report Looker Studio Multichannel Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/data-studio-multi-touch-attribution-1-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-template-for-multichannel-marketing-attribution/",
+    "title": "data studio multi touch attribution 1",
+    "author": "",
+    "extra_text": "Looker Studio Multichannel Attribution Dashboard Template Power BI Facebook Ads vs Google Ads Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Faceboo0k-Ads-vs-Goolge-Ads-SCR-640x360.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-vs-google-ads-report-template/",
+    "title": "Facebook Ads vs Goolge Ads Report",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads vs Google Ads Report Template Tableau Web Media Overview Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/media-dashboard-powerbi-640x360.png.webp",
+    "source_link": "https://windsor.ai/tableau-web-media-overview-dashboard-template/",
+    "title": "media dashboard powerbi",
+    "author": "",
+    "extra_text": "Tableau Web Media Overview Dashboard Template Tableau Facebook Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Screenshot_2-640x360.png",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-report-dashboard-template/",
+    "title": "Screenshot_2",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads Report Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/screely-1613536162455-640x360.png.webp",
+    "source_link": "https://windsor.ai/google-data-studio-google-ads-vs-facebook-ads-dashboard/",
+    "title": "facebook ads vs google ads report",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Pinterest Ads Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/pinterest_ads_overview_report-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-pinterest-ads-overview-report/",
+    "title": "Looker Studio Pinterest Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Pinterest Ads Overview Report Excel LinkedIn Ads Overview Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-LinkedIn-Ads-Overwiev-Report-Template-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/excel-linkedin-ads-overview-report-template/",
+    "title": "Excel LinkedIn Ads Overwiev Report Template",
+    "author": "",
+    "extra_text": "Excel LinkedIn Ads Overview Report Template Power BI LinkedIn Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/LinkedIn-Ads-640x360.jpg.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-linkedin-ads-report-dashboard-template/",
+    "title": "Power BI LinkedIn Ads Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Ads Report Dashboard Template Looker Studio Snapchat Ads Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/snapchat-ads-overview-report-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-snapchat-ads-overview-report/",
+    "title": "Looker Studio Snapchat Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Snapchat Ads Overview Report Power BI Web Media & SEO Overview Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/overview_report-640x360.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/",
+    "title": "Microsoft Power BI Web Media Overview",
+    "author": "",
+    "extra_text": "Power BI Web Media & SEO Overview Report Dashboard Template Looker Studio TikTok Ads Overview Report"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/tik-tok-ads-overview-report-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-tiktok-ads-overview-report/",
+    "title": "Looker Studio TikTok Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio TikTok Ads Overview Report Looker Studio CRM Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/B2B_Attribution_Dashboard-e1586836925287-640x360.png.webp",
+    "source_link": "https://windsor.ai/data-studio-crm-attribution-dashboard-template/",
+    "title": "Looker Studio CRM Attribution Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio CRM Attribution Dashboard Template Microsoft Power BI Multichannel Marketing Attribution Dashboard Template What is a Social Media Marketing Dashboard?"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/03/Power-BI-Multichannel-Marketing-Attribution-Dashboard-640x360.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-multichannel-marketing-attribution-dashboard-template/",
+    "title": "Power BI Multichannel Marketing Attribution Dashboard",
+    "author": "",
+    "extra_text": "Microsoft Power BI Multichannel Marketing Attribution Dashboard Template What is a Social Media Marketing Dashboard? A social media marketing dashboard is a reporting tool that consolidates marketing data from social media into a single cen"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Try_Windsor_today-e1668447191709.png.webp",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": "Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial. Start Free Trial Read also:"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/03/linkedIn_PNG27.png.webp",
+    "source_link": "https://www.linkedin.com/company/windsor.ai/",
+    "title": "LinkedIn",
+    "author": "",
+    "extra_text": "Privacy Policy"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/02/facebook_logo-1.png.webp",
+    "source_link": "https://www.facebook.com/windsordotai/",
+    "title": "facebook",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/devicon_twitter.png.webp",
+    "source_link": "https://x.com/windsor_ai",
+    "title": "twitter-X",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/youtube.png.webp",
+    "source_link": "https://www.youtube.com/@windsorai",
+    "title": "YouTube",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai Neve"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/github.png.webp",
+    "source_link": "https://github.com/windsor-ai",
+    "title": "github",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai Neve | Powered by"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/users-love-us.svg",
+    "source_link": "https://www.g2.com/products/windsor-ai/",
+    "title": "users-love-us",
+    "author": "",
+    "extra_text": "Made in Switzerland. © 2025 Windsor.ai Neve | Powered by WordPress var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:\"c66e5742782d362164d97fde15e59cea808801211c413d59b0de649a2feef45f\", values:{},ready:function(){}};var d=do"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/medal.svg",
+    "source_link": "https://www.g2.com/products/windsor-ai/",
+    "title": "medal",
+    "author": "",
+    "extra_text": "Made in Switzerland. © 2025 Windsor.ai Neve | Powered by WordPress var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:\"c66e5742782d362164d97fde15e59cea808801211c413d59b0de649a2feef45f\", values:{},ready:function(){}};var d=do"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/soc-2.png.webp",
+    "source_link": "https://windsor.ai/security/",
+    "title": "users-love-us",
+    "author": "",
+    "extra_text": "Made in Switzerland. © 2025 Windsor.ai Neve | Powered by WordPress var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:\"c66e5742782d362164d97fde15e59cea808801211c413d59b0de649a2feef45f\", values:{},ready:function(){}};var d=do"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/windsor-ai_og.jpg",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/excel_channel_mix_overview-700x436.png.webp",
+    "source_link": "https://windsor.ai/excel-marketing-reporting-template-for-google-ads-facebook-ads-bing-ads-linkedin-ads/",
+    "title": "excel channel mix overview",
+    "author": "",
+    "extra_text": "Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Free Brand Awareness Dashboard Templates on Looker Studio Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Fre"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/brand-awareness-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/brand-awareness-dashboard-templates-looker-studio/",
+    "title": "Free Brand Awareness Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Brand Awareness Dashboard Templates on Looker Studio Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Google Keyword Rank Tracking Looker Studio Dashboard Free Google Search Console Power BI "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/GA4-Conversions-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/ga4-website-conversions-dashboard-looker-studio/",
+    "title": "Free GA4 Website Conversions Report Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Google Keyword Rank Tracking Looker Studio Dashboard Free Google Search Console Power BI Template Free Marketing Agency Report Dashboard Template o"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/google-keywords-tracking-looker-studio-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/google-keyword-rank-tracking-looker-studio-dashboard/",
+    "title": "Free Google Keyword Rank Tracking Dashboard",
+    "author": "",
+    "extra_text": "Free Google Keyword Rank Tracking Looker Studio Dashboard Free Google Search Console Power BI Template Free Marketing Agency Report Dashboard Template on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview r"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-19.33.49-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/free-google-search-console-power-bi-template/",
+    "title": "google search console power bi report",
+    "author": "",
+    "extra_text": "Free Google Search Console Power BI Template Free Marketing Agency Report Dashboard Template on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/agency-report1-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/agency-report-dashboard-looker-studio/",
+    "title": "Marketing Agency Report Dashboard",
+    "author": "",
+    "extra_text": "Free Marketing Agency Report Dashboard Template on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power BI Google Looker Studio SEO Template: A Read"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/e-commerce-overview-report-700x394.png.webp",
+    "source_link": "https://windsor.ai/ga4-google-ads-bing-ads-meta-ads-pinterest-ads-e-commerce-overview-report/",
+    "title": "e-commerce overview report",
+    "author": "",
+    "extra_text": "GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power BI Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/ga4-power-bi-template-700x387.jpg.webp",
+    "source_link": "https://windsor.ai/power-bi-google-analytics-4-dashboard-template/",
+    "title": "Free Google Analytics 4 (GA4) Dashboard Template on Power BI",
+    "author": "",
+    "extra_text": "Google Analytics 4 (GA4) Dashboard Template on Power BI Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google Sheets Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Templ"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/07/Google-Search-Console-Overview-e1703779487131-700x430.png.webp",
+    "source_link": "https://windsor.ai/data-studio-seo-reporting-template/",
+    "title": "Google Search Console Template - Overview",
+    "author": "",
+    "extra_text": "Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google Sheets Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Temp"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/google-search-console-template-for-google-sheets-700x418.jpg.webp",
+    "source_link": "https://windsor.ai/google-search-console-google-sheets-template/",
+    "title": "google search console template for google sheets",
+    "author": "",
+    "extra_text": "Google Search Console Google Sheets Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Painel "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/Google-Analytics-4-Dashboard-700x476.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-google-analytics-4-ga4-report-dashboard-template/",
+    "title": "Google Analytics 4 Dashboard",
+    "author": "",
+    "extra_text": "Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Painel Para Negócios Locais Power BI GA4 Universal A"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/Data-Studio-Facebook-Ecommerce-Dashboard-700x405.png.webp",
+    "source_link": "https://windsor.ai/data-studio-facebook-ads-e-commerce-dashboard-template/",
+    "title": "Data Studio Facebook Ecommerce Dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Painel Para Negócios Locais Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Console"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/GA4-Overview-e1704205161464-700x381.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-google-analytics-4-dashboard-template/",
+    "title": "GA4 - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google Analytics 4 Dashboard Template Looker Studio Painel Para Negócios Locais Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Console Report Dashboard Template Tableau Google Analytics Dashb"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/negocios-locais-700x461.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-painel-para-negocios-locais/",
+    "title": "",
+    "author": "",
+    "extra_text": "Looker Studio Painel Para Negócios Locais Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Console Report Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboar"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/07/GA4-UA-Design-e1689341434970-700x376.png.webp",
+    "source_link": "https://windsor.ai/power-bi-ga4-ua-design-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Console Report Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboard Template Tableau Multichannel Attributio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/SEO-Report-700x391.jpg.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-google-search-report-dashboard-template/",
+    "title": "Power BI Google Search Console Template",
+    "author": "",
+    "extra_text": "Power BI Google Search Console Report Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboard Template Tableau Multichannel Attribution Dashboard Template Try Windsor.ai today Access all your d"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Analytics-Dashboard-Template-700x583.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-google-analytics-dashboard-template/",
+    "title": "Tableau Google Analytics Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboard Template Tableau Multichannel Attribution Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Search-Console-Dashboard-Template-e1670685313899-700x641.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-google-search-console-dashboard-template/",
+    "title": "Tableau Google Search Console Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Search Console Dashboard Template Tableau Multichannel Attribution Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial."
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/Windsor-Marketing-Dashboard-700x488.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-multichannel-attribution-dashboard-template/",
+    "title": "Windsor Multi-channel Marketing Dashboard Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Multichannel Attribution Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial. Start Free Trial"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Bing-Ads-screenshot-700x352.jpg.webp",
+    "source_link": "https://windsor.ai/excel-bing-ads-overview-report-template/",
+    "title": "Excel Bing Ads Report",
+    "author": "",
+    "extra_text": "Excel Bing Ads Overview Report Template Excel Facebook Ads Overview Report Template Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report-700x357.jpg.webp",
+    "source_link": "https://windsor.ai/excel-facebook-ads-overview-report/",
+    "title": "Excel Facebook Ads Report",
+    "author": "",
+    "extra_text": "Excel Facebook Ads Overview Report Template Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report Template for Google Sheets Fetch your Fac"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-LinkedIn-Ads-Overwiev-Report-Template-700x363.jpg.webp",
+    "source_link": "https://windsor.ai/excel-linkedin-ads-overview-report-template/",
+    "title": "Excel LinkedIn Ads Overwiev Report Template",
+    "author": "",
+    "extra_text": "Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report Template for Google Sheets Fetch your Facebook Ads data using windsor.ai API and R Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Facebook-Ads-Dashboard-e1681890886204-700x401.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-facebook-ads-overview-report/",
+    "title": "Facebook Ads Dashboard",
+    "author": "",
+    "extra_text": "Facebook Ads Report Template for Google Sheets Fetch your Facebook Ads data using windsor.ai API and R Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/onboard_API_withoutAPI-700x329.jpg.webp",
+    "source_link": "https://windsor.ai/fetch-facebook-ads-using-windsor-ai-api-r/",
+    "title": "",
+    "author": "",
+    "extra_text": "Fetch your Facebook Ads data using windsor.ai API and R Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker Studio Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-budget-dashboard-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/facebook-ads-budget-dashboard-looker-studio/",
+    "title": "Free Facebook Ads Budget Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Power BI Dashboard Template Free Google Ads Budget Tracker Dashboard Template for Looker Studio Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-funnel-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/facebook-ads-funnel-dashboard-looker-studio/",
+    "title": "Facebook Ads Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Power BI Dashboard Template Free Google Ads Budget Tracker Dashboard Template for Looker Studio Free Google Ads Funnel Dashboard Template for Looker Studio Free"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-18.50.57-e1743073942350-700x389.jpg",
+    "source_link": "https://windsor.ai/free-facebook-ads-power-bi-dashboard-template/",
+    "title": "meta ads power bi dashboard template",
+    "author": "",
+    "extra_text": "Free Facebook Ads Power BI Dashboard Template Free Google Ads Budget Tracker Dashboard Template for Looker Studio Free Google Ads Funnel Dashboard Template for Looker Studio Free Google Ads Power BI Dashboard Template Free Google Analytics "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-budget-dashboard-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/google-ads-budget-dashboard-looker/",
+    "title": "Free Google Ads Budget Tracker Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Ads Budget Tracker Dashboard Template for Looker Studio Free Google Ads Funnel Dashboard Template for Looker Studio Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Templat"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-funnel-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/google-ads-funnel-dashboard-looker-studio/",
+    "title": "Free Google Ads Funnel Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Ads Funnel Dashboard Template for Looker Studio Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free LinkedIn Ads Dashboard Template on Power BI"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-17.33.50-700x395.jpg.webp",
+    "source_link": "https://windsor.ai/free-google-ads-power-bi-dashboard-template/",
+    "title": "Screenshot a Google Ads Power BI Template",
+    "author": "",
+    "extra_text": "Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free LinkedIn Ads Dashboard Template on Power BI Free Marketing Agency Report Dashboard Template on Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/linkedin-ads-dashboard-700x398.jpg.webp",
+    "source_link": "https://windsor.ai/linkedin-ads-dashboard-template-power-bi/",
+    "title": "LinkedIn Ads Dashboard Template on Power BI",
+    "author": "",
+    "extra_text": "Free LinkedIn Ads Dashboard Template on Power BI Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTube Analytics Dashboard Templates Free PPC Report Das"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/pinterest-dashboard-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/pinterest-ads-dashboard-template-looker-studio/",
+    "title": "Free Pinterest Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTube Analytics Dashboard Templates Free PPC Report Dashboard Template on Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free X / Twitter Ads Perfor"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/toutube-analytics-power-bi_-700x395.png.webp",
+    "source_link": "https://windsor.ai/power-bi-youtube-dashboard/",
+    "title": "Power BI YouTube Analytics Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Power BI YouTube Analytics Dashboard Templates Free PPC Report Dashboard Template on Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/ppc_dashboard_template-looker-700x390.jpg.webp",
+    "source_link": "https://windsor.ai/ppc-dashboard-template-looker-studio/",
+    "title": "Free PPC Report Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free PPC Report Dashboard Template on Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview rep"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/snapchat-dashboard-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/snapchat-ads-dashboard-template-looker-studio/",
+    "title": "Free Snapchat Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Snapchat Ads Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/twitter-looker-studio-1-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/twitter-dashboard-looker-studio/",
+    "title": "Free Twitter Ads Performance Dashboard on Looker Studio",
+    "author": "",
+    "extra_text": "Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power BI Google Sheets Budget Pacing Template for Googl"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/google-sheets-budget-pacing-template-e1602938181819-700x411.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-budget-pacing-google-facebook-linkedin/",
+    "title": "google sheets budget pacing template",
+    "author": "",
+    "extra_text": "Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Google Sheets Google Ads Report Dashboard Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Google Sheets LinkedIn Ads Overview Report Googl"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/google-sheets-google-ads-template-windsor-700x421.jpg.webp",
+    "source_link": "https://windsor.ai/google-sheets-google-ads-report-template/",
+    "title": "google sheets google ads template windsor",
+    "author": "",
+    "extra_text": "Google Sheets Google Ads Report Dashboard Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Google Sheets LinkedIn Ads Overview Report Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Linkedin-goole-sheet-template-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/google-sheets-linkedin-ads-overview-report/",
+    "title": "Linkedin ads Google sheets",
+    "author": "",
+    "extra_text": "Google Sheets LinkedIn Ads Overview Report Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How to Analyze Facebook Ads Data: From Manual Reports to Full Automation How to Automate Google Ads Reporting in Looker "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/ppc_planning_template_roas-e1602938365578-700x476.png.webp",
+    "source_link": "https://windsor.ai/google-sheets-ppc-planning-template-for-google-ads-facebook-ads-linkedin-ads/",
+    "title": "ppc planning template roas",
+    "author": "",
+    "extra_text": "Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How to Analyze Facebook Ads Data: From Manual Reports to Full Automation How to Automate Google Ads Reporting in Looker Studio: 3 Easy Methods How to Connect Faceb"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/11/how-to-analyze-facebook-ads-data-700x414.jpg.webp",
+    "source_link": "https://windsor.ai/how-to-analyze-facebook-ads-data/",
+    "title": "",
+    "author": "",
+    "extra_text": "How to Analyze Facebook Ads Data: From Manual Reports to Full Automation How to Automate Google Ads Reporting in Looker Studio: 3 Easy Methods How to Connect Facebook Ads to Looker Studio: 3 Methods [Automated Setup Included] How to Integra"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/google-ads-to-looker-studio-integration-700x414.jpg.webp",
+    "source_link": "https://windsor.ai/how-to-automate-google-ads-reporting-in-looker-studio/",
+    "title": "google ads to looker studio integration",
+    "author": "",
+    "extra_text": "How to Automate Google Ads Reporting in Looker Studio: 3 Easy Methods How to Connect Facebook Ads to Looker Studio: 3 Methods [Automated Setup Included] How to Integrate Facebook Ads into BigQuery: Top 3 Methods Looker Studio AdRoll Ads Ove"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/facebook-ads-to-looker-studio-integration-700x414.jpg.webp",
+    "source_link": "https://windsor.ai/how-to-connect-facebook-ads-to-looker-studio/",
+    "title": "facebook ads to looker studio integration",
+    "author": "",
+    "extra_text": "How to Connect Facebook Ads to Looker Studio: 3 Methods [Automated Setup Included] How to Integrate Facebook Ads into BigQuery: Top 3 Methods Looker Studio AdRoll Ads Overview Report Looker Studio CRM Attribution Dashboard Template Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/facebook-ads-to-bigquery-integration-1-700x414.jpg.webp",
+    "source_link": "https://windsor.ai/how-to-integrate-facebook-ads-into-bigquery/",
+    "title": "facebook ads to bigquery integration",
+    "author": "",
+    "extra_text": "How to Integrate Facebook Ads into BigQuery: Top 3 Methods Looker Studio AdRoll Ads Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboa"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/adroll-ads-overview-report-700x446.png.webp",
+    "source_link": "https://windsor.ai/data-studio-adroll-ads-overview-report/",
+    "title": "Looker Studio AdRoll Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio AdRoll Ads Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Ads Dashboard Template Loo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/B2B_Attribution_Dashboard-e1586836925287-700x391.png.webp",
+    "source_link": "https://windsor.ai/data-studio-crm-attribution-dashboard-template/",
+    "title": "Looker Studio CRM Attribution Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Da"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/08/Facebook-Ads-700x391.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-facebook-ads-dashboard-template/",
+    "title": "Facebook Ads Looker Studio template",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/Google-Ads-Overview-e1695378059140-700x391.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-google-ads-dashboard-template/",
+    "title": "Google Ads - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio LinkedIn Ads Dashboard Template Looker Studio Microsoft Ads Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/screely-1613536162455-700x385.png.webp",
+    "source_link": "https://windsor.ai/google-data-studio-google-ads-vs-facebook-ads-dashboard/",
+    "title": "facebook ads vs google ads report",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio LinkedIn Ads Dashboard Template Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attributio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/LinkedIn-Ads-Overview-1-e1695906494679-700x390.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-linkedin-ads-dashboard-template/",
+    "title": "Looker Studio - LinkedIn Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Ads Dashboard Template Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Pinterest Ads Overview Report Looker"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/bing-ads-microsoft-ads-overview-report-700x388.png.webp",
+    "source_link": "https://windsor.ai/data-studio-bing-ads-overview-report/",
+    "title": "Looker Studio Microsoft Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Pinterest Ads Overview Report Looker Studio Snapchat Ads Overview Report Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/data-studio-multi-touch-attribution-1-700x365.png.webp",
+    "source_link": "https://windsor.ai/data-studio-template-for-multichannel-marketing-attribution/",
+    "title": "data studio multi touch attribution 1",
+    "author": "",
+    "extra_text": "Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Pinterest Ads Overview Report Looker Studio Snapchat Ads Overview Report Looker Studio TikTok Ads Overview Report Looker Studi"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/pinterest_ads_overview_report-700x386.png.webp",
+    "source_link": "https://windsor.ai/data-studio-pinterest-ads-overview-report/",
+    "title": "Looker Studio Pinterest Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Pinterest Ads Overview Report Looker Studio Snapchat Ads Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/snapchat-ads-overview-report-700x426.png.webp",
+    "source_link": "https://windsor.ai/data-studio-snapchat-ads-overview-report/",
+    "title": "Looker Studio Snapchat Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Snapchat Ads Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Pow"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/tik-tok-ads-overview-report-700x446.png.webp",
+    "source_link": "https://windsor.ai/data-studio-tiktok-ads-overview-report/",
+    "title": "Looker Studio TikTok Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Bing Ads Report Dashboard Template Po"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Youtube-Overview-e1704196397178-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-youtube-channel-dashboard-template/",
+    "title": "Youtube - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Temp"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Screenshot-Campaigns-700x397.png.webp",
+    "source_link": "https://windsor.ai/meta-ads-template-for-power-bi/",
+    "title": "Screenshot Campaigns",
+    "author": "",
+    "extra_text": "Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/03/Power-BI-Multichannel-Marketing-Attribution-Dashboard-700x426.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-multichannel-marketing-attribution-dashboard-template/",
+    "title": "Power BI Multichannel Marketing Attribution Dashboard",
+    "author": "",
+    "extra_text": "Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/bingadsscr-700x394.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-bing-ads-report-dashboard-template-2/",
+    "title": "Power BI Bing Ads Report Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashbo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/11/power_bi_facebook_ads_report_1-700x426.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-report-dashboard-template/",
+    "title": "power bi facebook ads report 1",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Faceboo0k-Ads-vs-Goolge-Ads-SCR-700x423.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-vs-google-ads-report-template/",
+    "title": "Facebook Ads vs Goolge Ads Report",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dash"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Facebook-Leads-Dashboard-700x391.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-leads-report-dashboard-template/",
+    "title": "Facebook Leads Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashb"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Dashboard-700x395.png.webp",
+    "source_link": "https://windsor.ai/power-bi-google-ads-dashboard-template/",
+    "title": "Google Ads Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI Paid Media Overview Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Funnel-Dashboard-e1680015502216-700x356.png.webp",
+    "source_link": "https://windsor.ai/power-bi-google-ads-funnel-overview-dashboard-template/",
+    "title": "Google Ads Funnel Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Da"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Search-Terms-Dashboard-700x391.png.webp",
+    "source_link": "https://windsor.ai/power-bi-google-ads-search-term-dashboard-template/",
+    "title": "Google Ads Search Term Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Search Term Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Web Media & SEO Overview Repo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/LinkedIn-Ads-700x391.jpg.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-linkedin-ads-report-dashboard-template/",
+    "title": "Power BI LinkedIn Ads Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Ads Report Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Tableau Bing Ads Overview Das"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/05/Paid-Media-Overview-Dashboard-e1685452465430-700x393.png.webp",
+    "source_link": "https://windsor.ai/power-bi-paid-media-overview-dashboard-template/",
+    "title": "Paid Media Overview Dashboard",
+    "author": "",
+    "extra_text": "Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Perfor"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/Paid_Social_Overview_Dashboard-e1687970002148-700x392.png.webp",
+    "source_link": "https://windsor.ai/power-bi-paid-social-overview-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI Paid Social Media Overview Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Re"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/overview_report-700x426.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/",
+    "title": "Microsoft Power BI Web Media Overview",
+    "author": "",
+    "extra_text": "Power BI Web Media & SEO Overview Report Dashboard Template Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Google Ads Dashboard Te"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Tableau-Bing-700x371.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-bing-ads-overview-dashboard-template/",
+    "title": "Tableau Bing",
+    "author": "",
+    "extra_text": "Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Campaigns-Comparison-Dashboard-Template-700x395.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-compare-campaigns-performance-dashboard/",
+    "title": "Tableau Campaigns Comparison Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Screenshot_2-700x434.png.webp",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-report-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads Report Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichann"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Dashboard-Template-Featured-Image-700x418.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-google-ads-dashboard-template/",
+    "title": "Tableau Google Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau TikTo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Search-Queries-Template-Featured-Image-700x460.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-google-ads-search-queries-dashboard-template/",
+    "title": "Tableau Google Ads Search Queries Free Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau TikTok Ads Dashboard Template What is a PPC"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-LinkedIn-Ads-Template-700x434.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-linkedin-ads-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau TikTok Ads Dashboard Template What is a PPC Dashboard? A PPC dashboard is an integrated visual representation of all vital KPIs for overseei"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/01/TikTok-Ads-Dashboard-700x362.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-tiktok-ads-dashboard-template/",
+    "title": "Tableau TikTok Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau TikTok Ads Dashboard Template What is a PPC Dashboard? A PPC dashboard is an integrated visual representation of all vital KPIs for overseeing paid advertising efforts. Windsor.ai’s PPC reporting templates automatically fetch data f"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/04/og_ga4.jpg",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-ads-template-for-google-sheets-700x482.jpg.webp",
+    "source_link": "https://windsor.ai/instagram-ads-google-sheets-dashboard-template/",
+    "title": "instagram ads template for google sheets",
+    "author": "",
+    "extra_text": "Instagram Ads Google Sheets dashboard template Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets Dashboard Template LinkedIn Page Google Sheets Report Template Looker Studio Facebook Ads E-commerc"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/instagram-folowers-tracker-700x395.png.webp",
+    "source_link": "https://windsor.ai/instagram-followers-tracking-dashboard/",
+    "title": "Instagram Followers Tracker Dashboard Templates",
+    "author": "",
+    "extra_text": "Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets Dashboard Template LinkedIn Page Google Sheets Report Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analy"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-page-insights-template-google-sheets-700x452.jpg.webp",
+    "source_link": "https://windsor.ai/instagram-organic-google-sheets-dashboard-template/",
+    "title": "instagram page insights template google sheets",
+    "author": "",
+    "extra_text": "Instagram Organic Google Sheets Dashboard Template LinkedIn Page Google Sheets Report Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Instagram Insights Ove"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/Screen-Shot-2025-05-19-at-17.46.56-700x369.jpg.webp",
+    "source_link": "https://windsor.ai/linkedin-page-google-sheets-report-template/",
+    "title": "google sheets linkedin page template windsor.ai",
+    "author": "",
+    "extra_text": "LinkedIn Page Google Sheets Report Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Pages Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/Instagram-Insights-700x392.png.webp",
+    "source_link": "https://windsor.ai/data-studio-instagram-insights-overview-report/",
+    "title": "Instagram Insights template",
+    "author": "",
+    "extra_text": "Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Pages Overview Report Looker Studio Painel Para Negócios Locais Marketing Measurement Guide: How to Extract Data-Driven Insights Power BI GA4 Universal Analytics Design"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/11/linkedin-pages-data-studio-dashboard-700x427.png.webp",
+    "source_link": "https://windsor.ai/data-studio-linkedin-page-overview-report/",
+    "title": "Looker Studio LinkedIn Pages Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Pages Overview Report Looker Studio Painel Para Negócios Locais Marketing Measurement Guide: How to Extract Data-Driven Insights Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Consol"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/marketing-measurement-guide-1-700x414.jpg.webp",
+    "source_link": "https://windsor.ai/marketing-measurement-guide/",
+    "title": "Marketing Measurement Guide",
+    "author": "",
+    "extra_text": "Marketing Measurement Guide: How to Extract Data-Driven Insights Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Search Console Report Dashboard Template Power BI Instagram Dashboard Template Power BI LinkedIn Pag"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/instagram-page-power-bi-template-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/power-bi-instagram-dashboard-template/",
+    "title": "instagram page power bi template",
+    "author": "",
+    "extra_text": "Power BI Instagram Dashboard Template Power BI LinkedIn Page Insights Dashboard Template Power BI Report Facebook Page Insights Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Analytics Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/LinkedIn-Page-Insights-Dashboard-700x392.png.webp",
+    "source_link": "https://windsor.ai/power-bi-linkedin-page-insights-dashboard-template/",
+    "title": "LinkedIn Page Insights LinkedIn Page Insights Power BI Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Page Insights Dashboard Template Power BI Report Facebook Page Insights Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboa"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/09/Facebook_Page_Insights_Dashboard_by_Windsor-700x394.png.webp",
+    "source_link": "https://windsor.ai/power-bi-facebook-page-insights-overview-report-template/",
+    "title": "Facebook Page Insights by Windsor",
+    "author": "",
+    "extra_text": "Power BI Report Facebook Page Insights Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboard Template Tableau Multichannel Attribution Dashbo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Facebook-Page-Organic-Featured-Image-e1670672393627-700x435.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-facebook-page-insights-dashboard-template/",
+    "title": "Tableau Facebook Page Organic Template",
+    "author": "",
+    "extra_text": "Tableau Facebook Page Insights Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Search Console Dashboard Template Tableau Multichannel Attribution Dashboard Template Try Windsor.ai today Access all your data fro"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/power.png",
+    "source_link": "https://windsor.ai/powerbi-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI Templates Excel Templates Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/excel.png",
+    "source_link": "https://windsor.ai/excel-dashboard-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Excel Templates Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates View all"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/sheets.png",
+    "source_link": "https://windsor.ai/google-sheets-dashboard-templates/",
+    "title": "",
+    "author": "",
+    "extra_text": "Google Sheets Templates Tableau Templates Facebook Ads Templates Google Ads Templates View all Data Fields & Metrics"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/excel_channel_mix_overview-700x436.png",
+    "source_link": "https://windsor.ai/excel-marketing-reporting-template-for-google-ads-facebook-ads-bing-ads-linkedin-ads/",
+    "title": "excel channel mix overview",
+    "author": "",
+    "extra_text": "Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Hubspot Marketing Dashboard Template for Looker Studio F"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/GA4-Conversions-700x394.jpg",
+    "source_link": "https://windsor.ai/ga4-website-conversions-dashboard-looker-studio/",
+    "title": "Free GA4 Website Conversions Report Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Hubspot Marketing Dashboard Template for Looker Studio Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free Mailchimp Dashboard Temp"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/hubspot-marketing-dashboard-700x390.jpg",
+    "source_link": "https://windsor.ai/hubspot-marketing-dashboard-template-looker-studio/",
+    "title": "Connect your marketing data to the free Hubspot Marketing Dashboard Template for Looker Studio created by Windsor.ai to automate marketing reports.",
+    "author": "",
+    "extra_text": "Free Hubspot Marketing Dashboard Template for Looker Studio Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio F"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/hubspot-funnel-700x396.jpg",
+    "source_link": "https://windsor.ai/hubspot-sales-funnel-dashboard-looker-studio/",
+    "title": "Free Hubspot Sales Funnel Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/Mailchimp-Looker-studio-template-700x393.jpg",
+    "source_link": "https://windsor.ai/mailchimp-dashboard-template-looker-studio/",
+    "title": "Free Mailchimp Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Look"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/agency-report1-700x394.jpg",
+    "source_link": "https://windsor.ai/agency-report-dashboard-looker-studio/",
+    "title": "Marketing Agency Report Dashboard",
+    "author": "",
+    "extra_text": "Free Marketing Agency Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pint"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/salesforce-marketing-700x393.jpg",
+    "source_link": "https://windsor.ai/salesforce-marketing-cloud-dashboard-template/",
+    "title": "Salesforce Marketing Cloud Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Das"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/SalesForce-Sales-Funnel-700x394.jpg",
+    "source_link": "https://windsor.ai/salesforce-sales-funnel-dashboard/",
+    "title": "Salesforce Sales Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Salesforce Sales Funnel Dashboard Template for Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power BI Google Sheets Google Analytics 4 (GA4) R"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/e-commerce-overview-report-700x394.png",
+    "source_link": "https://windsor.ai/ga4-google-ads-bing-ads-meta-ads-pinterest-ads-e-commerce-overview-report/",
+    "title": "e-commerce overview report",
+    "author": "",
+    "extra_text": "GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Analytics 4 (GA4) Dashboard Template on Power BI Google Sheets Google Analytics 4 (GA4) Report Dashboard Template How to Connect MailChimp to Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/ga4-power-bi-template-700x387.jpg",
+    "source_link": "https://windsor.ai/power-bi-google-analytics-4-dashboard-template/",
+    "title": "Free Google Analytics 4 (GA4) Dashboard Template on Power BI",
+    "author": "",
+    "extra_text": "Google Analytics 4 (GA4) Dashboard Template on Power BI Google Sheets Google Analytics 4 (GA4) Report Dashboard Template How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard temp"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/Google-Analytics-4-Dashboard-700x476.png",
+    "source_link": "https://windsor.ai/google-sheets-google-analytics-4-ga4-report-dashboard-template/",
+    "title": "Google Analytics 4 Dashboard",
+    "author": "",
+    "extra_text": "Google Sheets Google Analytics 4 (GA4) Report Dashboard Template How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard templates] Hubspot Google Sheets Dashboard Template Klaviyo "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/mailchimp_data_studio_dashboard-700x385.png",
+    "source_link": "https://windsor.ai/data-studio-mailchimp-overview-report/",
+    "title": "mailchimp google data studio template",
+    "author": "",
+    "extra_text": "How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard templates] Hubspot Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard Looker Studio CRM Attribution Dashboard "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/03/Salesforce-Report-700x426.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-salesforce-report-dashboard-template/",
+    "title": "Power BI Salesforce Report Template",
+    "author": "",
+    "extra_text": "How to Connect Power BI to Salesforce [+ Free Dashboard templates] Hubspot Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Te"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/hubspot-google-sheets-template-windsor-700x327.jpg",
+    "source_link": "https://windsor.ai/hubspot-google-sheets-dashboard-template/",
+    "title": "hubspot google sheets template windsor",
+    "author": "",
+    "extra_text": "Hubspot Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/02/11111111111-700x303.jpg",
+    "source_link": "https://windsor.ai/klaviyo-looker-studio-dashboard/",
+    "title": "",
+    "author": "",
+    "extra_text": "Klaviyo  Looker Studio Dashboard Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio HubSpot Dashboard Template Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/B2B_Attribution_Dashboard-e1586836925287-700x391.png",
+    "source_link": "https://windsor.ai/data-studio-crm-attribution-dashboard-template/",
+    "title": "Looker Studio CRM Attribution Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio CRM Attribution Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Loo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/Data-Studio-Facebook-Ecommerce-Dashboard-700x405.png",
+    "source_link": "https://windsor.ai/data-studio-facebook-ads-e-commerce-dashboard-template/",
+    "title": "Data Studio Facebook Ecommerce Dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Multichannel Attribution Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/GA4-Overview-e1704205161464-700x381.jpg",
+    "source_link": "https://windsor.ai/looker-studio-google-analytics-4-dashboard-template/",
+    "title": "GA4 - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google Analytics 4 Dashboard Template Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/HubSpot-700x393.png",
+    "source_link": "https://windsor.ai/looker-studio-hubspot-dashboard-template/",
+    "title": "HubSpot Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Salesforce Overview Report Microsoft Power BI M"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/hubspot-overview-report-700x388.png",
+    "source_link": "https://windsor.ai/data-studio-hubspot-overview-report/",
+    "title": "hubspot overview report",
+    "author": "",
+    "extra_text": "Looker Studio HubSpot Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Salesforce Overview Report Microsoft Power BI Multichannel Marketing Attribution Dashboa"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/data-studio-multi-touch-attribution-1-700x365.png",
+    "source_link": "https://windsor.ai/data-studio-template-for-multichannel-marketing-attribution/",
+    "title": "data studio multi touch attribution 1",
+    "author": "",
+    "extra_text": "Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Salesforce Overview Report Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI GA4 Universal Ana"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/negocios-locais-700x461.png",
+    "source_link": "https://windsor.ai/looker-studio-painel-para-negocios-locais/",
+    "title": "",
+    "author": "",
+    "extra_text": "Looker Studio Painel Para Negócios Locais Looker Studio Salesforce Overview Report Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI HubSpot Overview"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/salesforce-overview-report-700x405.png",
+    "source_link": "https://windsor.ai/data-studio-salesforce-overview-report/",
+    "title": "salesforce overview report",
+    "author": "",
+    "extra_text": "Looker Studio Salesforce Overview Report Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI HubSpot Overview Dashboard Template Tableau Google Analyti"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/03/Power-BI-Multichannel-Marketing-Attribution-Dashboard-700x426.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-multichannel-marketing-attribution-dashboard-template/",
+    "title": "Power BI Multichannel Marketing Attribution Dashboard",
+    "author": "",
+    "extra_text": "Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI HubSpot Overview Dashboard Template Tableau Google Analytics Dashboard Template What is an Email Ma"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/07/GA4-UA-Design-e1689341434970-700x376.png",
+    "source_link": "https://windsor.ai/power-bi-ga4-ua-design-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI GA4 Universal Analytics Design Dashboard Template Power BI HubSpot Overview Dashboard Template Tableau Google Analytics Dashboard Template What is an Email Marketing Dashboard? An email marketing dashboard is an automated reporting"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/HubSpot-Dashboard-1-e1680096657769-700x392.png",
+    "source_link": "https://windsor.ai/power-bi-hubspot-overview-dashboard-template/",
+    "title": "HubSpot Overview Dashboard",
+    "author": "",
+    "extra_text": "Power BI HubSpot Overview Dashboard Template Tableau Google Analytics Dashboard Template What is an Email Marketing Dashboard? An email marketing dashboard is an automated reporting tool designed to capture data from email marketing campaig"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Analytics-Dashboard-Template-700x583.jpg",
+    "source_link": "https://windsor.ai/tableau-google-analytics-dashboard-template/",
+    "title": "Tableau Google Analytics Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Analytics Dashboard Template What is an Email Marketing Dashboard? An email marketing dashboard is an automated reporting tool designed to capture data from email marketing campaigns. The dashboard comprises carefully selecte"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/03/linkedIn_PNG27.png",
+    "source_link": "https://www.linkedin.com/company/windsor.ai/",
+    "title": "LinkedIn",
+    "author": "",
+    "extra_text": "Privacy Policy"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/02/facebook_logo-1.png",
+    "source_link": "https://www.facebook.com/windsordotai/",
+    "title": "facebook",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/devicon_twitter.png",
+    "source_link": "https://x.com/windsor_ai",
+    "title": "twitter-X",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/youtube.png",
+    "source_link": "https://www.youtube.com/@windsorai",
+    "title": "YouTube",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai Neve"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/github.png",
+    "source_link": "https://github.com/windsor-ai",
+    "title": "github",
+    "author": "",
+    "extra_text": "Privacy Policy Terms of Service Made in Switzerland. © 2025 Windsor.ai Neve | Powered by"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Bing-Ads-screenshot-700x352.jpg",
+    "source_link": "https://windsor.ai/excel-bing-ads-overview-report-template/",
+    "title": "Excel Bing Ads Report",
+    "author": "",
+    "extra_text": "Excel Bing Ads Overview Report Template Excel Facebook Ads Overview Report Template Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report-700x357.jpg",
+    "source_link": "https://windsor.ai/excel-facebook-ads-overview-report/",
+    "title": "Excel Facebook Ads Report",
+    "author": "",
+    "extra_text": "Excel Facebook Ads Overview Report Template Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report Template for Google Sheets Facebook Page "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-LinkedIn-Ads-Overwiev-Report-Template-700x363.jpg",
+    "source_link": "https://windsor.ai/excel-linkedin-ads-overview-report-template/",
+    "title": "Excel LinkedIn Ads Overwiev Report Template",
+    "author": "",
+    "extra_text": "Excel LinkedIn Ads Overview Report Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Facebook Ads Report Template for Google Sheets Facebook Page Insights Google Sheets Dashboard Template Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Facebook-Ads-Dashboard-e1681890886204-700x401.png",
+    "source_link": "https://windsor.ai/google-sheets-facebook-ads-overview-report/",
+    "title": "Facebook Ads Dashboard",
+    "author": "",
+    "extra_text": "Facebook Ads Report Template for Google Sheets Facebook Page Insights Google Sheets Dashboard Template Free Adobe Analytics Dashboard Template on Looker Studio Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awaren"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/facebook-page-insights-template-2-700x451.jpg",
+    "source_link": "https://windsor.ai/facebook-page-insights-google-sheets-dashboard-template/",
+    "title": "facebook page insights template",
+    "author": "",
+    "extra_text": "Facebook Page Insights Google Sheets Dashboard Template Free Adobe Analytics Dashboard Template on Looker Studio Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free F"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/adobe-analytics-dashboard-700x391.jpg",
+    "source_link": "https://windsor.ai/adobe-analytics-dashboard-template-looker-studio/",
+    "title": "Free Adobe Analytics Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Adobe Analytics Dashboard Template on Looker Studio Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/amazon-vendor-central-template-700x393.jpg",
+    "source_link": "https://windsor.ai/amazon-vendor-central-dashboard-template-looker-studio/",
+    "title": "Free Amazon Vendor Central Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/brand-awareness-700x392.jpg",
+    "source_link": "https://windsor.ai/brand-awareness-dashboard-templates-looker-studio/",
+    "title": "Free Brand Awareness Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Power BI Dashboard Template Free Google "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-budget-dashboard-700x393.jpg",
+    "source_link": "https://windsor.ai/facebook-ads-budget-dashboard-looker-studio/",
+    "title": "Free Facebook Ads Budget Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Power BI Dashboard Template Free Google Ads Budget Tracker Dashboard Template for Looker Studio Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-funnel-700x394.jpg",
+    "source_link": "https://windsor.ai/facebook-ads-funnel-dashboard-looker-studio/",
+    "title": "Facebook Ads Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Power BI Dashboard Template Free Google Ads Budget Tracker Dashboard Template for Looker Studio Free Google Ads Funnel Dashboard Template for Looker Studio Free"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-budget-dashboard-700x393.jpg",
+    "source_link": "https://windsor.ai/google-ads-budget-dashboard-looker/",
+    "title": "Free Google Ads Budget Tracker Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Ads Budget Tracker Dashboard Template for Looker Studio Free Google Ads Funnel Dashboard Template for Looker Studio Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Templat"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-funnel-700x392.jpg",
+    "source_link": "https://windsor.ai/google-ads-funnel-dashboard-looker-studio/",
+    "title": "Free Google Ads Funnel Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Google Ads Funnel Dashboard Template for Looker Studio Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Google Keyword Rank Tracking Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-17.33.50-700x395.jpg",
+    "source_link": "https://windsor.ai/free-google-ads-power-bi-dashboard-template/",
+    "title": "Screenshot a Google Ads Power BI Template",
+    "author": "",
+    "extra_text": "Free Google Ads Power BI Dashboard Template Free Google Analytics 4 Website Conversions Report Dashboard Template for Looker Studio Free Google Keyword Rank Tracking Looker Studio Dashboard Free Google Search Console Power BI Template Free "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/google-keywords-tracking-looker-studio-700x394.jpg",
+    "source_link": "https://windsor.ai/google-keyword-rank-tracking-looker-studio-dashboard/",
+    "title": "Free Google Keyword Rank Tracking Dashboard",
+    "author": "",
+    "extra_text": "Free Google Keyword Rank Tracking Looker Studio Dashboard Free Google Search Console Power BI Template Free Hubspot Marketing Dashboard Template for Looker Studio Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free LinkedIn "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-19.33.49-700x393.jpg",
+    "source_link": "https://windsor.ai/free-google-search-console-power-bi-template/",
+    "title": "google search console power bi report",
+    "author": "",
+    "extra_text": "Free Google Search Console Power BI Template Free Hubspot Marketing Dashboard Template for Looker Studio Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free LinkedIn Ads Dashboard Template on Power BI Free Looker Studio BigC"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/linkedin-ads-dashboard-700x398.jpg",
+    "source_link": "https://windsor.ai/linkedin-ads-dashboard-template-power-bi/",
+    "title": "LinkedIn Ads Dashboard Template on Power BI",
+    "author": "",
+    "extra_text": "Free LinkedIn Ads Dashboard Template on Power BI Free Looker Studio BigCommerce Dashboard Template Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/BigCommerce-700x394.jpg",
+    "source_link": "https://windsor.ai/looker-studio-bigcommerce-dashboard/",
+    "title": "Looker Studio BigCommerce Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Looker Studio BigCommerce Dashboard Template Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Templ"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/square-dashboard-template-700x396.jpg",
+    "source_link": "https://windsor.ai/looker-studio-square-dashboard/",
+    "title": "Free Looker Studio Square Dashboard Template",
+    "author": "",
+    "extra_text": "Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/woocommerce-looker-studio-700x392.png",
+    "source_link": "https://windsor.ai/looker-studio-woocommerce-dashboard-template/",
+    "title": "Free Looker Studio WooCommerce Dashboard Template",
+    "author": "",
+    "extra_text": "Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTu"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/pinterest-dashboard-700x392.jpg",
+    "source_link": "https://windsor.ai/pinterest-ads-dashboard-template-looker-studio/",
+    "title": "Free Pinterest Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTube Analytics Dashboard Templates Free PPC Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesfor"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/toutube-analytics-power-bi_-700x395.png",
+    "source_link": "https://windsor.ai/power-bi-youtube-dashboard/",
+    "title": "Power BI YouTube Analytics Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Power BI YouTube Analytics Dashboard Templates Free PPC Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Looker Studio Fr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/ppc_dashboard_template-looker-700x390.jpg",
+    "source_link": "https://windsor.ai/ppc-dashboard-template-looker-studio/",
+    "title": "Free PPC Report Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free PPC Report Dashboard Template on Looker Studio Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Looker Studio Free Shopify Sales Funnel Dashboard Template for Looke"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/shopify-funnel-700x393.jpg",
+    "source_link": "https://windsor.ai/shopify-funnel-dashboard-looker-studio/",
+    "title": "Shopify Sales Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Shopify Sales Funnel Dashboard Template for Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free Stripe Analytics Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/snapchat-dashboard-700x392.jpg",
+    "source_link": "https://windsor.ai/snapchat-ads-dashboard-template-looker-studio/",
+    "title": "Free Snapchat Ads Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Snapchat Ads Dashboard Template on Looker Studio Free Stripe Analytics Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overvi"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/stripe-template-700x393.jpg",
+    "source_link": "https://windsor.ai/stripe-analytics-dashboard-template-looker-studio/",
+    "title": "Stripe Analytics Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Stripe Analytics Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Ad Manager Dashboard Template on Look"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/twitter-looker-studio-1-700x394.jpg",
+    "source_link": "https://windsor.ai/twitter-dashboard-looker-studio/",
+    "title": "Free Twitter Ads Performance Dashboard on Looker Studio",
+    "author": "",
+    "extra_text": "Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Ad Manager Dashboard Template on Looker Studio Google Analytics 4 (GA4) Dashboard Template on P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/google-ad-manager-1-700x394.jpg",
+    "source_link": "https://windsor.ai/google-ad-manager-dashboard-template-on-looker-studio/",
+    "title": "Google Ad Manager Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Google Ad Manager Dashboard Template on Looker Studio Google Analytics 4 (GA4) Dashboard Template on Power BI Google Business Profile Google Sheets Template Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Googl"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/google-my-business-google-sheets-template-700x376.jpg",
+    "source_link": "https://windsor.ai/google-business-profile-google-sheets-template/",
+    "title": "google my business google sheets template",
+    "author": "",
+    "extra_text": "Google Business Profile Google Sheets Template Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google Sheets Template Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedI"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/07/Google-Search-Console-Overview-e1703779487131-700x430.png",
+    "source_link": "https://windsor.ai/data-studio-seo-reporting-template/",
+    "title": "Google Search Console Template - Overview",
+    "author": "",
+    "extra_text": "Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google Sheets Template Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Google Sheets Google Ads Report Dashboard"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/google-search-console-template-for-google-sheets-700x418.jpg",
+    "source_link": "https://windsor.ai/google-search-console-google-sheets-template/",
+    "title": "google search console template for google sheets",
+    "author": "",
+    "extra_text": "Google Search Console Google Sheets Template Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Google Sheets Google Ads Report Dashboard Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Goo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/google-sheets-budget-pacing-template-e1602938181819-700x411.png",
+    "source_link": "https://windsor.ai/google-sheets-budget-pacing-google-facebook-linkedin/",
+    "title": "google sheets budget pacing template",
+    "author": "",
+    "extra_text": "Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Google Sheets Google Ads Report Dashboard Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Google Sheets LinkedIn Ads Overview Report Googl"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/google-sheets-google-ads-template-windsor-700x421.jpg",
+    "source_link": "https://windsor.ai/google-sheets-google-ads-report-template/",
+    "title": "google sheets google ads template windsor",
+    "author": "",
+    "extra_text": "Google Sheets Google Ads Report Dashboard Template Google Sheets Google Analytics 4 (GA4) Report Dashboard Template Google Sheets LinkedIn Ads Overview Report Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Linkedin-goole-sheet-template-700x392.jpg",
+    "source_link": "https://windsor.ai/google-sheets-linkedin-ads-overview-report/",
+    "title": "Linkedin ads Google sheets",
+    "author": "",
+    "extra_text": "Google Sheets LinkedIn Ads Overview Report Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard templ"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/ppc_planning_template_roas-e1602938365578-700x476.png",
+    "source_link": "https://windsor.ai/google-sheets-ppc-planning-template-for-google-ads-facebook-ads-linkedin-ads/",
+    "title": "ppc planning template roas",
+    "author": "",
+    "extra_text": "Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard templates] How to get your analytics, CRM and me"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/10/crm-media-and-analytics-into-microsoft-excel-700x366.jpg",
+    "source_link": "https://windsor.ai/how-to-get-analytics-crm-and-media-data-into-microsoft-excel/",
+    "title": "",
+    "author": "",
+    "extra_text": "How to get your analytics, CRM and media data into Microsoft Excel using Windsor.ai How to get your Analytics, CRM and Media Data into Tableau Hubspot Google Sheets Dashboard Template Instagram Ads Google Sheets dashboard template Instagram"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/crm-analytics-ad-data-to-tableau-700x366.png",
+    "source_link": "https://windsor.ai/how-to-get-analytics-crm-media-data-into-tableau/",
+    "title": "crm analytics ad data to tableau",
+    "author": "",
+    "extra_text": "How to get your Analytics, CRM and Media Data into Tableau Hubspot Google Sheets Dashboard Template Instagram Ads Google Sheets dashboard template Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-ads-template-for-google-sheets-700x482.jpg",
+    "source_link": "https://windsor.ai/instagram-ads-google-sheets-dashboard-template/",
+    "title": "instagram ads template for google sheets",
+    "author": "",
+    "extra_text": "Instagram Ads Google Sheets dashboard template Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard LinkedIn Page Google Sheets Report Template Loo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/instagram-folowers-tracker-700x395.png",
+    "source_link": "https://windsor.ai/instagram-followers-tracking-dashboard/",
+    "title": "Instagram Followers Tracker Dashboard Templates",
+    "author": "",
+    "extra_text": "Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard LinkedIn Page Google Sheets Report Template Looker Studio AdRoll Ads Overview Report Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/instagram-page-insights-template-google-sheets-700x452.jpg",
+    "source_link": "https://windsor.ai/instagram-organic-google-sheets-dashboard-template/",
+    "title": "instagram page insights template google sheets",
+    "author": "",
+    "extra_text": "Instagram Organic Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard LinkedIn Page Google Sheets Report Template Looker Studio AdRoll Ads Overview Report Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/Screen-Shot-2025-05-19-at-17.46.56-700x369.jpg",
+    "source_link": "https://windsor.ai/linkedin-page-google-sheets-report-template/",
+    "title": "google sheets linkedin page template windsor.ai",
+    "author": "",
+    "extra_text": "LinkedIn Page Google Sheets Report Template Looker Studio AdRoll Ads Overview Report Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Loo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/adroll-ads-overview-report-700x446.png",
+    "source_link": "https://windsor.ai/data-studio-adroll-ads-overview-report/",
+    "title": "Looker Studio AdRoll Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio AdRoll Ads Overview Report Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/amazon-ads-700x393.png",
+    "source_link": "https://windsor.ai/looker-studio-amazon-ads-dashboard/",
+    "title": "Looker Studio Amazon Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/03/amazon-mws-overview-report-700x379.png",
+    "source_link": "https://windsor.ai/data-studio-amazon-mws-overview-report/",
+    "title": "Amazon Seller Central MWS overview report",
+    "author": "",
+    "extra_text": "Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report L"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/apple-search-ads-dashboard-700x394.jpg",
+    "source_link": "https://windsor.ai/looker-studio-apple-search-ads-dashboard/",
+    "title": "Looker Studio Apple Search Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/appnexus-overview-report-1-700x417.png",
+    "source_link": "https://windsor.ai/data-studio-appnexus-overview-report/",
+    "title": "appnexus overview report 1",
+    "author": "",
+    "extra_text": "Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Ov"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/awin-data-studio-report-dashboard-700x354.png",
+    "source_link": "https://windsor.ai/data-studio-awin-overview-report/",
+    "title": "awin data studio report dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ad"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/campaign_manager_360_data_studio_dashboard-700x382.png",
+    "source_link": "https://windsor.ai/data-studio-campaign-manager-360-dcm-overview-report/",
+    "title": "campaign manager 360 data studio dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/criteo-overview-report-data-studio-700x387.png",
+    "source_link": "https://windsor.ai/data-studio-criteo-overview-report/",
+    "title": "criteo overview report data studio",
+    "author": "",
+    "extra_text": "Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/google-display-video-360-report-700x443.png",
+    "source_link": "https://windsor.ai/data-studio-google-display-video-360-overview-report/",
+    "title": "google display video 360 report",
+    "author": "",
+    "extra_text": "Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Facebook Page Insights Overview Report Template Looker Studio Google Ads Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/08/Facebook-Ads-700x391.png",
+    "source_link": "https://windsor.ai/looker-studio-facebook-ads-dashboard-template/",
+    "title": "Facebook Ads Looker Studio template",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Facebook Page Insights Overview Report Template Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Fa"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/facebook-page-insights-data-studio-dashboard-700x388.png",
+    "source_link": "https://windsor.ai/data-studio-facebook-page-insights-overview-report-template/",
+    "title": "facebook page insights data studio dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Page Insights Overview Report Template Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Google "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/Google-Ads-Overview-e1695378059140-700x391.png",
+    "source_link": "https://windsor.ai/looker-studio-google-ads-dashboard-template/",
+    "title": "Google Ads - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Google My Business Dashboard Template Looker Studio Google PageSpeed "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/screely-1613536162455-700x385.png",
+    "source_link": "https://windsor.ai/google-data-studio-google-ads-vs-facebook-ads-dashboard/",
+    "title": "facebook ads vs google ads report",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Google My Business Dashboard Template Looker Studio Google PageSpeed Insights Reporting Dashboard Looker Studio H"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Google-My-Business-Overview-e1704199295391-700x392.jpg",
+    "source_link": "https://windsor.ai/looker-studio-google-my-business-dashboard-template/",
+    "title": "Google My Business - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google My Business Dashboard Template Looker Studio Google PageSpeed Insights Reporting Dashboard Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/PageSpeed-Insights-700x395.png",
+    "source_link": "https://windsor.ai/looker-studio-pagespeed-insights-dashboard/",
+    "title": "Looker Studio Google PageSpeed Insights Reporting Dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Google PageSpeed Insights Reporting Dashboard Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Ads Dashboard Template Looker"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/Instagram-Insights-700x392.png",
+    "source_link": "https://windsor.ai/data-studio-instagram-insights-overview-report/",
+    "title": "Instagram Insights template",
+    "author": "",
+    "extra_text": "Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Ads Dashboard Template Looker Studio LinkedIn Pages Overview Report Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Templat"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/LinkedIn-Ads-Overview-1-e1695906494679-700x390.png",
+    "source_link": "https://windsor.ai/looker-studio-linkedin-ads-dashboard-template/",
+    "title": "Looker Studio - LinkedIn Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Ads Dashboard Template Looker Studio LinkedIn Pages Overview Report Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looke"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/11/linkedin-pages-data-studio-dashboard-700x427.png",
+    "source_link": "https://windsor.ai/data-studio-linkedin-page-overview-report/",
+    "title": "Looker Studio LinkedIn Pages Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio LinkedIn Pages Overview Report Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Pinterest Ads Overview Report Looker "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/bing-ads-microsoft-ads-overview-report-700x388.png",
+    "source_link": "https://windsor.ai/data-studio-bing-ads-overview-report/",
+    "title": "Looker Studio Microsoft Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Microsoft Ads Overview Report Looker Studio Multichannel Attribution Dashboard Template Looker Studio Painel Para Negócios Locais Looker Studio Pinterest Ads Overview Report Looker Studio Reddit Ads Dashboard Template Looker S"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/pinterest_ads_overview_report-700x386.png",
+    "source_link": "https://windsor.ai/data-studio-pinterest-ads-overview-report/",
+    "title": "Looker Studio Pinterest Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Pinterest Ads Overview Report Looker Studio Reddit Ads Dashboard Template Looker Studio Salesforce Overview Report Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overvi"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/05/reddit_template-700x393.png",
+    "source_link": "https://windsor.ai/looker-studio-reddit-ads-dashboard-reporting-template/",
+    "title": "Looker Studio Dashboard for Reddit Ads",
+    "author": "",
+    "extra_text": "Looker Studio Reddit Ads Dashboard Template Looker Studio Salesforce Overview Report Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/Shopify-700x393.png",
+    "source_link": "https://windsor.ai/looker-studio-shopify-dashboard-template/",
+    "title": "Shopify Dashboard Looker Studio",
+    "author": "",
+    "extra_text": "Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power B"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/snapchat-ads-overview-report-700x426.png",
+    "source_link": "https://windsor.ai/data-studio-snapchat-ads-overview-report/",
+    "title": "Looker Studio Snapchat Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketi"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/stripe-google-data-studio-overview-report-700x417.png",
+    "source_link": "https://windsor.ai/data-studio-stripe-overview-report/",
+    "title": "stripe google data studio overview report",
+    "author": "",
+    "extra_text": "Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/tik-tok-ads-overview-report-700x446.png",
+    "source_link": "https://windsor.ai/data-studio-tiktok-ads-overview-report/",
+    "title": "Looker Studio TikTok Ads Overview Report",
+    "author": "",
+    "extra_text": "Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Amazon Report Dashboard Template Powe"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Youtube-Overview-e1704196397178-700x393.jpg",
+    "source_link": "https://windsor.ai/looker-studio-youtube-channel-dashboard-template/",
+    "title": "Youtube - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Amazon Report Dashboard Template Power BI Bing Ads Report Dashboard Template P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Screenshot-Campaigns-700x397.png",
+    "source_link": "https://windsor.ai/meta-ads-template-for-power-bi/",
+    "title": "Screenshot Campaigns",
+    "author": "",
+    "extra_text": "Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI Amazon Report Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Po"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/04/Amazon-Seller-Central-Dashboard-e1680604750695-700x390.png",
+    "source_link": "https://windsor.ai/power-bi-amazon-report-dashboard-template/",
+    "title": "Amazon Seller Central Dashboard",
+    "author": "",
+    "extra_text": "Power BI Amazon Report Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Powe"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/bingadsscr-700x394.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-bing-ads-report-dashboard-template-2/",
+    "title": "Power BI Bing Ads Report Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashbo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/11/power_bi_facebook_ads_report_1-700x426.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-report-dashboard-template/",
+    "title": "power bi facebook ads report 1",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Faceboo0k-Ads-vs-Goolge-Ads-SCR-700x423.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-vs-google-ads-report-template/",
+    "title": "Facebook Ads vs Goolge Ads Report",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dash"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Facebook-Leads-Dashboard-700x391.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-leads-report-dashboard-template/",
+    "title": "Facebook Leads Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Facebook Leads Report Dashboard Template Power BI GA4 Universal Analytics Design Dashboard Template Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashb"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Dashboard-700x395.png",
+    "source_link": "https://windsor.ai/power-bi-google-ads-dashboard-template/",
+    "title": "Google Ads Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Dashboard Template Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashboard Template Power BI Google Search Console Report Dashboard Template Power BI HubSpot Overview Dashboard Te"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Funnel-Dashboard-e1680015502216-700x356.png",
+    "source_link": "https://windsor.ai/power-bi-google-ads-funnel-overview-dashboard-template/",
+    "title": "Google Ads Funnel Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Funnel Overview Dashboard Template Power BI Google Ads Search Term Dashboard Template Power BI Google Search Console Report Dashboard Template Power BI HubSpot Overview Dashboard Template Power BI Instagram Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Search-Terms-Dashboard-700x391.png",
+    "source_link": "https://windsor.ai/power-bi-google-ads-search-term-dashboard-template/",
+    "title": "Google Ads Search Term Dashboard",
+    "author": "",
+    "extra_text": "Power BI Google Ads Search Term Dashboard Template Power BI Google Search Console Report Dashboard Template Power BI HubSpot Overview Dashboard Template Power BI Instagram Dashboard Template Power BI LinkedIn Ads Report Dashboard Template P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/SEO-Report-700x391.jpg",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-google-search-report-dashboard-template/",
+    "title": "Power BI Google Search Console Template",
+    "author": "",
+    "extra_text": "Power BI Google Search Console Report Dashboard Template Power BI HubSpot Overview Dashboard Template Power BI Instagram Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI LinkedIn Page Insights Dashboard Template P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/instagram-page-power-bi-template-700x394.jpg",
+    "source_link": "https://windsor.ai/power-bi-instagram-dashboard-template/",
+    "title": "instagram page power bi template",
+    "author": "",
+    "extra_text": "Power BI Instagram Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI LinkedIn Page Insights Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/LinkedIn-Ads-700x391.jpg",
+    "source_link": "https://windsor.ai/microsoft-power-bi-linkedin-ads-report-dashboard-template/",
+    "title": "Power BI LinkedIn Ads Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Ads Report Dashboard Template Power BI LinkedIn Page Insights Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Report Facebook Page Insights"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/LinkedIn-Page-Insights-Dashboard-700x392.png",
+    "source_link": "https://windsor.ai/power-bi-linkedin-page-insights-dashboard-template/",
+    "title": "LinkedIn Page Insights LinkedIn Page Insights Power BI Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI LinkedIn Page Insights Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Report Facebook Page Insights Dashboard Template Power BI Shopify Overview Da"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/05/Paid-Media-Overview-Dashboard-e1685452465430-700x393.png",
+    "source_link": "https://windsor.ai/power-bi-paid-media-overview-dashboard-template/",
+    "title": "Paid Media Overview Dashboard",
+    "author": "",
+    "extra_text": "Power BI Paid Media Overview Dashboard Template Power BI Paid Social Media Overview Dashboard Template Power BI Report Facebook Page Insights Dashboard Template Power BI Shopify Overview Dashboard Template Power BI Stripe Transactions Dashb"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/06/Paid_Social_Overview_Dashboard-e1687970002148-700x392.png",
+    "source_link": "https://windsor.ai/power-bi-paid-social-overview-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Power BI Paid Social Media Overview Dashboard Template Power BI Report Facebook Page Insights Dashboard Template Power BI Shopify Overview Dashboard Template Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/09/Facebook_Page_Insights_Dashboard_by_Windsor-700x394.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-page-insights-overview-report-template/",
+    "title": "Facebook Page Insights by Windsor",
+    "author": "",
+    "extra_text": "Power BI Report Facebook Page Insights Dashboard Template Power BI Shopify Overview Dashboard Template Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Shopify_Orders_by_Windsor-700x394.png",
+    "source_link": "https://windsor.ai/power-bi-shopify-overview-dashboard-template/",
+    "title": "Shopify Orders Dashboard",
+    "author": "",
+    "extra_text": "Power BI Shopify Overview Dashboard Template Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dash"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/Stripe_Transactions_Dashboard_by_Windsor-e1680775346630-700x394.png",
+    "source_link": "https://windsor.ai/power-bi-stripe-transactions-dashboard-template/",
+    "title": "Power BI Stripe Report Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Perf"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/overview_report-700x426.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/",
+    "title": "Microsoft Power BI Web Media Overview",
+    "author": "",
+    "extra_text": "Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/quickbooks-template-700x393.jpg",
+    "source_link": "https://windsor.ai/quickbooks-dashboard-looker-studio/",
+    "title": "Quickbooks Insights Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Facebook Ads vs Google Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Tableau-Bing-700x371.jpg",
+    "source_link": "https://windsor.ai/tableau-bing-ads-overview-dashboard-template/",
+    "title": "Tableau Bing",
+    "author": "",
+    "extra_text": "Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Facebook Ads vs Google Ads Report Dashboard Template Tableau Facebook Page Insights"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Campaigns-Comparison-Dashboard-Template-700x395.jpg",
+    "source_link": "https://windsor.ai/tableau-compare-campaigns-performance-dashboard/",
+    "title": "Tableau Campaigns Comparison Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Facebook Ads vs Google Ads Report Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Ads Dashbo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Screenshot_2-700x434.png",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-report-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads Report Dashboard Template Tableau Facebook Ads vs Google Ads Report Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/FBvsGoogle-tableau-700x383.jpg",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-vs-google-ads-report-dashboard-template/",
+    "title": "FBvsGoogle tableau",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads vs Google Ads Report Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Facebook-Page-Organic-Featured-Image-e1670672393627-700x435.jpg",
+    "source_link": "https://windsor.ai/tableau-facebook-page-insights-dashboard-template/",
+    "title": "Tableau Facebook Page Organic Template",
+    "author": "",
+    "extra_text": "Tableau Facebook Page Insights Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Display & Video 360 (DV360) Dashboard Te"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Dashboard-Template-Featured-Image-700x418.jpg",
+    "source_link": "https://windsor.ai/tableau-google-ads-dashboard-template/",
+    "title": "Tableau Google Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Display & Video 360 (DV360) Dashboard Template Tableau Google Search Console Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Search-Queries-Template-Featured-Image-700x460.jpg",
+    "source_link": "https://windsor.ai/tableau-google-ads-search-queries-dashboard-template/",
+    "title": "Tableau Google Ads Search Queries Free Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Template Tableau Google Display & Video 360 (DV360) Dashboard Template Tableau Google Search Console Dashboard Template Tableau LinkedIn Ads Dashboard T"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/01/Google-DV-360-Dashboard-700x418.jpg",
+    "source_link": "https://windsor.ai/tableau-google-dv360-dashboard-template/",
+    "title": "Google Display & Video 360 Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Google Display & Video 360 (DV360) Dashboard Template Tableau Google Search Console Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau Stripe Dashboard Template Tab"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Search-Console-Dashboard-Template-e1670685313899-700x641.jpg",
+    "source_link": "https://windsor.ai/tableau-google-search-console-dashboard-template/",
+    "title": "Tableau Google Search Console Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Google Search Console Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau Stripe Dashboard Template Tableau TikTok Ads Dashboard Template Tableau Web Media Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-LinkedIn-Ads-Template-700x434.jpg",
+    "source_link": "https://windsor.ai/tableau-linkedin-ads-dashboard-template/",
+    "title": "",
+    "author": "",
+    "extra_text": "Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau Stripe Dashboard Template Tableau TikTok Ads Dashboard Template Tableau Web Media Overview Dashboard Template Try Windsor.ai today"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/Windsor-Marketing-Dashboard-700x488.jpg",
+    "source_link": "https://windsor.ai/tableau-multichannel-attribution-dashboard-template/",
+    "title": "Windsor Multi-channel Marketing Dashboard Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Multichannel Attribution Dashboard Template Tableau Stripe Dashboard Template Tableau TikTok Ads Dashboard Template Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources i"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Stripe-Dashboard-Template-700x485.jpg",
+    "source_link": "https://windsor.ai/tableau-stripe-dashboard-template/",
+    "title": "Tableau Stripe Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Stripe Dashboard Template Tableau TikTok Ads Dashboard Template Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day tr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/01/TikTok-Ads-Dashboard-700x362.jpg",
+    "source_link": "https://windsor.ai/tableau-tiktok-ads-dashboard-template/",
+    "title": "Tableau TikTok Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau TikTok Ads Dashboard Template Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial."
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/media-dashboard-powerbi-700x394.png",
+    "source_link": "https://windsor.ai/tableau-web-media-overview-dashboard-template/",
+    "title": "media dashboard powerbi",
+    "author": "",
+    "extra_text": "Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial. Start Free Trial"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/Try_Windsor_today-e1668447191709.png",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": "Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial. Start Free Trial"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/05/facebook-page-insights-template-2-700x451.jpg.webp",
+    "source_link": "https://windsor.ai/facebook-page-insights-google-sheets-dashboard-template/",
+    "title": "facebook page insights template",
+    "author": "",
+    "extra_text": "Facebook Page Insights Google Sheets Dashboard Template Free Adobe Analytics Dashboard Template on Looker Studio Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free F"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/adobe-analytics-dashboard-700x391.jpg.webp",
+    "source_link": "https://windsor.ai/adobe-analytics-dashboard-template-looker-studio/",
+    "title": "Free Adobe Analytics Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Adobe Analytics Dashboard Template on Looker Studio Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/amazon-vendor-central-template-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/amazon-vendor-central-dashboard-template-looker-studio/",
+    "title": "Free Amazon Vendor Central Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Amazon Vendor Central Dashboard Template on Looker Studio Free Brand Awareness Dashboard Templates on Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio Free Facebook Ads Funnel Dashboard Template for Looker St"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/hubspot-marketing-dashboard-700x390.jpg.webp",
+    "source_link": "https://windsor.ai/hubspot-marketing-dashboard-template-looker-studio/",
+    "title": "Connect your marketing data to the free Hubspot Marketing Dashboard Template for Looker Studio created by Windsor.ai to automate marketing reports.",
+    "author": "",
+    "extra_text": "Free Hubspot Marketing Dashboard Template for Looker Studio Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free LinkedIn Ads Dashboard Template on Power BI Free Looker Studio BigCommerce Dashboard Template Free Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/hubspot-funnel-700x396.jpg.webp",
+    "source_link": "https://windsor.ai/hubspot-sales-funnel-dashboard-looker-studio/",
+    "title": "Free Hubspot Sales Funnel Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Hubspot Sales Funnel Dashboard Template for Looker Studio Free LinkedIn Ads Dashboard Template on Power BI Free Looker Studio BigCommerce Dashboard Template Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Da"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/BigCommerce-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-bigcommerce-dashboard/",
+    "title": "Looker Studio BigCommerce Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Looker Studio BigCommerce Dashboard Template Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Templ"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/square-dashboard-template-700x396.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-square-dashboard/",
+    "title": "Free Looker Studio Square Dashboard Template",
+    "author": "",
+    "extra_text": "Free Looker Studio Square Dashboard Template Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/woocommerce-looker-studio-700x392.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-woocommerce-dashboard-template/",
+    "title": "Free Looker Studio WooCommerce Dashboard Template",
+    "author": "",
+    "extra_text": "Free Looker Studio WooCommerce Dashboard Template Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTu"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/Mailchimp-Looker-studio-template-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/mailchimp-dashboard-template-looker-studio/",
+    "title": "Free Mailchimp Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Free Mailchimp Dashboard Template on Looker Studio Free Marketing Agency Report Dashboard Template on Looker Studio Free Pinterest Ads Dashboard Template on Looker Studio Free Power BI YouTube Analytics Dashboard Templates Free PPC Report D"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/salesforce-marketing-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/salesforce-marketing-cloud-dashboard-template/",
+    "title": "Salesforce Marketing Cloud Dashboard Templates",
+    "author": "",
+    "extra_text": "Free Salesforce Marketing Cloud Dashboard Template on Looker Studio Free Salesforce Sales Funnel Dashboard Template for Looker Studio Free Shopify Sales Funnel Dashboard Template for Looker Studio Free Snapchat Ads Dashboard Template on Loo"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/07/SalesForce-Sales-Funnel-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/salesforce-sales-funnel-dashboard/",
+    "title": "Salesforce Sales Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Salesforce Sales Funnel Dashboard Template for Looker Studio Free Shopify Sales Funnel Dashboard Template for Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free Stripe Analytics Dashboard Template on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/shopify-funnel-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/shopify-funnel-dashboard-looker-studio/",
+    "title": "Shopify Sales Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Shopify Sales Funnel Dashboard Template for Looker Studio Free Snapchat Ads Dashboard Template on Looker Studio Free Stripe Analytics Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/stripe-template-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/stripe-analytics-dashboard-template-looker-studio/",
+    "title": "Stripe Analytics Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Free Stripe Analytics Dashboard Template on Looker Studio Free X / Twitter Ads Performance Dashboard on Looker Studio GA4, Google Ads, Bing Ads, Meta Ads, Pinterest Ads e-commerce overview report Google Ad Manager Dashboard Template on Look"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/10/google-ad-manager-1-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/google-ad-manager-dashboard-template-on-looker-studio/",
+    "title": "Google Ad Manager Dashboard Template on Looker Studio",
+    "author": "",
+    "extra_text": "Google Ad Manager Dashboard Template on Looker Studio Google Analytics 4 (GA4) Dashboard Template on Power BI Google Business Profile Google Sheets Template Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Googl"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/google-my-business-google-sheets-template-700x376.jpg.webp",
+    "source_link": "https://windsor.ai/google-business-profile-google-sheets-template/",
+    "title": "google my business google sheets template",
+    "author": "",
+    "extra_text": "Google Business Profile Google Sheets Template Google Looker Studio SEO Template: A Ready-To-Use Reporting Dashboard in 2024 Google Search Console Google Sheets Template Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedI"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/mailchimp_data_studio_dashboard-700x385.png.webp",
+    "source_link": "https://windsor.ai/data-studio-mailchimp-overview-report/",
+    "title": "mailchimp google data studio template",
+    "author": "",
+    "extra_text": "How to Connect MailChimp to Looker Studio in 10 Easy Steps How to Connect Power BI to Salesforce [+ Free Dashboard templates] How to get your analytics, CRM and media data into Microsoft Excel using Windsor.ai How to get your Analytics, CRM"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/03/Salesforce-Report-700x426.png.webp",
+    "source_link": "https://windsor.ai/microsoft-power-bi-salesforce-report-dashboard-template/",
+    "title": "Power BI Salesforce Report Template",
+    "author": "",
+    "extra_text": "How to Connect Power BI to Salesforce [+ Free Dashboard templates] How to get your analytics, CRM and media data into Microsoft Excel using Windsor.ai How to get your Analytics, CRM and Media Data into Tableau Hubspot Google Sheets Dashboar"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/10/crm-media-and-analytics-into-microsoft-excel-700x366.jpg.webp",
+    "source_link": "https://windsor.ai/how-to-get-analytics-crm-and-media-data-into-microsoft-excel/",
+    "title": "",
+    "author": "",
+    "extra_text": "How to get your analytics, CRM and media data into Microsoft Excel using Windsor.ai How to get your Analytics, CRM and Media Data into Tableau Hubspot Google Sheets Dashboard Template Instagram Ads Google Sheets dashboard template Instagram"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/crm-analytics-ad-data-to-tableau-700x366.png.webp",
+    "source_link": "https://windsor.ai/how-to-get-analytics-crm-media-data-into-tableau/",
+    "title": "crm analytics ad data to tableau",
+    "author": "",
+    "extra_text": "How to get your Analytics, CRM and Media Data into Tableau Hubspot Google Sheets Dashboard Template Instagram Ads Google Sheets dashboard template Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/hubspot-google-sheets-template-windsor-700x327.jpg.webp",
+    "source_link": "https://windsor.ai/hubspot-google-sheets-dashboard-template/",
+    "title": "hubspot google sheets template windsor",
+    "author": "",
+    "extra_text": "Hubspot Google Sheets Dashboard Template Instagram Ads Google Sheets dashboard template Instagram Followers Tracker Analytics Looker Studio Dashboard Instagram Organic Google Sheets Dashboard Template Klaviyo  Looker Studio Dashboard Linked"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/02/11111111111-700x303.jpg.webp",
+    "source_link": "https://windsor.ai/klaviyo-looker-studio-dashboard/",
+    "title": "",
+    "author": "",
+    "extra_text": "Klaviyo  Looker Studio Dashboard LinkedIn Page Google Sheets Report Template Looker Studio AdRoll Ads Overview Report Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/amazon-ads-700x393.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-amazon-ads-dashboard/",
+    "title": "Looker Studio Amazon Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio Amazon Ads Dashboard Template Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/03/amazon-mws-overview-report-700x379.png.webp",
+    "source_link": "https://windsor.ai/data-studio-amazon-mws-overview-report/",
+    "title": "Amazon Seller Central MWS overview report",
+    "author": "",
+    "extra_text": "Looker Studio Amazon Seller Central (MWS) Overview Report Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report L"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/apple-search-ads-dashboard-700x394.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-apple-search-ads-dashboard/",
+    "title": "Looker Studio Apple Search Ads Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio Apple Search Ads Dashboard Template Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/06/appnexus-overview-report-1-700x417.png.webp",
+    "source_link": "https://windsor.ai/data-studio-appnexus-overview-report/",
+    "title": "appnexus overview report 1",
+    "author": "",
+    "extra_text": "Looker Studio AppNexus Overview Report Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Ov"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/awin-data-studio-report-dashboard-700x354.png.webp",
+    "source_link": "https://windsor.ai/data-studio-awin-overview-report/",
+    "title": "awin data studio report dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Awin Overview Report Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ad"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/campaign_manager_360_data_studio_dashboard-700x382.png.webp",
+    "source_link": "https://windsor.ai/data-studio-campaign-manager-360-dcm-overview-report/",
+    "title": "campaign manager 360 data studio dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Campaign Manager 360 (DCM) Overview Report Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/criteo-overview-report-data-studio-700x387.png.webp",
+    "source_link": "https://windsor.ai/data-studio-criteo-overview-report/",
+    "title": "criteo overview report data studio",
+    "author": "",
+    "extra_text": "Looker Studio Criteo Overview Report Looker Studio CRM Attribution Dashboard Template Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/google-display-video-360-report-700x443.png.webp",
+    "source_link": "https://windsor.ai/data-studio-google-display-video-360-overview-report/",
+    "title": "google display video 360 report",
+    "author": "",
+    "extra_text": "Looker Studio DV 360 Overview Report Looker Studio Facebook Ads Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio Facebook Page Insights Overview Report Template Looker Studio Google Ads Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/01/facebook-page-insights-data-studio-dashboard-700x388.png.webp",
+    "source_link": "https://windsor.ai/data-studio-facebook-page-insights-overview-report-template/",
+    "title": "facebook page insights data studio dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Page Insights Overview Report Template Looker Studio Google Ads Dashboard Template Looker Studio Google Ads vs. Facebook Ads Dashboard Template Looker Studio Google Analytics 4 Dashboard Template Looker Studio Google "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/01/Google-My-Business-Overview-e1704199295391-700x392.jpg.webp",
+    "source_link": "https://windsor.ai/looker-studio-google-my-business-dashboard-template/",
+    "title": "Google My Business - Overview",
+    "author": "",
+    "extra_text": "Looker Studio Google My Business Dashboard Template Looker Studio Google PageSpeed Insights Reporting Dashboard Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/06/PageSpeed-Insights-700x395.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-pagespeed-insights-dashboard/",
+    "title": "Looker Studio Google PageSpeed Insights Reporting Dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Google PageSpeed Insights Reporting Dashboard Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Ads Dashboard Template Looker"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/HubSpot-700x393.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-hubspot-dashboard-template/",
+    "title": "HubSpot Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio HubSpot Dashboard Template Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Ads Dashboard Template Looker Studio LinkedIn Pages Overview Report Looker Studio Microso"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/hubspot-overview-report-700x388.png.webp",
+    "source_link": "https://windsor.ai/data-studio-hubspot-overview-report/",
+    "title": "hubspot overview report",
+    "author": "",
+    "extra_text": "Looker Studio HubSpot Overview Report Looker Studio Instagram Insights Overview Report Looker Studio LinkedIn Ads Dashboard Template Looker Studio LinkedIn Pages Overview Report Looker Studio Microsoft Ads Overview Report Looker Studio Mult"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/05/reddit_template-700x393.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-reddit-ads-dashboard-reporting-template/",
+    "title": "Looker Studio Dashboard for Reddit Ads",
+    "author": "",
+    "extra_text": "Looker Studio Reddit Ads Dashboard Template Looker Studio Salesforce Overview Report Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/09/salesforce-overview-report-700x405.png.webp",
+    "source_link": "https://windsor.ai/data-studio-salesforce-overview-report/",
+    "title": "salesforce overview report",
+    "author": "",
+    "extra_text": "Looker Studio Salesforce Overview Report Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboa"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/Shopify-700x393.png.webp",
+    "source_link": "https://windsor.ai/looker-studio-shopify-dashboard-template/",
+    "title": "Shopify Dashboard Looker Studio",
+    "author": "",
+    "extra_text": "Looker Studio Shopify Dashboard Template Looker Studio Snapchat Ads Overview Report Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power B"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/stripe-google-data-studio-overview-report-700x417.png.webp",
+    "source_link": "https://windsor.ai/data-studio-stripe-overview-report/",
+    "title": "stripe google data studio overview report",
+    "author": "",
+    "extra_text": "Looker Studio Stripe Overview Report Looker Studio TikTok Ads Overview Report Looker Studio Youtube Channel Dashboard Template Meta Ads Template for Power BI Microsoft Power BI Multichannel Marketing Attribution Dashboard Template Power BI "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/04/Amazon-Seller-Central-Dashboard-e1680604750695-700x390.png.webp",
+    "source_link": "https://windsor.ai/power-bi-amazon-report-dashboard-template/",
+    "title": "Amazon Seller Central Dashboard",
+    "author": "",
+    "extra_text": "Power BI Amazon Report Dashboard Template Power BI Bing Ads Report Dashboard Template Power BI Facebook Ads Report Dashboard Template Power BI Facebook Ads vs Google Ads Report Template Power BI Facebook Leads Report Dashboard Template Powe"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/HubSpot-Dashboard-1-e1680096657769-700x392.png.webp",
+    "source_link": "https://windsor.ai/power-bi-hubspot-overview-dashboard-template/",
+    "title": "HubSpot Overview Dashboard",
+    "author": "",
+    "extra_text": "Power BI HubSpot Overview Dashboard Template Power BI Instagram Dashboard Template Power BI LinkedIn Ads Report Dashboard Template Power BI LinkedIn Page Insights Dashboard Template Power BI Paid Media Overview Dashboard Template Power BI P"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Shopify_Orders_by_Windsor-700x394.png.webp",
+    "source_link": "https://windsor.ai/power-bi-shopify-overview-dashboard-template/",
+    "title": "Shopify Orders Dashboard",
+    "author": "",
+    "extra_text": "Power BI Shopify Overview Dashboard Template Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dash"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/Stripe_Transactions_Dashboard_by_Windsor-e1680775346630-700x394.png.webp",
+    "source_link": "https://windsor.ai/power-bi-stripe-transactions-dashboard-template/",
+    "title": "Power BI Stripe Report Dashboard Template",
+    "author": "",
+    "extra_text": "Power BI Stripe Transactions Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Perf"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/quickbooks-template-700x393.jpg.webp",
+    "source_link": "https://windsor.ai/quickbooks-dashboard-looker-studio/",
+    "title": "Quickbooks Insights Dashboard Templates on Looker Studio",
+    "author": "",
+    "extra_text": "Quickbooks Insights Dashboard Templates on Looker Studio Tableau Bing Ads Overview Dashboard Template Tableau Compare Campaigns Performance Dashboard Template Tableau Facebook Ads Report Dashboard Template Tableau Facebook Ads vs Google Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/FBvsGoogle-tableau-700x383.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-vs-google-ads-report-dashboard-template/",
+    "title": "FBvsGoogle tableau",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads vs Google Ads Report Dashboard Template Tableau Facebook Page Insights Dashboard Template Tableau Google Ads Dashboard Template Tableau Google Ads Search Queries Dashboard Template Tableau Google Analytics Dashboard Tem"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/01/Google-DV-360-Dashboard-700x418.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-google-dv360-dashboard-template/",
+    "title": "Google Display & Video 360 Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Google Display & Video 360 (DV360) Dashboard Template Tableau Google Search Console Dashboard Template Tableau LinkedIn Ads Dashboard Template Tableau Multichannel Attribution Dashboard Template Tableau Stripe Dashboard Template Tab"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Stripe-Dashboard-Template-700x485.jpg.webp",
+    "source_link": "https://windsor.ai/tableau-stripe-dashboard-template/",
+    "title": "Tableau Stripe Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Stripe Dashboard Template Tableau TikTok Ads Dashboard Template Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day tr"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/media-dashboard-powerbi-700x394.png.webp",
+    "source_link": "https://windsor.ai/tableau-web-media-overview-dashboard-template/",
+    "title": "media dashboard powerbi",
+    "author": "",
+    "extra_text": "Tableau Web Media Overview Dashboard Template Try Windsor.ai today Access all your data from your favorite sources in one place. Get started for free with a 30 - day trial. Start Free Trial"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/ecommerce-attribution-model.png.webp",
+    "source_link": "",
+    "title": "ecommerce attribution model",
+    "author": "",
+    "extra_text": "You should always factor in cancellations and returns into your measurement and reporting. Not doing so can lead to decisions based on an incomplete data set. We have clients who had >40% of their orders returned on specific campaigns. Not "
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/ecommerce-attribution-model-300x58.png.webp",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/ecommerce-attribution-model-700x135.png.webp",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/ecommerce-attribution-model-768x148.png.webp",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/ecommerce-attribution-model.png",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/11/how-to-analyze-facebook-ads-data-640x360.jpg",
+    "source_link": "https://windsor.ai/how-to-analyze-facebook-ads-data/",
+    "title": "",
+    "author": "",
+    "extra_text": "How to Analyze Facebook Ads Data: From Manual Reports to Full Automation How to Connect Facebook Ads to Looker Studio: 3 Methods [Automated Setup Included]"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/10/facebook-ads-to-looker-studio-integration-640x360.jpg",
+    "source_link": "https://windsor.ai/how-to-connect-facebook-ads-to-looker-studio/",
+    "title": "facebook ads to looker studio integration",
+    "author": "",
+    "extra_text": "How to Connect Facebook Ads to Looker Studio: 3 Methods [Automated Setup Included] How to Integrate Facebook Ads into BigQuery: Top 3 Methods"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/06/facebook-ads-to-bigquery-integration-1-640x360.jpg",
+    "source_link": "https://windsor.ai/how-to-integrate-facebook-ads-into-bigquery/",
+    "title": "facebook ads to bigquery integration",
+    "author": "",
+    "extra_text": "How to Integrate Facebook Ads into BigQuery: Top 3 Methods Free Facebook Ads Power BI Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2025/01/Screenshot-2025-01-26-at-18.50.57-e1743073942350-640x360.jpg",
+    "source_link": "https://windsor.ai/free-facebook-ads-power-bi-dashboard-template/",
+    "title": "meta ads power bi dashboard template",
+    "author": "",
+    "extra_text": "Free Facebook Ads Power BI Dashboard Template Free Brand Awareness Dashboard Templates on Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-funnel-640x360.jpg",
+    "source_link": "https://windsor.ai/facebook-ads-funnel-dashboard-looker-studio/",
+    "title": "Facebook Ads Funnel Dashboard",
+    "author": "",
+    "extra_text": "Free Facebook Ads Funnel Dashboard Template for Looker Studio Free Facebook Ads Budget Dashboard Template for Looker Studio"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/facebook-ads-budget-dashboard-640x360.jpg",
+    "source_link": "https://windsor.ai/facebook-ads-budget-dashboard-looker-studio/",
+    "title": "Free Facebook Ads Budget Dashboard Template for Looker Studio",
+    "author": "",
+    "extra_text": "Free Facebook Ads Budget Dashboard Template for Looker Studio Power BI Facebook Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/11/power_bi_facebook_ads_report_1-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-report-dashboard-template/",
+    "title": "power bi facebook ads report 1",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads Report Dashboard Template Facebook Ads Report Template for Google Sheets"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Campaigns-Comparison-Dashboard-Template-640x360.jpg",
+    "source_link": "https://windsor.ai/tableau-compare-campaigns-performance-dashboard/",
+    "title": "Tableau Campaigns Comparison Dashboard Template",
+    "author": "",
+    "extra_text": "Tableau Compare Campaigns Performance Dashboard Template Fetch your Facebook Ads data using windsor.ai API and R"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/11/onboard_API_withoutAPI-640x360.jpg",
+    "source_link": "https://windsor.ai/fetch-facebook-ads-using-windsor-ai-api-r/",
+    "title": "onboard_API_withoutAPI",
+    "author": "",
+    "extra_text": "Fetch your Facebook Ads data using windsor.ai API and R Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/google-sheets-budget-pacing-template-e1602938181819-640x360.png",
+    "source_link": "https://windsor.ai/google-sheets-budget-pacing-google-facebook-linkedin/",
+    "title": "google sheets budget pacing template",
+    "author": "",
+    "extra_text": "Google Sheets Budget Pacing Template for Google Ads, Facebook, LinkedIn Ads Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/ppc_planning_template_roas-e1602938365578-640x360.png",
+    "source_link": "https://windsor.ai/google-sheets-ppc-planning-template-for-google-ads-facebook-ads-linkedin-ads/",
+    "title": "ppc planning template roas",
+    "author": "",
+    "extra_text": "Google Sheets PPC Planning Template for Google, Bing, Facebook, LinkedIn Ads Tableau Multichannel Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/02/Windsor-Marketing-Dashboard-640x360.jpg",
+    "source_link": "https://windsor.ai/tableau-multichannel-attribution-dashboard-template/",
+    "title": "Windsor Multi-channel Marketing Dashboard Tableau Template",
+    "author": "",
+    "extra_text": "Tableau Multichannel Attribution Dashboard Template Tableau Facebook Ads vs Google Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/FBvsGoogle-tableau-640x360.jpg",
+    "source_link": "https://windsor.ai/tableau-facebook-ads-vs-google-ads-report-dashboard-template/",
+    "title": "FBvsGoogle tableau",
+    "author": "",
+    "extra_text": "Tableau Facebook Ads vs Google Ads Report Dashboard Template Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, …"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/05/excel_channel_mix_overview-640x360.png",
+    "source_link": "https://windsor.ai/excel-marketing-reporting-template-for-google-ads-facebook-ads-bing-ads-linkedin-ads/",
+    "title": "excel channel mix overview",
+    "author": "",
+    "extra_text": "Excel Marketing Reporting Template for Google Ads, Facebook Ads, Bing Ads, LinkedIn Ads, … Excel Facebook Ads Overview Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report-640x360.jpg",
+    "source_link": "https://windsor.ai/excel-facebook-ads-overview-report/",
+    "title": "Excel Facebook Ads Report",
+    "author": "",
+    "extra_text": "Excel Facebook Ads Overview Report Template Looker Studio Multichannel Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2019/12/data-studio-multi-touch-attribution-1-640x360.png",
+    "source_link": "https://windsor.ai/data-studio-template-for-multichannel-marketing-attribution/",
+    "title": "data studio multi touch attribution 1",
+    "author": "",
+    "extra_text": "Looker Studio Multichannel Attribution Dashboard Template Power BI Facebook Ads vs Google Ads Report Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Faceboo0k-Ads-vs-Goolge-Ads-SCR-640x360.png",
+    "source_link": "https://windsor.ai/power-bi-facebook-ads-vs-google-ads-report-template/",
+    "title": "Facebook Ads vs Goolge Ads Report",
+    "author": "",
+    "extra_text": "Power BI Facebook Ads vs Google Ads Report Template Tableau Web Media Overview Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/media-dashboard-powerbi-640x360.png",
+    "source_link": "https://windsor.ai/tableau-web-media-overview-dashboard-template/",
+    "title": "media dashboard powerbi",
+    "author": "",
+    "extra_text": "Tableau Web Media Overview Dashboard Template Tableau Facebook Ads Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/screely-1613536162455-640x360.png",
+    "source_link": "https://windsor.ai/google-data-studio-google-ads-vs-facebook-ads-dashboard/",
+    "title": "facebook ads vs google ads report",
+    "author": "",
+    "extra_text": "Looker Studio Google Ads vs. Facebook Ads Dashboard Template Power BI Web Media & SEO Overview Report Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/08/overview_report-640x360.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/",
+    "title": "Microsoft Power BI Web Media Overview",
+    "author": "",
+    "extra_text": "Power BI Web Media & SEO Overview Report Dashboard Template Looker Studio Facebook Ads E-commerce Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/Data-Studio-Facebook-Ecommerce-Dashboard-640x360.png",
+    "source_link": "https://windsor.ai/data-studio-facebook-ads-e-commerce-dashboard-template/",
+    "title": "Data Studio Facebook Ecommerce Dashboard",
+    "author": "",
+    "extra_text": "Looker Studio Facebook Ads E-commerce Dashboard Template Looker Studio CRM Attribution Dashboard Template"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/B2B_Attribution_Dashboard-e1586836925287-640x360.png",
+    "source_link": "https://windsor.ai/data-studio-crm-attribution-dashboard-template/",
+    "title": "Looker Studio CRM Attribution Dashboard Template",
+    "author": "",
+    "extra_text": "Looker Studio CRM Attribution Dashboard Template Microsoft Power BI Multichannel Marketing Attribution Dashboard Template What is Facebook Ads (Meta) Marketing Reporting Dashboard? Facebook Ads reporting dashboard is a reporting tool that h"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/03/Power-BI-Multichannel-Marketing-Attribution-Dashboard-640x360.png",
+    "source_link": "https://windsor.ai/microsoft-power-bi-multichannel-marketing-attribution-dashboard-template/",
+    "title": "Power BI Multichannel Marketing Attribution Dashboard",
+    "author": "",
+    "extra_text": "Microsoft Power BI Multichannel Marketing Attribution Dashboard Template What is Facebook Ads (Meta) Marketing Reporting Dashboard? Facebook Ads reporting dashboard is a reporting tool that helps you efficiently create reports from your Fac"
+  },
+  {
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/04/Data-Studio-Facebook-Ecommerce-Dashboard-640x360.png.webp",
+    "source_link": "",
+    "title": "",
+    "author": "",
+    "extra_text": ""
+  }
+]

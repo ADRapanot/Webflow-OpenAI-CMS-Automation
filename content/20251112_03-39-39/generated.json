@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Google Ads - Overview",
+    "slug": "looker-studio-google-ads-overview",
+    "subtitle": "Looker Studio template for end-to-end Google Ads KPIs and trends.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/looker-studio-google-ads-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/09/Google-Ads-Overview-e1695378059140-700x391.png.webp",
+    "tags": [
+      "Google Ads",
+      "Looker Studio",
+      "Template"
+    ],
+    "category": "Marketing",
+    "description": "A free Looker Studio dashboard that visualizes Google Ads clicks, impressions, CPC, costs, conversions, and ROAS for quick performance monitoring at account and campaign levels.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Free Google Ads Budget Tracker Dashboard Template for Looker Studio",
+    "slug": "google-ads-budget-tracker-looker",
+    "subtitle": "Track daily spend, pacing, and forecast vs. budget across campaigns.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/google-ads-budget-dashboard-looker/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-budget-dashboard-700x393.jpg.webp",
+    "tags": [
+      "Google Ads",
+      "Looker Studio",
+      "Budget"
+    ],
+    "category": "Marketing",
+    "description": "Budget pacing dashboard to control Google Ads spend. Monitor daily and month-to-date spend, remaining budget, and projected totals to prevent overspend and optimize allocation.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Free Google Ads Funnel Dashboard Template for Looker Studio",
+    "slug": "google-ads-funnel-looker-studio",
+    "subtitle": "Analyze the full ads funnel from impressions to conversions and CPA.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/google-ads-funnel-dashboard-looker-studio/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/google-ads-funnel-700x392.jpg.webp",
+    "tags": [
+      "Google Ads",
+      "Looker Studio",
+      "Funnel"
+    ],
+    "category": "Marketing",
+    "description": "A funnel-focused report showing drop-offs across impressions, clicks, sessions, and conversions. Identify bottlenecks and optimize bids, keywords, and creatives for better CPA.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Dashboard",
+    "slug": "power-bi-google-ads-dashboard",
+    "subtitle": "Power BI template for interactive Google Ads performance analytics.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/power-bi-google-ads-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Dashboard-700x395.png.webp",
+    "tags": [
+      "Google Ads",
+      "Power BI"
+    ],
+    "category": "Marketing",
+    "description": "Connect Google Ads to Power BI and explore spend, clicks, conversions, and ROAS with drilldowns by campaign, device, geo, and time for deeper insights and reporting automation.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Funnel Dashboard",
+    "slug": "power-bi-google-ads-funnel",
+    "subtitle": "Power BI funnel view across awareness, engagement, and conversions.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/power-bi-google-ads-funnel-overview-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Funnel-Dashboard-e1680015502216-700x356.png.webp",
+    "tags": [
+      "Google Ads",
+      "Power BI",
+      "Funnel"
+    ],
+    "category": "Marketing",
+    "description": "Prebuilt Power BI visuals for funnel analysis of Google Ads, surfacing drop-offs and efficiency by campaign and network to guide bid and creative optimization decisions.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Search Term Dashboard",
+    "slug": "power-bi-google-ads-search-terms",
+    "subtitle": "Power BI template focused on queries, match types, and negatives.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/power-bi-google-ads-search-term-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/03/Google-Ads-Search-Terms-Dashboard-700x391.png.webp",
+    "tags": [
+      "Google Ads",
+      "Power BI",
+      "Search"
+    ],
+    "category": "Marketing",
+    "description": "Investigate search terms driving spend and conversions, evaluate match types, and spot negative keyword opportunities with interactive query-level performance insights.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Tableau Google Ads Dashboard Template",
+    "slug": "tableau-google-ads-dashboard",
+    "subtitle": "Tableau workbook to visualize Google Ads KPIs and performance.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/tableau-google-ads-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Dashboard-Template-Featured-Image-700x418.jpg.webp",
+    "tags": [
+      "Google Ads",
+      "Tableau"
+    ],
+    "category": "Marketing",
+    "description": "A ready-made Tableau template for Google Ads reporting with views for spend, clicks, CPC, conversions, and ROAS. Includes campaign, ad group, and device breakdowns.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Tableau Google Ads Search Queries Free Dashboard Template",
+    "slug": "tableau-google-ads-search-queries",
+    "subtitle": "Analyze Google Ads search queries, terms, and performance in Tableau.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/tableau-google-ads-search-queries-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2022/12/Tableau-Google-Ads-Search-Queries-Template-Featured-Image-700x460.jpg.webp",
+    "tags": [
+      "Google Ads",
+      "Tableau",
+      "Search"
+    ],
+    "category": "Marketing",
+    "description": "Search query reporting for Google Ads inside Tableau to surface terms driving cost and conversions. Identify optimization and negative keyword opportunities quickly.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "facebook ads vs google ads report",
+    "slug": "looker-studio-ads-vs-facebook",
+    "subtitle": "Looker Studio template comparing Google Ads and Facebook Ads KPIs.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/google-data-studio-google-ads-vs-facebook-ads-dashboard/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/screely-1613536162455-700x385.png.webp",
+    "tags": [
+      "Google Ads",
+      "Looker Studio",
+      "Benchmarking"
+    ],
+    "category": "Marketing",
+    "description": "Benchmark ROI and efficiency by channel. Compare CPC, CPA, ROAS, and conversion trends between Google Ads and Facebook Ads to guide budget shifts and strategy.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "google sheets google ads template windsor",
+    "slug": "google-sheets-google-ads-template",
+    "subtitle": "Google Sheets dashboard for lightweight Google Ads reporting.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/google-sheets-google-ads-report-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2023/04/google-sheets-google-ads-template-windsor-700x421.jpg.webp",
+    "tags": [
+      "Google Ads",
+      "Google Sheets"
+    ],
+    "category": "Marketing",
+    "description": "A spreadsheet-based Google Ads report that fetches metrics via API into Sheets. Ideal for simple KPI tracking, sharing, and quick pivots without BI tools.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Free PPC Report Dashboard Template on Looker Studio",
+    "slug": "ppc-dashboard-looker-studio",
+    "subtitle": "Cross-channel PPC template with Google Ads coverage and rollups.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/ppc-dashboard-template-looker-studio/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/ppc_dashboard_template-looker-700x390.jpg.webp",
+    "tags": [
+      "PPC",
+      "Looker Studio",
+      "Template"
+    ],
+    "category": "Marketing",
+    "description": "Get a consolidated PPC view including Google Ads alongside other ad platforms. Monitor spend, clicks, conversions, and efficiency with filters and drilldowns.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Marketing Agency Report Dashboard",
+    "slug": "agency-report-looker-studio",
+    "subtitle": "Client-ready Looker Studio template with Google Ads and other sources.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/agency-report-dashboard-looker-studio/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/09/agency-report1-700x394.jpg.webp",
+    "tags": [
+      "Agency",
+      "Looker Studio"
+    ],
+    "category": "Marketing",
+    "description": "Prebuilt agency dashboard covering Google Ads, GA4, Meta, Bing, and more. Use it to standardize KPI reporting, pacing, and goal tracking across multiple clients.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Free GA4 Website Conversions Report Dashboard Template for Looker Studio",
+    "slug": "ga4-website-conversions-looker",
+    "subtitle": "GA4 conversion insights to complement Google Ads performance views.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/ga4-website-conversions-dashboard-looker-studio/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2024/08/GA4-Conversions-700x394.jpg.webp",
+    "tags": [
+      "GA4",
+      "Looker Studio"
+    ],
+    "category": "Marketing",
+    "description": "Visualize GA4 conversions, events, and attribution. Use alongside Google Ads dashboards to validate conversion quality, lag, and paths that drive ROAS.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Facebook Ads vs Goolge Ads Report",
+    "slug": "power-bi-facebook-vs-google-ads",
+    "subtitle": "Power BI comparison dashboard for Google Ads and Meta Ads.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/power-bi-facebook-ads-vs-google-ads-report-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2021/01/Faceboo0k-Ads-vs-Goolge-Ads-SCR-640x360.png.webp",
+    "tags": [
+      "Google Ads",
+      "Power BI",
+      "Benchmarking"
+    ],
+    "category": "Marketing",
+    "description": "Side-by-side comparison of Google Ads and Facebook Ads in Power BI. Evaluate CPC, CTR, CPA, and ROAS to identify the most efficient channel and shift budgets confidently.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  },
+  {
+    "title": "Power BI Multichannel Marketing Attribution Dashboard",
+    "slug": "power-bi-multichannel-attribution",
+    "subtitle": "Attribution-focused Power BI template including Google Ads touchpoints.",
+    "source": "Windsor.ai",
+    "author": "Windsor.ai",
+    "link": "https://windsor.ai/microsoft-power-bi-multichannel-marketing-attribution-dashboard-template/",
+    "thumbnail": "https://windsor.ai/wp-content/uploads/2020/03/Power-BI-Multichannel-Marketing-Attribution-Dashboard-700x426.png.webp",
+    "tags": [
+      "Attribution",
+      "Power BI",
+      "Marketing"
+    ],
+    "category": "Marketing",
+    "description": "Model and visualize assisted conversions and multi-touch paths across channels including Google Ads. Compare attribution models to understand true channel contribution.",
+    "access": "public",
+    "source_type": "Template",
+    "license": null,
+    "last_checked": "2025-11-12",
+    "language": "en"
+  }
+]

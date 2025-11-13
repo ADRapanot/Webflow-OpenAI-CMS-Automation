@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Google Ads Performance Dashboard",
+    "slug": "google-ads-performance-dashboard",
+    "subtitle": "Monitors Google Ads campaigns",
+    "source": "Tableau Public",
+    "author": "Digital Marketing Team",
+    "link": "https://public.tableau.com/views/GoogleAdsPerformanceDashboard",
+    "thumbnail": "https://public.tableau.com/thumbnails/google_ads_performance.jpg",
+    "tags": [
+      "google ads",
+      "marketing analytics",
+      "campaigns"
+    ],
+    "category": "marketing",
+    "description": "This dashboard provides insights into the performance of Google Ads campaigns, including key metrics like clicks, impressions, and conversions.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2023-10-15",
+    "language": "en"
+  },
+  {
+    "title": "PPC Marketing Dashboard",
+    "slug": "ppc-marketing-dashboard",
+    "subtitle": "Tracks PPC ad performance",
+    "source": "Looker Studio Gallery",
+    "author": "SEM Analytics Team",
+    "link": "https://lookerstudio.google.com/reporting/ppc_marketing_dashboard",
+    "thumbnail": "https://lookerstudio.google.com/thumbnails/ppc_marketing.jpg",
+    "tags": [
+      "ppc",
+      "google ads",
+      "advertising"
+    ],
+    "category": "marketing",
+    "description": "Analyze the performance of your PPC campaigns with this dashboard, focusing on cost per click, ROI, and conversion rates.",
+    "access": "public",
+    "source_type": "vendor",
+    "license": null,
+    "last_checked": "2023-10-15",
+    "language": "en"
+  },
+  {
+    "title": "Digital Marketing Insights",
+    "slug": "digital-marketing-insights",
+    "subtitle": "Comprehensive digital marketing overview",
+    "source": "Tableau Public",
+    "author": "Marketing Insights Team",
+    "link": "https://public.tableau.com/views/DigitalMarketingInsights",
+    "thumbnail": "https://public.tableau.com/thumbnails/digital_marketing_insights.jpg",
+    "tags": [
+      "digital marketing",
+      "google ads",
+      "analytics"
+    ],
+    "category": "marketing",
+    "description": "Gain insights into various digital marketing channels, including Google Ads, to optimize your marketing strategies.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2023-10-15",
+    "language": "en"
+  },
+  {
+    "title": "AdWords Campaign Dashboard",
+    "slug": "adwords-campaign-dashboard",
+    "subtitle": "Analyzes Google AdWords data",
+    "source": "Looker Studio Gallery",
+    "author": "AdWords Analytics Team",
+    "link": "https://lookerstudio.google.com/reporting/adwords_campaign_dashboard",
+    "thumbnail": "https://lookerstudio.google.com/thumbnails/adwords_campaign.jpg",
+    "tags": [
+      "adwords",
+      "google ads",
+      "campaign analysis"
+    ],
+    "category": "marketing",
+    "description": "This dashboard provides a detailed analysis of Google AdWords campaigns, focusing on key performance indicators and ad spend efficiency.",
+    "access": "public",
+    "source_type": "vendor",
+    "license": null,
+    "last_checked": "2023-10-15",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Optimization Dashboard",
+    "slug": "google-ads-optimization-dashboard",
+    "subtitle": "Optimizes ad performance",
+    "source": "Tableau Public",
+    "author": "Optimization Team",
+    "link": "https://public.tableau.com/views/GoogleAdsOptimizationDashboard",
+    "thumbnail": "https://public.tableau.com/thumbnails/google_ads_optimization.jpg",
+    "tags": [
+      "optimization",
+      "google ads",
+      "performance"
+    ],
+    "category": "marketing",
+    "description": "Optimize your Google Ads campaigns with insights into ad performance, budget allocation, and audience targeting.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2023-10-15",
+    "language": "en"
+  }
+]

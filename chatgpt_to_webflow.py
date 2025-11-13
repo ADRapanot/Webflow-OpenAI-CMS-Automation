@@ -18,6 +18,7 @@ from typing import Any, Dict, List
 import re
 import unicodedata
 
+from click import prompt
 import requests
 from openai import OpenAI
 
@@ -157,51 +158,94 @@ class DashboardGenerator:
     def __init__(self, openai_key: str) -> None:
         self.client = OpenAI(api_key=openai_key)
 
+    @staticmethod
+    def _extract_items_from_response(response: Any) -> List[Dict[str, Any]]:
+        """
+        Normalise the model response so we always end up with a list of item dictionaries.
+
+        The OpenAI Responses API may return either a structured dict (if the model followed
+        instructions exactly) or a formatted string containing JSON (often within a code block).
+        """
+        if isinstance(response, dict):
+            items = response.get("items")
+            if isinstance(items, list):
+                return items
+        if isinstance(response, list):
+            return response
+        if isinstance(response, str):
+            text = response.strip()
+            # First attempt: the whole response is pure JSON
+            try:
+                parsed = json.loads(text)
+            except json.JSONDecodeError:
+                # Look for ```json ... ``` blocks
+                match = re.search(r"```(?:json)?\s*(\{.*?\}|\[.*?\])\s*```", text, flags=re.DOTALL)
+                if match:
+                    json_block = match.group(1)
+                    parsed = json.loads(json_block)
+                else:
+                    # Fallback: try to grab the first JSON-looking object/array in the text
+                    candidate_match = re.search(r"(\{.*\}|\[.*\])", text, flags=re.DOTALL)
+                    if not candidate_match:
+                        raise ValueError("Unable to locate JSON payload in model response") from None
+                    parsed = json.loads(candidate_match.group(1))
+            if isinstance(parsed, dict):
+                items = parsed.get("items")
+                if isinstance(items, list):
+                    return items
+                raise ValueError("Parsed response JSON does not contain 'items' list")
+            if isinstance(parsed, list):
+                return parsed
+        raise ValueError("Could not extract dashboard items from model response")
+
+    def ask_gpt5(self, prompt: str,
+                model: str = "gpt-5",
+                system_instructions: str | None = None) -> str:
+        """
+        Send a prompt to GPT-5 and return the text output.
+        """
+        resp = self.client.responses.create(
+            model=model,                      # GPT-5 alias; you can also pin a snapshot like 'gpt-5-2025-08-07'
+            instructions=system_instructions, # optional "system" guidance
+            input=prompt,
+            # Optional GPT-5 extras (only if you want them):
+            reasoning={"effort": "high"},   # control reasoning effort
+            # verbosity="auto",                 # control output length/density
+            # allowed_tools=["code_interpreter"]# restrict tool usage if you enable tools
+        )
+        return resp.output_text
     def generate_items(self, topic: str, count: int) -> List[DashboardItem]:
         logging.info("Requesting %d dashboard entries for '%s' from OpenAI", count, topic)
-        messages = [
-            {
-                "role": "system",
-                "content": (
-                    "You are a marketing analytics expert with knowledge of real public dashboards from sites like "
-                    "Tableau Public, Looker Studio Gallery, Power BI Community, and blogs like Windsor.ai or Search "
-                    "Engine Journal. ALWAYS use ONLY real, existing examples with valid thumbnail and source URLs from "
-                    "your training data. Do not invent, guess, or modify URLs - use only ones you know are accurate. If "
-                    "you do not know a valid URL for a dashboard, skip it or use a placeholder such as "
-                    "'https://example.com/placeholder.jpg' for thumbnails. Prioritize popular, recent marketing dashboards.\n\n"
-                    "Every item must include: slug, title, subtitle, source, author, link, thumbnail, tags, category, "
-                    "description, access, source_type, license (nullable), last_checked (YYYY-MM-DD), language."
-                ),
-            },
-            {
-                "role": "user",
-                "content": (
-                    f"Generate {count} diverse, high-quality real public marketing dashboard examples for: {topic}. "
-                    "Stick strictly to real galleries or known sites. For each record: "
-                    "slug (kebab-case, derived from title), "
-                    "title (official dashboard name), subtitle (what it monitors), "
-                    "source (organization), author (team or department), "
-                    "link (direct dashboard URL), thumbnail (valid image URL), "
-                    "tags (2-5 lowercase keywords), category (top-level classification), "
-                    "description (under 320 letters), access (e.g., public, gated), source_type (gov_open_data, vendor, community, etc.), "
-                    "license (if unknown use null), last_checked (ISO date for today), language (ISO 639-1 code).\n"
-                    "Only include entries where both the dashboard link and thumbnail are known to exist.and give me as json type"
-                ),
-            },
-        ]
 
-        response = self.client.chat.completions.create(
-            model="gpt-4o",
-            messages=messages,
-            temperature=0.5,
-            response_format={"type": "json_schema", "json_schema": ITEM_SCHEMA},
+    
+        # INSERT_YOUR_CODE
+        from scripts.scrape_urls_google import get_dashboards_from_sites
+        urls = get_dashboards_from_sites(query=topic)
+        prompt = (
+            "You find public {topic} on the given urls, verify they are accessible, and deliver a clean JSON "
+            "library plus short website copy for a free dashboard library. "
+            "What you deliver - Curated list of {count} dashboards with validated links. Look given thumbnail image urls and choose appropriate that fits the dashboard. Don't choose more than 8 from tableau, select urls that from other pages in given urls. *Only Choose from given urls below.*"
+            " - JSON array using stable keys and nulls for unknowns. JSON schema (use these keys in this order): {schema} "
+            "How you work - Actively browse to discover and verify. - Prefer public/no-login examples and canonical URLs. "
+            "Deduplicate. - Do not invent details; use null if unknown and note assumptions briefly. - Normalize categories "
+            "(Marketing, Product, Finance, Operations, Healthcare, Government & Open Data, Sales, People/HR, Engineering/DevOps). "
+            "Use 1–3 tags. Give one word Category to all and it must be specific word that represent dashboard category - Keep responses structured with sections and JSON code blocks. Urls {example_urls}. Must find {count1} dashboards given urls above"
+        ).format(
+            topic=topic,
+            count=count,
+            schema=json.dumps(ITEM_SCHEMA["schema"]["properties"]),
+            example_urls=json.dumps(urls),
+            count1=count
         )
-        content = response.choices[0].message.content
-        payload = json.loads(content)
-        items = [DashboardItem.from_dict(item) for item in payload["items"]]
-        logging.info("Got %d dashboard entries", len(items))
-        return items
+        response = self.ask_gpt5(prompt)
+        print(response)
+        payload = self._extract_items_from_response(response)
+        items = [DashboardItem.from_dict(item) for item in payload]
+        # INSERT_YOUR_CODE
 
+        print(items)
+        logging.info("Got %d dashboard entries", len(items))
+        return items   
     def save_items(
         self,
         items: List[DashboardItem],

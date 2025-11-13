@@ -490,3 +490,6 @@ For issues, questions, or contributions, please contact the development team or 
 ## License
 
 Proprietary - All rights reserved.
+curl -X POST http://localhost:5000/webhook \
+ -H "Content-Type: application/json" \
+ -d @test.json

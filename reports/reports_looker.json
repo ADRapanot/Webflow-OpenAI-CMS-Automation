@@ -1,0 +1,1479 @@
+[
+  {
+    "title": "Google Analytics Acquisitions Overview",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/e07ba956-b3ae-4f42-a69f-9a30e4023632/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/open/e07ba956-b3ae-4f42-a69f-9a30e4023632"
+  },
+  {
+    "title": "Google Analytics Audience Overview",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/2a7058e9-eec1-4ec3-a300-ce3b4538ee04/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/open/2a7058e9-eec1-4ec3-a300-ce3b4538ee04"
+  },
+  {
+    "title": "Google Analytics Behavior Overview",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/6af699aa-328a-49dd-b507-268fe82ad2a6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/open/6af699aa-328a-49dd-b507-268fe82ad2a6"
+  },
+  {
+    "title": "Google Ads Search Auction Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/972e7c8a-614d-4a9b-a9bf-ca473a5897aa/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/972e7c8a-614d-4a9b-a9bf-ca473a5897aa/page/sw7BB/preview"
+  },
+  {
+    "title": "Google Ads Search performance ",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/c8d65f32-be62-42b2-8ed3-e2e0f858c092/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/c8d65f32-be62-42b2-8ed3-e2e0f858c092/page/C4hBB/preview"
+  },
+  {
+    "title": "Google Ads Video performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/ef5da78b-e86e-4cf0-b8e1-5fa2885e3a80/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/ef5da78b-e86e-4cf0-b8e1-5fa2885e3a80/preview"
+  },
+  {
+    "title": "Google Ads Display performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/f6da5210-ceff-411f-a088-28943fb6b9d6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/f6da5210-ceff-411f-a088-28943fb6b9d6/preview"
+  },
+  {
+    "title": "Google Ads Opportunity lost",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/4b0dd105-a9f7-429d-986c-1571c39a39cd/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/4b0dd105-a9f7-429d-986c-1571c39a39cd/preview"
+  },
+  {
+    "title": "Google Ads Ad Group Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/7cebf387-dfa9-4a16-b5a6-02ce25577ae8/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/7cebf387-dfa9-4a16-b5a6-02ce25577ae8/preview"
+  },
+  {
+    "title": "Google Ads Campaign Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/8479f551-369b-4e46-a241-f6a668b9be8b/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/8479f551-369b-4e46-a241-f6a668b9be8b/preview"
+  },
+  {
+    "title": "Google Ads Performance Gap Analysis",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/145d2715-f25e-4893-8061-27dd209ffa82/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/145d2715-f25e-4893-8061-27dd209ffa82/preview"
+  },
+  {
+    "title": "Google Ads Day-wise Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/1fc09d59-f3dd-411f-a9f8-af3f7fc42409/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/1fc09d59-f3dd-411f-a9f8-af3f7fc42409/preview"
+  },
+  {
+    "title": "Google Ads Ad Type Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/3f407199-05e6-426c-bff3-05fca61d214c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/3f407199-05e6-426c-bff3-05fca61d214c/preview"
+  },
+  {
+    "title": "Google Ads YouTube Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/677059ac-6e42-4373-9cae-7cee846554d7/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/677059ac-6e42-4373-9cae-7cee846554d7/preview"
+  },
+  {
+    "title": "Google Ads Keyword Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/6f03414c-71cf-44ae-a402-62076221b604/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/6f03414c-71cf-44ae-a402-62076221b604/preview"
+  },
+  {
+    "title": "Google Ads Display Targeting Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/7567ab26-df2f-40cb-87fc-1d470042bc66/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/7567ab26-df2f-40cb-87fc-1d470042bc66/preview"
+  },
+  {
+    "title": "Google Ads Performance Trends",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/95150deb-24b5-458d-8822-5a182d1dc5ae/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/95150deb-24b5-458d-8822-5a182d1dc5ae/preview"
+  },
+  {
+    "title": "Google Ads Ad Slot Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/ba78dc7f-434b-4ec8-86b6-f42c4d03fc1f/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/ba78dc7f-434b-4ec8-86b6-f42c4d03fc1f/preview"
+  },
+  {
+    "title": "Google Ads Device Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/ec704560-e57c-466a-b81c-a79ed6ede825/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/ec704560-e57c-466a-b81c-a79ed6ede825/preview"
+  },
+  {
+    "title": "Google Ads Geographic Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/f5553bd7-b70a-415f-986f-100c17ba8f4d/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/f5553bd7-b70a-415f-986f-100c17ba8f4d/preview"
+  },
+  {
+    "title": "Google Ads Search Query Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/4ff8dfd3-5701-4897-a225-b5e62f914a3e/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/4ff8dfd3-5701-4897-a225-b5e62f914a3e/preview"
+  },
+  {
+    "title": "World Population, Internet, & Mobile Data",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B_U5RNpwhcE6bzVYT2FSNmRBUWc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B_U5RNpwhcE6bzVYT2FSNmRBUWc"
+  },
+  {
+    "title": "YouTube Channel Report",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B_U5RNpwhcE6SXU5R2I5TEc5SFE/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/0B_U5RNpwhcE6SXU5R2I5TEc5SFE/preview"
+  },
+  {
+    "title": "AdWords Report",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/preview"
+  },
+  {
+    "title": "Ecommerce Store",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/preview"
+  },
+  {
+    "title": "Acme Marketing Website",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B_U5RNpwhcE6SF85TENURnc4UjA/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/0B_U5RNpwhcE6SF85TENURnc4UjA/preview"
+  },
+  {
+    "title": "Sample Google Analytics Dashboard",
+    "author": "Datasaurus-rex",
+    "thumbnail": "https://datastudio.google.com/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0ByVApA41aYJibW1feEkyWjNFN3c"
+  },
+  {
+    "title": "Google Analytics Dashboard example by Datasaurus-Rex",
+    "author": "Datasaurus-Rex",
+    "thumbnail": "https://datastudio.google.com/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0ByVApA41aYJibW1feEkyWjNFN3c"
+  },
+  {
+    "title": "2016 US Presidential Race",
+    "author": "Andy Gibson, InfoTrust, LLC.",
+    "thumbnail": "https://datastudio.google.com/reporting/0ByBBR3S4NU09MVktdUl4VUZkUkU/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0ByBBR3S4NU09MVktdUl4VUZkUkU"
+  },
+  {
+    "title": "Basic Google AdWords Dashboard",
+    "author": "Christian Penseler",
+    "thumbnail": "https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0BzxVL_5BUjZhWm93VHJFZHl3NGs"
+  },
+  {
+    "title": "Nonprofit Web Data Template",
+    "author": "Whole Whale",
+    "thumbnail": "https://datastudio.google.com/reporting/0B0GCnDTvF3IManFGRHdsVU4wT28/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/0B0GCnDTvF3IManFGRHdsVU4wT28"
+  },
+  {
+    "title": "Report on travelers visiting the Canary Islands.",
+    "author": "David Israel Rivas Vergara",
+    "thumbnail": "https://datastudio.google.com/reporting/0B8rIzjUv8i35SjkxWnFmdkNhdE0/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B8rIzjUv8i35SjkxWnFmdkNhdE0"
+  },
+  {
+    "title": "eCommerce Speed",
+    "author": "Canonicalized",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-7yurpNRXouUzNibGNsYlBzT2s"
+  },
+  {
+    "title": "Super Bowl Commercial Viewer Statistics",
+    "author": "Adlava",
+    "thumbnail": "https://datastudio.google.com/reporting/0BxQlVGbUWb7tMTVEalJ2dG1Oc28/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0BxQlVGbUWb7tMTVEalJ2dG1Oc28"
+  },
+  {
+    "title": "Digital Economy and Society in Europe & Turkey",
+    "author": "SEM",
+    "thumbnail": "https://datastudio.google.com/reporting/0B1gVdNP94twYam1JVWwzN3hMZDA/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B1gVdNP94twYam1JVWwzN3hMZDA"
+  },
+  {
+    "title": "Facebook Ads Insights",
+    "author": "OWOX",
+    "thumbnail": "https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc"
+  },
+  {
+    "title": "Your Main Simple Dashboard",
+    "author": "IT Tech BuZ",
+    "thumbnail": "https://datastudio.google.com/reporting/0B6kVJH4fgWj8OVF6LUhBVUVwU0k/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B6kVJH4fgWj8OVF6LUhBVUVwU0k"
+  },
+  {
+    "title": "Digital marketing plan overview",
+    "author": "Matteo Sorba",
+    "thumbnail": "https://datastudio.google.com/reporting/0B2UPWABnojbNeVJLSWJCRjd3TW8/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B2UPWABnojbNeVJLSWJCRjd3TW8"
+  },
+  {
+    "title": "Soccer Analytics Report for European Leagues",
+    "author": "iddaakolik.com",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-DXZSNJUZEaWWdqcDZrYWNDZjQ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-DXZSNJUZEaWWdqcDZrYWNDZjQ"
+  },
+  {
+    "title": "Congressional Healthcare Benefits",
+    "author": "Exoterik Media",
+    "thumbnail": "https://datastudio.google.com/reporting/1rc3X7cOrDkndJS3ZAS2b2BM0iMvHX77l/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1rc3X7cOrDkndJS3ZAS2b2BM0iMvHX77l"
+  },
+  {
+    "title": "Looker Studio Resource Finder",
+    "author": "Helpfullee",
+    "thumbnail": "https://datastudio.google.com/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B2lgFyX5qOqhbFE5RllsdFdtMXc"
+  },
+  {
+    "title": "Website & Marketing Performance Report",
+    "author": "Aro Digital",
+    "thumbnail": "https://datastudio.google.com/reporting/1mqTA-aptRwBcxpFUeZZ66CcPHhOTUVK6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/1mqTA-aptRwBcxpFUeZZ66CcPHhOTUVK6"
+  },
+  {
+    "title": "Funnel Visualizer",
+    "author": "Chris Beecham",
+    "thumbnail": "https://datastudio.google.com/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz"
+  },
+  {
+    "title": "Cloudflare Logs Analysis",
+    "author": "Kamilla Amirova",
+    "thumbnail": "https://datastudio.google.com/reporting/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh"
+  },
+  {
+    "title": "Public Billing Report Demo",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/0B7GT7ZlyzUmCZHFhNDlKVENHYmc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B7GT7ZlyzUmCZHFhNDlKVENHYmc"
+  },
+  {
+    "title": "Winter Olympics All-Time Medal Results",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1I1e3lzjbnlr43e-8wNX79OzQTSL8usyS/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1I1e3lzjbnlr43e-8wNX79OzQTSL8usyS"
+  },
+  {
+    "title": "U.S. Household Income Distribution",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1oJdNeXvwgSmCto8LD6KJLcVHt7BRz1iW/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1oJdNeXvwgSmCto8LD6KJLcVHt7BRz1iW"
+  },
+  {
+    "title": "Informe de Control para ONG | Market Inclusion",
+    "author": "Market Inclusion",
+    "thumbnail": "https://datastudio.google.com/reporting/19sKGAU44X6fZ4uP4g83k53RXNhgjA4kP/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/19sKGAU44X6fZ4uP4g83k53RXNhgjA4kP"
+  },
+  {
+    "title": "HR Dashboard",
+    "author": "OrgWeaver",
+    "thumbnail": "https://datastudio.google.com/reporting/1tNpU4y3cTdDlOij63gSB9XpxVpZ0NdjD/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1tNpU4y3cTdDlOij63gSB9XpxVpZ0NdjD"
+  },
+  {
+    "title": "Google Fit Dashboard",
+    "author": "Datasaurus-Rex",
+    "thumbnail": "https://datastudio.google.com/reporting/1jLygcdrIrP2KwSydSGSMQlmJgnx_O6Ub/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1jLygcdrIrP2KwSydSGSMQlmJgnx_O6Ub"
+  },
+  {
+    "title": "Google Analytics Web Performance",
+    "author": "Zima Media",
+    "thumbnail": "https://datastudio.google.com/reporting/0B5p5YUm0x8Hgck5QTWE0QWRodTg/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B5p5YUm0x8Hgck5QTWE0QWRodTg"
+  },
+  {
+    "title": "Web Analytics Dashboard",
+    "author": "DigitalSasi",
+    "thumbnail": "https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae"
+  },
+  {
+    "title": "Audience, Acquisition, Behaviour, Conversion (AABC) Report",
+    "author": "Data Runs Deep",
+    "thumbnail": "https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT"
+  },
+  {
+    "title": "Data That Matters: Opioids Usage & Overdoses",
+    "author": "Daniel Waisberg",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-rCydtEraEOTVF2Qk9USmNCSG8/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-rCydtEraEOTVF2Qk9USmNCSG8"
+  },
+  {
+    "title": "Maternal Mortality Rates - Status & Trends",
+    "author": "Daniel Waisberg",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-rCydtEraEOamxvajE2MHRqd00/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-rCydtEraEOamxvajE2MHRqd00"
+  },
+  {
+    "title": "US Unemployment Rates by Age, Gender and Race / Ethnicity",
+    "author": "Daniel Waisberg",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-rCydtEraEOeG5fcUl4bGxiTjQ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-rCydtEraEOeG5fcUl4bGxiTjQ"
+  },
+  {
+    "title": "Visualizing Marvel & DC Cinematic Universes - POW!",
+    "author": "Daniel Waisberg",
+    "thumbnail": "https://datastudio.google.com/reporting/0B-rCydtEraEOWFhtSmMyVXFpd0U/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B-rCydtEraEOWFhtSmMyVXFpd0U"
+  },
+  {
+    "title": "Chrome Device Auto Update Expiration",
+    "author": "Amplified Labs",
+    "thumbnail": "https://datastudio.google.com/reporting/1EhVByJHuiQV1WMlUcKtWu_wELQgZapVY/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1EhVByJHuiQV1WMlUcKtWu_wELQgZapVY"
+  },
+  {
+    "title": "Goal Competions by Channel",
+    "author": "CALLOSUM INC.",
+    "thumbnail": "https://datastudio.google.com/reporting/1k9lrnI0FG4_dMKHk2i_E3exzK67EJnRw/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1k9lrnI0FG4_dMKHk2i_E3exzK67EJnRw"
+  },
+  {
+    "title": "F1: How Important Is the First Race?",
+    "author": "Sian Miller",
+    "thumbnail": "https://datastudio.google.com/reporting/1kOunw0q0Dazkn42TjwE0V7b1wakEVbs4/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1kOunw0q0Dazkn42TjwE0V7b1wakEVbs4"
+  },
+  {
+    "title": " 2017 ALBUM SALES vs RATINGS",
+    "author": "Riccardo Zagaglia",
+    "thumbnail": "https://datastudio.google.com/reporting/1o8_0Cg1lkWb43tbxfy8MuznafOJZ7y4V/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1o8_0Cg1lkWb43tbxfy8MuznafOJZ7y4V"
+  },
+  {
+    "title": "Google Analytics for Copywriters & Content Strategists",
+    "author": "WebAnalyticsSetup.com",
+    "thumbnail": "https://datastudio.google.com/reporting/16UdnIMghaagyiM8sRi9ruopcHBnWcaia/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/16UdnIMghaagyiM8sRi9ruopcHBnWcaia"
+  },
+  {
+    "title": "KickStarter Infography",
+    "author": "Hamis BADAROU",
+    "thumbnail": "https://datastudio.google.com/reporting/1PgRlP3RnnDUrOQ3N7DXrQQrnktePEXus/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1PgRlP3RnnDUrOQ3N7DXrQQrnktePEXus"
+  },
+  {
+    "title": "SFO Passenger Data - Command Center Design",
+    "author": "Josh Cottrell-Schloemer",
+    "thumbnail": "https://datastudio.google.com/reporting/1WhloLyiBE-pOP0xw8Pee1Mamekc-CGgH/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/1WhloLyiBE-pOP0xw8Pee1Mamekc-CGgH"
+  },
+  {
+    "title": "User Technology Report",
+    "author": "Anicca Digital",
+    "thumbnail": "https://datastudio.google.com/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr"
+  },
+  {
+    "title": "Acquisition Trend Spotter",
+    "author": "Joshua Cottrell-Schloemer",
+    "thumbnail": "https://datastudio.google.com/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C"
+  },
+  {
+    "title": "Enrollment Metrics",
+    "author": "GSuite Pros",
+    "thumbnail": "https://datastudio.google.com/reporting/1d07CO6_hZHYOVFy6Epwm7QBM4llU45Fx/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1d07CO6_hZHYOVFy6Epwm7QBM4llU45Fx"
+  },
+  {
+    "title": "Japanese Web report by rakuana  日本語Webレポート【ラクアナ】",
+    "author": "rakuana/ラクアナ",
+    "thumbnail": "https://datastudio.google.com/reporting/1xeTZXSo_lot2wp1cmqo7QcAp6fG3vLp7/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1xeTZXSo_lot2wp1cmqo7QcAp6fG3vLp7"
+  },
+  {
+    "title": "Search Ads 360 Performance Report",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/1im01Jl0AP0t3rZH87YU3sXwi2rXNo1oG/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/1im01Jl0AP0t3rZH87YU3sXwi2rXNo1oG/preview"
+  },
+  {
+    "title": "Display & Video 360 Performance Report",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/1u8yeqgfWIv4iI6eX-vCzNKw0jPN9z8vD/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/1u8yeqgfWIv4iI6eX-vCzNKw0jPN9z8vD/preview"
+  },
+  {
+    "title": "Sunburst Chart",
+    "author": "Yulan Lin",
+    "thumbnail": "https://datastudio.google.com/reporting/1rqtvy5I1GjeJNkSxSDKvZfTukzto9PtI/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1rqtvy5I1GjeJNkSxSDKvZfTukzto9PtI"
+  },
+  {
+    "title": "Heatmap Chart",
+    "author": "Yulan Lin",
+    "thumbnail": "https://datastudio.google.com/reporting/1rvY8wWp3uhlj6daGi_Y2XXvuf7bBcjsi/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1rvY8wWp3uhlj6daGi_Y2XXvuf7bBcjsi"
+  },
+  {
+    "title": "Sankey Diagram",
+    "author": "Yulan Lin",
+    "thumbnail": "https://datastudio.google.com/reporting/1hdqhp5dK31BcFInZzmaQOEQdVB54D4gz/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1hdqhp5dK31BcFInZzmaQOEQdVB54D4gz"
+  },
+  {
+    "title": "Hexbin Map",
+    "author": "Ralph Spandl — r42",
+    "thumbnail": "https://datastudio.google.com/reporting/09fd83d4-4e99-41bb-853a-30e720a716dc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/09fd83d4-4e99-41bb-853a-30e720a716dc"
+  },
+  {
+    "title": "Timeplot",
+    "author": "Ralph Spandl — r42",
+    "thumbnail": "https://datastudio.google.com/reporting/1l-t02IpP-hx0mEVNSbqTLL8wCSTZG5Lf/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1l-t02IpP-hx0mEVNSbqTLL8wCSTZG5Lf"
+  },
+  {
+    "title": "Sunburst Visualization with drill-down",
+    "author": "Ralph Spandl — r42",
+    "thumbnail": "https://datastudio.google.com/reporting/1p06tzmnFLNbY92hC2HjYWmjPRmpBI-gK/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1p06tzmnFLNbY92hC2HjYWmjPRmpBI-gK"
+  },
+  {
+    "title": "Animated Bar Chart",
+    "author": "Michael Whitaker",
+    "thumbnail": "https://datastudio.google.com/reporting/1bV_L9veuWx8KZgVCxRsUCODGa4tKbHSE/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1bV_L9veuWx8KZgVCxRsUCODGa4tKbHSE"
+  },
+  {
+    "title": "Machine Learning with TensorFlow.js",
+    "author": "Michael Whitaker",
+    "thumbnail": "https://datastudio.google.com/reporting/5c393b61-29e3-4488-9e3e-a49d9f0eb0ad/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/5c393b61-29e3-4488-9e3e-a49d9f0eb0ad"
+  },
+  {
+    "title": "Sales & Shopping Behavior Report",
+    "author": "My Digital Lab",
+    "thumbnail": "https://datastudio.google.com/reporting/310e1265-b8e9-4bb8-9cd9-0b3d67145ed4/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/310e1265-b8e9-4bb8-9cd9-0b3d67145ed4"
+  },
+  {
+    "title": "Google Analytics Demographics",
+    "author": "Christian Bonner",
+    "thumbnail": "https://datastudio.google.com/reporting/1g6vuDMbkgPBRBskPEgaKxxG2seDym_JZ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1g6vuDMbkgPBRBskPEgaKxxG2seDym_JZ"
+  },
+  {
+    "title": "Landing Page Campaign and Keyword Breakdown",
+    "author": "Direct Online Marketing",
+    "thumbnail": "https://datastudio.google.com/reporting/1k0wICBHF2cdaCc7AGZCvwyBs6tm7PUcE/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1k0wICBHF2cdaCc7AGZCvwyBs6tm7PUcE"
+  },
+  {
+    "title": "My Email Habits",
+    "author": "Email Meter",
+    "thumbnail": "https://datastudio.google.com/reporting/1-b3ckzPZwOHlw2Gd0zZmjOfCy73d6fKL/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1-b3ckzPZwOHlw2Gd0zZmjOfCy73d6fKL"
+  },
+  {
+    "title": "Demo Report - intelliAd Multichannel dashboard",
+    "author": "intelliAd Media GmbH",
+    "thumbnail": "https://datastudio.google.com/reporting/1cZf4zUx05pfMidKNSTtIyUicsFrAchTD/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1cZf4zUx05pfMidKNSTtIyUicsFrAchTD"
+  },
+  {
+    "title": "Pumpkin Spice Economy by Starbucks",
+    "author": "Hexe Data",
+    "thumbnail": "https://datastudio.google.com/reporting/19LAzcEIMFNVpPPL7AweypRanC8fjWqTR/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/19LAzcEIMFNVpPPL7AweypRanC8fjWqTR"
+  },
+  {
+    "title": "The 10 Most Frequent Words in 'Info We Trust'",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1uh6jod8tDwVdqMwVxO18HTuAayPEFfzj/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1uh6jod8tDwVdqMwVxO18HTuAayPEFfzj"
+  },
+  {
+    "title": "I Want to Believe",
+    "author": "Tessellation Consulting",
+    "thumbnail": "https://datastudio.google.com/reporting/1HWH0xFoTRvMi8JonyeeqnOct9wua26j-/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1HWH0xFoTRvMi8JonyeeqnOct9wua26j-"
+  },
+  {
+    "title": "Where is the International Space Station?",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/1rOv10SKYQ4bjqPjY8cACLvr0kBlPUaCT/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1rOv10SKYQ4bjqPjY8cACLvr0kBlPUaCT"
+  },
+  {
+    "title": "NBA MVP Awards",
+    "author": "Riccardo Zagaglia",
+    "thumbnail": "https://datastudio.google.com/reporting/18GWyFb2JF462ohceDSIkwemZGT8VvEIu/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/18GWyFb2JF462ohceDSIkwemZGT8VvEIu"
+  },
+  {
+    "title": "The Big Mac Index",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1MgYU4KA4gkQ_JlzghInhYsgYYHlsJi-U/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1MgYU4KA4gkQ_JlzghInhYsgYYHlsJi-U"
+  },
+  {
+    "title": "Paid Channel Mix Overview Template by Supermetrics",
+    "author": "Supermetrics",
+    "thumbnail": "https://datastudio.google.com/reporting/0BzjchXrR5ZQcemRjN1BoQWN3MWs/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0BzjchXrR5ZQcemRjN1BoQWN3MWs"
+  },
+  {
+    "title": "Anthony Bourdain: Travels and Tribulations",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1uYIXuUFbGwMA8Y8R2JFenPNG3fjuCaGG/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/1uYIXuUFbGwMA8Y8R2JFenPNG3fjuCaGG"
+  },
+  {
+    "title": "Baseball Code: 2018 MLB Regular Season",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1ZS0WLIYrwsX74Rd93x2sow4yxSJc8yCA/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1ZS0WLIYrwsX74Rd93x2sow4yxSJc8yCA"
+  },
+  {
+    "title": "Petroleum World Stadistics",
+    "author": "Leonardo Garay Quintero",
+    "thumbnail": "https://datastudio.google.com/reporting/1JjVdbUZfrXwFgCYUVU6WG2x31JjLdsM6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1JjVdbUZfrXwFgCYUVU6WG2x31JjLdsM6"
+  },
+  {
+    "title": "Facebook Ads Overview Template by Supermetrics",
+    "author": "Supermetrics",
+    "thumbnail": "https://datastudio.google.com/reporting/0BzjchXrR5ZQca013LXdWZzQ4cEU/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0BzjchXrR5ZQca013LXdWZzQ4cEU"
+  },
+  {
+    "title": "How much do countries invest in Research & Development?",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/18pcuLk8zrpl7_p94jZOXWGYwBzuaS4G4/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/18pcuLk8zrpl7_p94jZOXWGYwBzuaS4G4"
+  },
+  {
+    "title": "The Toronto Raptors' Road to the Championship",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/1FKGqrQjKk3KC5NEGJiDM1LXIPNcZExuM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1FKGqrQjKk3KC5NEGJiDM1LXIPNcZExuM"
+  },
+  {
+    "title": "Bay Area Rapid Transit Real-Time Departures",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/0B51wrhw8L249R2liT3FqRDVSOHM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B51wrhw8L249R2liT3FqRDVSOHM"
+  },
+  {
+    "title": "MLS Players on Both Sides of Fouls in 2018",
+    "author": "Steve (@StatHunting) Fenn, Tessellation Consulting",
+    "thumbnail": "https://datastudio.google.com/reporting/1w2fCaavvYD3wLpbq2rRCk-vYnxxcVVRT/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/1w2fCaavvYD3wLpbq2rRCk-vYnxxcVVRT"
+  },
+  {
+    "title": "Google Ads Dashboard",
+    "author": "Hexe Data",
+    "thumbnail": "https://datastudio.google.com/reporting/1BndAOYZUtKVh_d2ea1OMn_S3mQ9stRzV/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1BndAOYZUtKVh_d2ea1OMn_S3mQ9stRzV"
+  },
+  {
+    "title": "Site Speed Performance",
+    "author": "My Digital Lab",
+    "thumbnail": "https://datastudio.google.com/reporting/ce7b0558-6f12-4ac6-9f21-f76f19fff984/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/ce7b0558-6f12-4ac6-9f21-f76f19fff984"
+  },
+  {
+    "title": "Google Analytics Month-Over-Month Reporting",
+    "author": "Mike Goracke",
+    "thumbnail": "https://datastudio.google.com/reporting/0Bx4C5aFm3RdKQ0hrekVncUJmYTQ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0Bx4C5aFm3RdKQ0hrekVncUJmYTQ"
+  },
+  {
+    "title": "Sequence Logos of Protein Domains",
+    "author": "Cofactor",
+    "thumbnail": "https://datastudio.google.com/reporting/1aOs-XLq6cCHN2l0FPjyzcQJFxxTCXx2t/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1aOs-XLq6cCHN2l0FPjyzcQJFxxTCXx2t"
+  },
+  {
+    "title": "📌 Google Ads Monitoring Report",
+    "author": "Search Foresight",
+    "thumbnail": "https://datastudio.google.com/reporting/17Yq6eVJSSEM1mCtkB9lnZ2bjOROZBBU1/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/17Yq6eVJSSEM1mCtkB9lnZ2bjOROZBBU1"
+  },
+  {
+    "title": "Website Analytics Sandbox (light)",
+    "author": "ROInsights",
+    "thumbnail": "https://datastudio.google.com/reporting/1QvyAsDF6tICxuE-JsHJTMnvuTAxP6Psx/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1QvyAsDF6tICxuE-JsHJTMnvuTAxP6Psx"
+  },
+  {
+    "title": "Google Analytics Starter Dashboard Template",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/1f760j65YO9YMs5y-DAmu-1XCU_bZyD85/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1f760j65YO9YMs5y-DAmu-1XCU_bZyD85"
+  },
+  {
+    "title": "Rio 2016 Summer Olympics",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/0ByFLn8uIUCsJVVVaUTRWbk5HWmM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0ByFLn8uIUCsJVVVaUTRWbk5HWmM"
+  },
+  {
+    "title": "Local Digital Marketing Overview",
+    "author": "Neakoo",
+    "thumbnail": "https://datastudio.google.com/reporting/16T-EXpf5ogI1Vgr8Wj4jTsogj20ZRM1Y/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/16T-EXpf5ogI1Vgr8Wj4jTsogj20ZRM1Y"
+  },
+  {
+    "title": "Simple Google Analytics Overview",
+    "author": "Rene van Loock",
+    "thumbnail": "https://datastudio.google.com/reporting/1601LqzG7S6QPRfKklWVHCM9hpQk95hXh/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1601LqzG7S6QPRfKklWVHCM9hpQk95hXh"
+  },
+  {
+    "title": "Toronto Weather Forecast",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/0B51wrhw8L249dFZTMmg1MjNpZGM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B51wrhw8L249dFZTMmg1MjNpZGM"
+  },
+  {
+    "title": "Average annual sunshine hours across the world",
+    "author": "Jennifer Li",
+    "thumbnail": "https://datastudio.google.com/reporting/55c50d2d-7902-4a26-b566-7f577e235cea/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/55c50d2d-7902-4a26-b566-7f577e235cea"
+  },
+  {
+    "title": "Overview of Google Analytics (Blue World report)",
+    "author": "Michael Howe-Ely",
+    "thumbnail": "https://datastudio.google.com/reporting/1rBC8woDruwE-f_gsheY7kwlx0BPtgzEn/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/1rBC8woDruwE-f_gsheY7kwlx0BPtgzEn"
+  },
+  {
+    "title": "Today's Most Popular Stories",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/0B51wrhw8L249MGNYakl4SXVMN2s/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/0B51wrhw8L249MGNYakl4SXVMN2s"
+  },
+  {
+    "title": "Star Wars API: Data from a galaxy far, far away",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/1QXy-dp4EHsVDljoAeb7BE3PxW9MOPSLw/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1QXy-dp4EHsVDljoAeb7BE3PxW9MOPSLw"
+  },
+  {
+    "title": "Enhanced Ecommerce Dashboard",
+    "author": "Roneet Michael",
+    "thumbnail": "https://datastudio.google.com/reporting/1PmKA057MCoLm33YePPCUY6Y0sAhJv8cy/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1PmKA057MCoLm33YePPCUY6Y0sAhJv8cy"
+  },
+  {
+    "title": " Social Monitoring Real-Time Report - Hong Kong Anti-extradition Law",
+    "author": "Shih-En Chou",
+    "thumbnail": "https://datastudio.google.com/reporting/1ZGxDuxrj63pMktl28qfzYMt2H6XOYUIn/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1ZGxDuxrj63pMktl28qfzYMt2H6XOYUIn"
+  },
+  {
+    "title": "Google Analytics - Audience - Best view on cell phone - TecDiSol.com-DS-0001 - Inpired by Datasaurus",
+    "author": "TecDiSol.com",
+    "thumbnail": "https://datastudio.google.com/reporting/1dngkoZbI54KOEDFB-W5vWPgN5qAN8_-Q/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1dngkoZbI54KOEDFB-W5vWPgN5qAN8_-Q"
+  },
+  {
+    "title": "Sample Google Analytics & Search Console SEO Report",
+    "author": "Website Hosting Rating",
+    "thumbnail": "https://datastudio.google.com/reporting/17JFvkTElikDoecb_FNEZVJx5QeUFP6jG/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/17JFvkTElikDoecb_FNEZVJx5QeUFP6jG"
+  },
+  {
+    "title": "Export Google Search Console Data by Day/Date",
+    "author": "Jonathan Jones",
+    "thumbnail": "https://datastudio.google.com/reporting/1UES2hUhZdoNzqvn_LvjnwkFc42iya_xM/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1UES2hUhZdoNzqvn_LvjnwkFc42iya_xM"
+  },
+  {
+    "title": "Google Analytics Starter Audit",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/1a65V9spG0V_MDzQbZjKmkjaAvnE_Yw_n/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1a65V9spG0V_MDzQbZjKmkjaAvnE_Yw_n"
+  },
+  {
+    "title": "Gauge",
+    "author": "Google",
+    "thumbnail": "https://datastudio.google.com/reporting/4a94b983-b46f-4b5c-8592-c686fe6b20bf/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/4a94b983-b46f-4b5c-8592-c686fe6b20bf"
+  },
+  {
+    "title": "Custom Viz: Highcharts JS and CSS",
+    "author": "CompassRed",
+    "thumbnail": "https://datastudio.google.com/reporting/a45548c7-abdb-4587-aeaa-9af58ae241d5/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/a45548c7-abdb-4587-aeaa-9af58ae241d5"
+  },
+  {
+    "title": "Steph Curry's Popcorn Rankings",
+    "author": "ClickInsight",
+    "thumbnail": "https://datastudio.google.com/reporting/233fa9b2-891f-455e-955d-8703cfa6c736/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/233fa9b2-891f-455e-955d-8703cfa6c736"
+  },
+  {
+    "title": "Hot Shots: The Top Shooters in the NHL",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/5727d468-290f-4b00-b73d-9f88f036e3a7/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/5727d468-290f-4b00-b73d-9f88f036e3a7"
+  },
+  {
+    "title": "Waterfall Visualization",
+    "author": "Google",
+    "thumbnail": "https://datastudio.google.com/reporting/2877bf33-d714-406c-b49e-0c90c11092b5/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/2877bf33-d714-406c-b49e-0c90c11092b5"
+  },
+  {
+    "title": "Candlestick Visualization",
+    "author": "Google",
+    "thumbnail": "https://datastudio.google.com/reporting/d905c2e2-da7e-43ad-97ea-ddcce15f1540/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/d905c2e2-da7e-43ad-97ea-ddcce15f1540"
+  },
+  {
+    "title": "Funnel Visualization Using Just Metrics",
+    "author": "PowerMyAnalytics",
+    "thumbnail": "https://datastudio.google.com/reporting/1Iv4MphSjGXrHrBuQY65Zp6eAJHFvrgEZ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1Iv4MphSjGXrHrBuQY65Zp6eAJHFvrgEZ"
+  },
+  {
+    "title": "Google Analytics: Goals Report",
+    "author": "DataSasi",
+    "thumbnail": "https://datastudio.google.com/reporting/cbb62770-7e7a-487d-be15-9c76b069fe17/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/cbb62770-7e7a-487d-be15-9c76b069fe17"
+  },
+  {
+    "title": "Chord Diagram – Email Interactions",
+    "author": "Email Meter",
+    "thumbnail": "https://datastudio.google.com/reporting/19V-Ek7NWSJZpki4EqeJ0vqg7zwqaGLPZ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/19V-Ek7NWSJZpki4EqeJ0vqg7zwqaGLPZ"
+  },
+  {
+    "title": "Reports and Template Collection for Massachusetts Schools",
+    "author": "Laura Tilton",
+    "thumbnail": "https://datastudio.google.com/reporting/a24bf7e8-5c17-42d7-b802-840c33acaf4c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/a24bf7e8-5c17-42d7-b802-840c33acaf4c"
+  },
+  {
+    "title": "Google Analytics Report",
+    "author": "Jonathan Jones",
+    "thumbnail": "https://datastudio.google.com/reporting/9948e225-6617-4e69-9b07-07e5e708fb03/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/9948e225-6617-4e69-9b07-07e5e708fb03"
+  },
+  {
+    "title": "Supermetrics Custom Visualization Package",
+    "author": "Supermetrics",
+    "thumbnail": "https://datastudio.google.com/reporting/1_zdV7RiWNR3BPEc0xhVFFFsFYppEFw3s/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1_zdV7RiWNR3BPEc0xhVFFFsFYppEFw3s"
+  },
+  {
+    "title": "Star Rating Visualization",
+    "author": "Amanda Schroeder",
+    "thumbnail": "https://datastudio.google.com/reporting/1qQcyuAIwI45Hv-mszKFBokrmoQFb9xJZ/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1qQcyuAIwI45Hv-mszKFBokrmoQFb9xJZ"
+  },
+  {
+    "title": "Customer Reviews",
+    "author": "Baguette Engineering",
+    "thumbnail": "https://datastudio.google.com/reporting/1p4CteYZNsuoFxFx_nN58PKjylTk1g-Qj/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/1p4CteYZNsuoFxFx_nN58PKjylTk1g-Qj"
+  },
+  {
+    "title": "Facebook Ads Overview",
+    "author": "Analytics Help",
+    "thumbnail": "https://datastudio.google.com/reporting/9b552bdd-44e2-4097-8fb9-acae01271503/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/9b552bdd-44e2-4097-8fb9-acae01271503"
+  },
+  {
+    "title": "Histogram Community Visualization",
+    "author": "Supermetrics",
+    "thumbnail": "https://datastudio.google.com/reporting/19_gXdgrqtKBxoR39ndZno7T-uIrP_5Nd/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/19_gXdgrqtKBxoR39ndZno7T-uIrP_5Nd"
+  },
+  {
+    "title": "Number & Date Range Slider",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/b44fe1f4-1d27-440f-a36a-392a3c361295/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/b44fe1f4-1d27-440f-a36a-392a3c361295"
+  },
+  {
+    "title": "Display and Video 360 Inventory Report",
+    "author": "Lachezar Arabadzhiev",
+    "thumbnail": "https://datastudio.google.com/reporting/af0147ee-d887-4fd5-991d-66f0877fd808/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/af0147ee-d887-4fd5-991d-66f0877fd808"
+  },
+  {
+    "title": "📌 Mobile Friendly Scoreboard",
+    "author": "Search Foresight",
+    "thumbnail": "https://datastudio.google.com/reporting/796ffb4f-3fe5-4f21-87bd-3dac6fdd1cfc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/796ffb4f-3fe5-4f21-87bd-3dac6fdd1cfc"
+  },
+  {
+    "title": "Digital Analytics for eCommerce",
+    "author": "Kjetil Grøsland",
+    "thumbnail": "https://datastudio.google.com/reporting/6b94e111-7a3e-4ee5-935f-b3db84b95f45/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/6b94e111-7a3e-4ee5-935f-b3db84b95f45"
+  },
+  {
+    "title": "Sample Report From SQL Server Data",
+    "author": "SQLSocket.com",
+    "thumbnail": "https://datastudio.google.com/reporting/1x8QWXcAEMKLjhOJA19W3lIgnSA9T3_ja/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1x8QWXcAEMKLjhOJA19W3lIgnSA9T3_ja"
+  },
+  {
+    "title": "CatchOn Report Template",
+    "author": "CatchOn Inc.",
+    "thumbnail": "https://datastudio.google.com/reporting/1BPx2T6LEoBHSPJNuJOJF-sgL4LD36_b2/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1BPx2T6LEoBHSPJNuJOJF-sgL4LD36_b2"
+  },
+  {
+    "title": "Top News Stories of 2019 in Google Search",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/57618c5b-07ab-48fa-8fc2-07a8d2076f89/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/57618c5b-07ab-48fa-8fc2-07a8d2076f89"
+  },
+  {
+    "title": "All-in-one Search Console Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/f1837c75-6dd4-4355-9966-ca1785d14302/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/f1837c75-6dd4-4355-9966-ca1785d14302"
+  },
+  {
+    "title": "ROAS dashboard by OWOX AskGA",
+    "author": "OWOX",
+    "thumbnail": "https://datastudio.google.com/reporting/1pB6t6YhtUy1p5yfkeZ7STsP8baluG_wA/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1pB6t6YhtUy1p5yfkeZ7STsP8baluG_wA"
+  },
+  {
+    "title": " Generic Report - Google Analytics on Looker Studio ",
+    "author": "M13h",
+    "thumbnail": "https://datastudio.google.com/reporting/f6e04e29-546c-41b1-a2ec-a3f318e5a908/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/f6e04e29-546c-41b1-a2ec-a3f318e5a908"
+  },
+  {
+    "title": "Cards View",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/76e574a8-e095-49da-8387-989c53022b4b/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/76e574a8-e095-49da-8387-989c53022b4b"
+  },
+  {
+    "title": "MouseOver Tooltip",
+    "author": "Shota Okabe",
+    "thumbnail": "https://datastudio.google.com/reporting/b9596a2a-d10a-4916-a79b-c8ccb03c9138/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/b9596a2a-d10a-4916-a79b-c8ccb03c9138"
+  },
+  {
+    "title": "​K-12 Looker Studio Report Collection",
+    "author": "Laura Tilton",
+    "thumbnail": "https://datastudio.google.com/reporting/cf3b3f83-adf8-4182-9086-019fca2ea072/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/cf3b3f83-adf8-4182-9086-019fca2ea072"
+  },
+  {
+    "title": "Ecommerce Revenue Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/0dcc27d8-13a8-4025-b9dd-a09e1dd78bf1/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "featured",
+    "sourceUrl": "https://datastudio.google.com/open/0dcc27d8-13a8-4025-b9dd-a09e1dd78bf1"
+  },
+  {
+    "title": "Search Discovery Demo Checkout Funnel",
+    "author": "Search Discovery",
+    "thumbnail": "https://datastudio.google.com/reporting/1Oh55yjBMEsYY8wDeQxRz7cpsFQZf8Rzb/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1Oh55yjBMEsYY8wDeQxRz7cpsFQZf8Rzb"
+  },
+  {
+    "title": "Search box",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/9e9729dc-203f-4679-8e14-2958e28f405a/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/9e9729dc-203f-4679-8e14-2958e28f405a"
+  },
+  {
+    "title": "Material Design icon",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/a30d439a-ba1e-495f-bc87-2c06945e59e6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/a30d439a-ba1e-495f-bc87-2c06945e59e6"
+  },
+  {
+    "title": "Templated Record",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/fd0db9a6-2d6b-443a-adbc-f6a7c7a285a7/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/fd0db9a6-2d6b-443a-adbc-f6a7c7a285a7"
+  },
+  {
+    "title": "📌 Your average User's Journey",
+    "author": "Search Foresight",
+    "thumbnail": "https://datastudio.google.com/reporting/65f24b94-33b1-4c43-8316-9fe6157baf41/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/65f24b94-33b1-4c43-8316-9fe6157baf41"
+  },
+  {
+    "title": "USA 2018 Photo Album",
+    "author": "Riccardo Zagaglia",
+    "thumbnail": "https://datastudio.google.com/reporting/095d7411-308f-4380-843b-8b1ac6789c5c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/095d7411-308f-4380-843b-8b1ac6789c5c"
+  },
+  {
+    "title": "All-in-one Quarterly Revenue Template",
+    "author": "My Digital Lab",
+    "thumbnail": "https://datastudio.google.com/reporting/68a76d1c-9698-4860-9f3a-c2595cbfe788/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/68a76d1c-9698-4860-9f3a-c2595cbfe788"
+  },
+  {
+    "title": "Google Ads Shopping performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/ce3d8971-385b-46d3-9431-12e925748d93/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/ce3d8971-385b-46d3-9431-12e925748d93/page/TA6BB/preview"
+  },
+  {
+    "title": "Google Ads Account Health",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/52d495b8-11ef-40e2-adbc-87f830f29ffd/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/52d495b8-11ef-40e2-adbc-87f830f29ffd/page/C34BB/preview"
+  },
+  {
+    "title": "Google Ads Impression Share",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/144e6da3-3ad5-41df-af7e-bba1b2d835ca/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/144e6da3-3ad5-41df-af7e-bba1b2d835ca/page/sw7BB/preview"
+  },
+  {
+    "title": "Google Ads Search Impression Share Lost (Budget & Bid)",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/dc7318b1-0807-4c08-bbed-a794b0f6c084/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/dc7318b1-0807-4c08-bbed-a794b0f6c084/page/T2pZB/preview"
+  },
+  {
+    "title": "Google Ads Display Impression Share Lost (Budget & Bid)",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/7f070205-4dd8-406f-8da7-4910e917c71a/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/7f070205-4dd8-406f-8da7-4910e917c71a/page/ECqZB/preview"
+  },
+  {
+    "title": "Google Ads Shopping Auction Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/04cffb01-5b9b-414e-a02c-06af88c81b59/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/04cffb01-5b9b-414e-a02c-06af88c81b59/page/3qLjB/preview"
+  },
+  {
+    "title": "Google Ads Local Campaign Store Report​",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/ea3a5b74-c91c-4355-95b8-1e943f3312d6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/ea3a5b74-c91c-4355-95b8-1e943f3312d6/page/bfKcB/preview"
+  },
+  {
+    "title": "Search Ads 360 Data Driven Attribution",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/fb337915-fcdb-434e-807d-65772ce4e46c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/fb337915-fcdb-434e-807d-65772ce4e46c/page/SlRcB/preview"
+  },
+  {
+    "title": "Display & Video 360 Account Summary",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/a2069547-9c04-4842-8387-7d1901c50d4b/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/a2069547-9c04-4842-8387-7d1901c50d4b/page/jmKcB/preview"
+  },
+  {
+    "title": "The Rise of Jeopardy James Holzhauer",
+    "author": "Marc Soares",
+    "thumbnail": "https://datastudio.google.com/reporting/2b7f02cd-ce44-4f18-b241-faa49cc285f4/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/2b7f02cd-ce44-4f18-b241-faa49cc285f4"
+  },
+  {
+    "title": "📌 The Most Minimalist Dashboard",
+    "author": "Louis Dubruel",
+    "thumbnail": "https://datastudio.google.com/reporting/d81f1637-8ca5-407b-b6d2-076061d24fb0/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/d81f1637-8ca5-407b-b6d2-076061d24fb0"
+  },
+  {
+    "title": "Customer Profiling Dashboard by OWOX",
+    "author": "OWOX",
+    "thumbnail": "https://datastudio.google.com/reporting/950e7416-8eb1-4152-8bd0-b03ff9997c05/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/950e7416-8eb1-4152-8bd0-b03ff9997c05"
+  },
+  {
+    "title": "Venn Diagram",
+    "author": "First",
+    "thumbnail": "https://datastudio.google.com/reporting/bbded460-eeaf-46c3-ab9b-db862b1034fc/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/bbded460-eeaf-46c3-ab9b-db862b1034fc"
+  },
+  {
+    "title": "Auto Play",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/859cc3f8-8968-43d0-9e2e-f47300b66a31/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/859cc3f8-8968-43d0-9e2e-f47300b66a31"
+  },
+  {
+    "title": "Google Ads Overview Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/5da4b817-78a4-48c6-903e-d4ecbe9c1a81/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/5da4b817-78a4-48c6-903e-d4ecbe9c1a81"
+  },
+  {
+    "title": "Mobile-view Dashboard",
+    "author": "Evergrow",
+    "thumbnail": "https://datastudio.google.com/reporting/023d008f-83de-4b03-b9fc-33d2335a0a11/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/023d008f-83de-4b03-b9fc-33d2335a0a11"
+  },
+  {
+    "title": "Violin plot",
+    "author": "Michael Hodge",
+    "thumbnail": "https://datastudio.google.com/reporting/4f46b3a4-3a94-4572-a246-78bb5933abbf/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/4f46b3a4-3a94-4572-a246-78bb5933abbf"
+  },
+  {
+    "title": "Amaka Sales Report Gallery Example",
+    "author": "Amaka",
+    "thumbnail": "https://datastudio.google.com/reporting/b7373b36-80af-4932-ab8f-276a1d1a3c1b/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/b7373b36-80af-4932-ab8f-276a1d1a3c1b"
+  },
+  {
+    "title": "🔍 Google Ads Overview Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/6388204a-3c32-4409-be69-33c3cdaa035d/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/6388204a-3c32-4409-be69-33c3cdaa035d"
+  },
+  {
+    "title": "SEO Client Lead Gen Report",
+    "author": "Tate Lowry",
+    "thumbnail": "https://datastudio.google.com/reporting/5738135b-83a8-41e4-bc16-fdd6f6f0ce0e/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/5738135b-83a8-41e4-bc16-fdd6f6f0ce0e"
+  },
+  {
+    "title": "Client Rollup Account",
+    "author": "Tate Lowry",
+    "thumbnail": "https://datastudio.google.com/reporting/2e348750-a90d-4b95-b510-c13418386c24/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/2e348750-a90d-4b95-b510-c13418386c24"
+  },
+  {
+    "title": "Fructose Checker",
+    "author": "Jorge Carrión",
+    "thumbnail": "https://datastudio.google.com/reporting/b2d31c2f-6adc-4eef-96e8-071e97595b60/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/b2d31c2f-6adc-4eef-96e8-071e97595b60"
+  },
+  {
+    "title": "ISS Spacewalks",
+    "author": "Jennifer Li",
+    "thumbnail": "https://datastudio.google.com/reporting/1gpdnhY4GO8HXiiolAMNmmSmst67dS9ZP/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1gpdnhY4GO8HXiiolAMNmmSmst67dS9ZP"
+  },
+  {
+    "title": "2019 Data Visualization Survey",
+    "author": "Jennifer Li",
+    "thumbnail": "https://datastudio.google.com/reporting/1SRA00XsWA-ycLrX2OXjCnhzdoOhcoJtD/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1SRA00XsWA-ycLrX2OXjCnhzdoOhcoJtD"
+  },
+  {
+    "title": "Google Analytics 4 Looker Studio Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/9e3ad5bc-c4f5-4e15-95a0-71dd7c5c60c6/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/9e3ad5bc-c4f5-4e15-95a0-71dd7c5c60c6"
+  },
+  {
+    "title": "How is the events industry committing to advance UN's Sustainable Development Goals? ",
+    "author": "Jennifer Li",
+    "thumbnail": "https://datastudio.google.com/reporting/1kO9I0bHVXrWRVfHCbnI7eJhiWq9vsosn/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1kO9I0bHVXrWRVfHCbnI7eJhiWq9vsosn"
+  },
+  {
+    "title": "Snapchat Ads - Overview Dashboard",
+    "author": "Florent Dal Ben-Salles",
+    "thumbnail": "https://datastudio.google.com/reporting/baa65fb3-3d6d-4575-970e-cd2adee2a78e/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/baa65fb3-3d6d-4575-970e-cd2adee2a78e"
+  },
+  {
+    "title": "Google Analytics - Global Users by Region",
+    "author": "Cottrell Consulting",
+    "thumbnail": "https://datastudio.google.com/reporting/b2b2a7a0-880c-49b8-a267-96eab24b9003/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/b2b2a7a0-880c-49b8-a267-96eab24b9003"
+  },
+  {
+    "title": "Facebook Ads Looker Studio Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/6326b0fb-6fd3-419c-8f45-82f0bd85b7ad/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/6326b0fb-6fd3-419c-8f45-82f0bd85b7ad"
+  },
+  {
+    "title": "Conversion Funnel Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/58c5ea18-07eb-4e8d-9057-fbbc3c518dd0/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/58c5ea18-07eb-4e8d-9057-fbbc3c518dd0"
+  },
+  {
+    "title": "Google My Business Reviews",
+    "author": "Mechanical Loom",
+    "thumbnail": "https://datastudio.google.com/reporting/5418ea8f-befd-4252-87aa-e831d0c49202/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/5418ea8f-befd-4252-87aa-e831d0c49202"
+  },
+  {
+    "title": "Site Speed Performance",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/7edafd05-67f8-492d-aa50-91ba1a32b968/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/7edafd05-67f8-492d-aa50-91ba1a32b968"
+  },
+  {
+    "title": "The Flourishing Gaming Business",
+    "author": "Sunil Kappal",
+    "thumbnail": "https://datastudio.google.com/reporting/344108c8-ae4b-43ec-80df-74dd8e78f21c/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/344108c8-ae4b-43ec-80df-74dd8e78f21c"
+  },
+  {
+    "title": "Board Game Trends Infographic",
+    "author": "Mechanical Loom",
+    "thumbnail": "https://datastudio.google.com/reporting/f6f6b021-057c-4ac0-b1cc-0473ed65066b/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/f6f6b021-057c-4ac0-b1cc-0473ed65066b"
+  },
+  {
+    "title": "Simple SEO Report",
+    "author": "Minty Digital",
+    "thumbnail": "https://datastudio.google.com/reporting/065c0dbb-b9ed-44ab-9c85-86160d417139/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/065c0dbb-b9ed-44ab-9c85-86160d417139"
+  },
+  {
+    "title": "Ecommerce Master Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/a45be1dd-21a9-4c40-b0a2-55aed682fe27/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/a45be1dd-21a9-4c40-b0a2-55aed682fe27"
+  },
+  {
+    "title": "Google Analytics Template",
+    "author": "Metricized",
+    "thumbnail": "https://datastudio.google.com/reporting/1d173114-b5e3-4f65-92ca-145dafe2b4c8/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/1d173114-b5e3-4f65-92ca-145dafe2b4c8"
+  },
+  {
+    "title": "User Persona Report",
+    "author": "Guto Martins",
+    "thumbnail": "https://datastudio.google.com/reporting/eb18fd1e-3f26-4076-80ec-6d978d99b284/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/eb18fd1e-3f26-4076-80ec-6d978d99b284"
+  },
+  {
+    "title": "Essential Google Ads Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/9e5d606e-ca03-468e-a230-f6f2904fe596/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/9e5d606e-ca03-468e-a230-f6f2904fe596"
+  },
+  {
+    "title": "CSV Filter Control",
+    "author": "Romain Vialard",
+    "thumbnail": "https://datastudio.google.com/reporting/2b0a22a2-3992-49e1-be12-bdc22937daea/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "visualization",
+    "sourceUrl": "https://datastudio.google.com/open/2b0a22a2-3992-49e1-be12-bdc22937daea"
+  },
+  {
+    "title": "Google Ads Search Creative Performance Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/bba65b90-54a9-417e-8128-0a163ae93959/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/bba65b90-54a9-417e-8128-0a163ae93959/page/1482B/preview"
+  },
+  {
+    "title": "Google Ads Daily Budget Depletion Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/d5e6fbbc-074c-400f-bfd1-581909a92959/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/d5e6fbbc-074c-400f-bfd1-581909a92959/page/ofdP/preview"
+  },
+  {
+    "title": "Google Ads Display Network Performance Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/5bf69bf4-48e6-451f-9fd8-9a6ab358e8dd/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/reporting/5bf69bf4-48e6-451f-9fd8-9a6ab358e8dd/page/AceZB/preview"
+  },
+  {
+    "title": "Google Ads Discovery Performance Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/81ddda85-ced6-4465-8c3d-00b5115833b8/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/81ddda85-ced6-4465-8c3d-00b5115833b8/page/AceZB/preview"
+  },
+  {
+    "title": "Google Ads Discovery and TrueView for Action Performance Insights",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/5bf69bf4-48e6-451f-9fd8-9a6ab358e8dd/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/c/u/0/reporting/a88060d1-ebfc-44ce-b35b-c8ba9194ec11/page/AceZB/preview"
+  },
+  {
+    "title": "Keyword Analysis Looker Studio Template",
+    "author": "Data Bloo",
+    "thumbnail": "https://datastudio.google.com/reporting/c5f26b1b-6745-4d0c-b559-3ad7c27cbe7d/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/c5f26b1b-6745-4d0c-b559-3ad7c27cbe7d"
+  },
+  {
+    "title": "Makeshop Report",
+    "author": "SEM Technology",
+    "thumbnail": "https://datastudio.google.com/reporting/9e7ea1e1-8d87-46d6-bddb-ff430a9422ac/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/9e7ea1e1-8d87-46d6-bddb-ff430a9422ac"
+  },
+  {
+    "title": "Core Web Vitals",
+    "author": "Web Site Advantage",
+    "thumbnail": "https://datastudio.google.com/reporting/f2dcea87-34b9-42ba-8817-e4597c7f2af9/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/f2dcea87-34b9-42ba-8817-e4597c7f2af9"
+  },
+  {
+    "title": "Search Console Report for SEO",
+    "author": "DataSasi",
+    "thumbnail": "https://datastudio.google.com/reporting/b0d41bd1-9b42-4845-bea9-4e9c03d68227/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/b0d41bd1-9b42-4845-bea9-4e9c03d68227"
+  },
+  {
+    "title": "50-Year Flood Dashboard",
+    "author": "Sinan Abood",
+    "thumbnail": "https://datastudio.google.com/reporting/123f932c-0e29-4487-9186-c4b7df88967d/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://datastudio.google.com/open/123f932c-0e29-4487-9186-c4b7df88967d"
+  },
+  {
+    "title": "Google Ads Shopping Product Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/6952c9b9-68f8-441e-a571-6448e6108f4a/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/reporting/6952c9b9-68f8-441e-a571-6448e6108f4a/preview"
+  },
+  {
+    "title": "Google Ads Search Automation Tracking",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/10571187-0350-408b-80e7-dd93ea377f02/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/reporting/10571187-0350-408b-80e7-dd93ea377f02/preview"
+  },
+  {
+    "title": "Google Ads Experiments Performance",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/08994612-f7a8-45b3-a37e-6f8cf64069ab/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/reporting/08994612-f7a8-45b3-a37e-6f8cf64069ab/preview"
+  },
+  {
+    "title": "Google Account CPA / ROAS Tool",
+    "author": "Looker Studio Team",
+    "thumbnail": "https://datastudio.google.com/reporting/c2cf5df7-8bbb-4b14-bdb6-27ab257171fa/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "marketing",
+    "sourceUrl": "https://datastudio.google.com/reporting/c2cf5df7-8bbb-4b14-bdb6-27ab257171fa/preview"
+  },
+  {
+    "title": "GCS - Storage Intelligence Dashboard Template",
+    "author": "Google Cloud Storage",
+    "thumbnail": "https://datastudio.google.com/reporting/670eee3f-ad6d-45ea-a169-853ab023dc84/thumbnail?sz=w320-h240-p-k-nu",
+    "category": "community",
+    "sourceUrl": "https://lookerstudio.google.com/c/u/0/reporting/670eee3f-ad6d-45ea-a169-853ab023dc84"
+  }
+]

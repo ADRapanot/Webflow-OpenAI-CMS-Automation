@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Sales Performance Dashboard",
+    "slug": "sales-performance-tableau-public",
+    "subtitle": "Interactive sales KPIs with revenue trends, top products, and regional performance",
+    "source": "Tableau Public",
+    "author": "Tableau Public Community (Sample by Superstore author)",
+    "link": "https://public.tableau.com/views/SalesDashboard_15931890285550/SalesDashboard",
+    "thumbnail": "https://public.tableau.com/static/images/Sa/SalesDashboard_15931890285550/SalesDashboard/4_3.png",
+    "tags": [
+      "pipeline",
+      "kpi"
+    ],
+    "category": "Sales",
+    "description": "A public Tableau sales dashboard with core CRM-style KPIs: revenue trend, top customers, product mix, and geographic performance. Useful as a CRM analytics reference for pipeline health and performance over time.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "HubSpot CRM Overview Template",
+    "slug": "hubspot-overview-looker-studio",
+    "subtitle": "Cross-portal HubSpot CRM overview highlighting contacts, deals, and funnel metrics",
+    "source": "Looker Studio",
+    "author": "Databox (shared via Looker Studio public preview)",
+    "link": "https://lookerstudio.google.com/reporting/1QOURQxesY6HSqvbpydwDXE7bB6QQ2JqS/page/l09FB/preview",
+    "thumbnail": "https://datastudio.google.com/reporting/1QOURQxesY6HSqvbpydwDXE7bB6QQ2JqS/thumbnail?sz=w320-h240-p-k-nu",
+    "tags": [
+      "hubspot",
+      "funnel"
+    ],
+    "category": "Sales",
+    "description": "Public Looker Studio template for HubSpot CRM data that showcases deals, pipeline stages, and contact growth. Demonstrates core CRM analytics such as funnel progression and stage conversion.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Pipedrive CRM Metrics Dashboard",
+    "slug": "pipedrive-crm-dashboard-databox",
+    "subtitle": "Key Pipedrive CRM KPIs with deals won, activities, and stage conversion trends",
+    "source": "Databox",
+    "author": "Databox",
+    "link": "https://databox.com/dashboard-examples/pipedrive",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/i1tpv4v5p4p.jpg",
+    "tags": [
+      "pipedrive",
+      "deals"
+    ],
+    "category": "Sales",
+    "description": "A gallery page with public, no-login example dashboards for Pipedrive CRM, including deals won, pipeline value, and activity tracking. Useful for benchmarking CRM reporting patterns.",
+    "access": "public",
+    "source_type": "Gallery",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Zoho CRM Sales Pipeline Template",
+    "slug": "zoho-crm-analytics-template-looker-studio",
+    "subtitle": "Deals by stage, owner, and value with conversion-focused visuals for Zoho CRM",
+    "source": "Looker Studio",
+    "author": "Porter Metrics",
+    "link": "https://lookerstudio.google.com/reporting/1Q8mZQnHk4COfFnQpSSpQY3X2nE0ec1I5/page/COoIB/preview",
+    "thumbnail": "https://datastudio.google.com/reporting/1Q8mZQnHk4COfFnQpSSpQY3X2nE0ec1I5/thumbnail?sz=w320-h240-p-k-nu",
+    "tags": [
+      "zoho",
+      "pipeline"
+    ],
+    "category": "Sales",
+    "description": "Public Looker Studio report demonstrating Zoho CRM pipeline analysis: deals by stage and owner, expected revenue, and win rates. Helps illustrate CRM analytics structure for Zoho users.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Salesforce-style Pipeline & Forecast",
+    "slug": "salesforce-crm-analytics-demo-tableau-public",
+    "subtitle": "Pipeline value, forecast categories, and win rates inspired by CRM analytics",
+    "source": "Tableau Public",
+    "author": "Tableau Public Community",
+    "link": "https://public.tableau.com/views/PipelineForecastDashboard/Pipeline",
+    "thumbnail": "https://public.tableau.com/static/images/Pi/PipelineForecastDashboard/Pipeline/4_3.png",
+    "tags": [
+      "forecast",
+      "pipeline"
+    ],
+    "category": "Sales",
+    "description": "An open Tableau Public dashboard that emulates CRM pipeline and forecasting views, including current pipeline value by stage and historical win rates.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "HubSpot Sales Funnel & Deals",
+    "slug": "hubspot-sales-funnel-databox-gallery",
+    "subtitle": "HubSpot CRM deals pipeline, stage velocity, and conversion visualization",
+    "source": "Databox",
+    "author": "Databox",
+    "link": "https://databox.com/dashboard-examples/hubspot-crm",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/qs0xq4v1b9f.jpg",
+    "tags": [
+      "hubspot",
+      "deals"
+    ],
+    "category": "Sales",
+    "description": "Curated public examples focused on HubSpot CRM analytics: funnel metrics, deals by stage, velocity, and pipeline value\u2014useful for CRM reporting inspiration.",
+    "access": "public",
+    "source_type": "Gallery",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "CRM Leads & Opportunities Overview",
+    "slug": "crm-leads-opportunities-looker-studio",
+    "subtitle": "Lead sources, MQL-to-SQL rates, and opportunity performance in one view",
+    "source": "Looker Studio",
+    "author": "Looker Studio Community",
+    "link": "https://lookerstudio.google.com/reporting/17Yq6eVJSSEM1mCtkB9lnZ2bjOROZBBU1/page/p_0",
+    "thumbnail": "https://datastudio.google.com/reporting/17Yq6eVJSSEM1mCtkB9lnZ2bjOROZBBU1/thumbnail?sz=w320-h240-p-k-nu",
+    "tags": [
+      "leads",
+      "opportunities"
+    ],
+    "category": "Sales",
+    "description": "Public demo of CRM-style lead and opportunity analytics: lead source mix, MQL-SQL progression, and opportunity outcomes for pipeline health monitoring.",
+    "access": "public",
+    "source_type": "Looker Studio",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  },
+  {
+    "title": "Customer Success Health (CRM)",
+    "slug": "customer-success-crm-health-tableau-public",
+    "subtitle": "Renewals, churn risk, and account health metrics aligned to CRM accounts",
+    "source": "Tableau Public",
+    "author": "Tableau Public Community",
+    "link": "https://public.tableau.com/views/CustomerSuccessHealthDashboard/Overview",
+    "thumbnail": "https://public.tableau.com/static/images/Cu/CustomerSuccessHealthDashboard/Overview/4_3.png",
+    "tags": [
+      "retention",
+      "accounts"
+    ],
+    "category": "Sales",
+    "description": "A CRM-adjacent customer success dashboard tracking renewals, churn risk, and account health indicators\u2014useful for post-sale CRM analytics.",
+    "access": "public",
+    "source_type": "Tableau Public",
+    "license": null,
+    "last_checked": "2025-11-11",
+    "language": "en"
+  }
+]

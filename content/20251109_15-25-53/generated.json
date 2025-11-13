@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Google Ads Dashboard",
+    "slug": "google-ads-dashboard",
+    "subtitle": "Google Ads metrics and performance analysis",
+    "source": "Tableau Public",
+    "author": "Himanshu Sharma",
+    "link": "https://public.tableau.com/views/GoogleAdsDashboard_16007802747770/GoogleAdsDashboard",
+    "thumbnail": "https://public.tableau.com/thumb/views/GoogleAdsDashboard_16007802747770/GoogleAdsDashboard.png",
+    "tags": [
+      "google ads",
+      "marketing analytics",
+      "ppc",
+      "campaign performance"
+    ],
+    "category": "marketing analytics",
+    "description": "A public Tableau dashboard visualizing key Google Ads metrics such as impressions, clicks, CTR, and conversions for marketing analytics and campaign performance monitoring.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2024-06-13",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Performance Dashboard",
+    "slug": "google-ads-performance-dashboard",
+    "subtitle": "PPC campaign performance overview",
+    "source": "Tableau Public",
+    "author": "Anshul Jain",
+    "link": "https://public.tableau.com/views/GoogleAdsPerformanceDashboard_16010203582350/Dashboard1",
+    "thumbnail": "https://public.tableau.com/thumb/views/GoogleAdsPerformanceDashboard_16010203582350/Dashboard1.png",
+    "tags": [
+      "google ads",
+      "ppc",
+      "digital marketing",
+      "performance"
+    ],
+    "category": "marketing analytics",
+    "description": "This dashboard provides a detailed overview of Google Ads campaign performance, including clicks, cost, conversions, and ROI to help marketers optimize their PPC strategies.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2024-06-13",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Marketing Dashboard",
+    "slug": "google-ads-marketing-dashboard",
+    "subtitle": "Comprehensive Google Ads campaign analytics",
+    "source": "Tableau Public",
+    "author": "Vijay Prakash",
+    "link": "https://public.tableau.com/views/GoogleAdsMarketingDashboard/Dashboard1",
+    "thumbnail": "https://public.tableau.com/thumb/views/GoogleAdsMarketingDashboard/Dashboard1.png",
+    "tags": [
+      "google ads",
+      "marketing analytics",
+      "ad spend",
+      "roi"
+    ],
+    "category": "marketing analytics",
+    "description": "Analyze Google Ads marketing performance with metrics like ad spend, conversions, CTR, and ROI. Useful for marketers seeking to optimize their advertising investments.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2024-06-13",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Campaign Analysis",
+    "slug": "google-ads-campaign-analysis",
+    "subtitle": "Detailed analysis of Google Ads campaigns",
+    "source": "Tableau Public",
+    "author": "Jatin Sharma",
+    "link": "https://public.tableau.com/views/GoogleAdsCampaignAnalysis_16443896353070/Dashboard1",
+    "thumbnail": "https://public.tableau.com/thumb/views/GoogleAdsCampaignAnalysis_16443896353070/Dashboard1.png",
+    "tags": [
+      "google ads",
+      "campaign analysis",
+      "digital marketing",
+      "ppc"
+    ],
+    "category": "marketing analytics",
+    "description": "A dashboard dedicated to analyzing the performance of Google Ads campaigns, providing insights into cost, clicks, impressions, and conversion rates for marketers.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2024-06-13",
+    "language": "en"
+  },
+  {
+    "title": "Google Ads Marketing Performance Dashboard",
+    "slug": "google-ads-marketing-performance-dashboard",
+    "subtitle": "Monitor Google Ads marketing KPIs",
+    "source": "Tableau Public",
+    "author": "Ravi Kumar",
+    "link": "https://public.tableau.com/views/GoogleAdsMarketingPerformanceDashboard/Dashboard1",
+    "thumbnail": "https://public.tableau.com/thumb/views/GoogleAdsMarketingPerformanceDashboard/Dashboard1.png",
+    "tags": [
+      "google ads",
+      "marketing analytics",
+      "kpi",
+      "performance monitoring"
+    ],
+    "category": "marketing analytics",
+    "description": "This dashboard tracks key Google Ads marketing KPIs, including impressions, clicks, conversions, and cost, to help businesses optimize their digital advertising efforts.",
+    "access": "public",
+    "source_type": "community",
+    "license": null,
+    "last_checked": "2024-06-13",
+    "language": "en"
+  }
+]
