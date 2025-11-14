@@ -415,7 +415,7 @@ def webhook_endpoint():
         
         # Extract topic from fieldData (slug or category)
         topic = field_data.get('title', '') + ' ' + field_data.get('slug', '') + ' ' + field_data.get('description', '')
-        
+        Slug = field_data.get('slug', '')
         if not collection_id:
             return jsonify({'error': 'collection_id is required'}), 400
         
@@ -473,7 +473,7 @@ def webhook_endpoint():
             field_data = {
                 "name": item.title,
                 "slug": item.slug,
-                "category": field_data.get('category', ''),
+                "category": Slug,
                 "thumbnail": item.thumbnail,  # Use link from generated item
                 "source-url": item.link,
                 "source": item.source,
