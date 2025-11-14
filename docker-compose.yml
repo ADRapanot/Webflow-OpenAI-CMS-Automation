@@ -16,6 +16,8 @@ services:
       # Optional: Mount directories if you want to persist data
       - ./content:/app/content
       - ./best_match:/app/best_match
+      - ./reports:/app/reports
+      - ./images:/app/images
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
