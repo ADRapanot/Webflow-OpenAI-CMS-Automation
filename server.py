@@ -335,6 +335,22 @@ def webhook_endpoint():
     try:
         data = request.get_json(silent=True)
         
+        # Handle Make.com formFields format (array of objects)
+        if data and isinstance(data.get('formFields'), list):
+            form_fields = data.get('formFields', [])
+            data = {}
+            for field in form_fields:
+                if isinstance(field, dict) and 'name' in field and 'value' in field:
+                    field_name = field['name']
+                    field_value = field['value']
+                    # Try to parse JSON values
+                    if isinstance(field_value, str):
+                        try:
+                            field_value = json.loads(field_value)
+                        except (json.JSONDecodeError, TypeError):
+                            pass
+                    data[field_name] = field_value
+        
         if data is None:
             # Fallback: handle application/x-www-form-urlencoded (or other form submissions)
             if request.form:
@@ -359,6 +375,21 @@ def webhook_endpoint():
                 if raw_payload:
                     try:
                         data = json.loads(raw_payload)
+                        # Check if it's Make.com formFields format
+                        if isinstance(data.get('formFields'), list):
+                            form_fields = data.get('formFields', [])
+                            converted_data = {}
+                            for field in form_fields:
+                                if isinstance(field, dict) and 'name' in field and 'value' in field:
+                                    field_name = field['name']
+                                    field_value = field['value']
+                                    if isinstance(field_value, str):
+                                        try:
+                                            field_value = json.loads(field_value)
+                                        except (json.JSONDecodeError, TypeError):
+                                            pass
+                                    converted_data[field_name] = field_value
+                            data = converted_data
                     except json.JSONDecodeError:
                         data = None
         

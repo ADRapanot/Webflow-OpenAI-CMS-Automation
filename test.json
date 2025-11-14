@@ -1,10 +1,10 @@
 {
-  "collection_id": "690901e88bb9a020259fa715",
+  "count": 5,
   "site_id": "6903e357b552c2ec9e6a0eed",
   "fieldData": {
-    "title": "Google Ads Marketing Dashboard",
-    "slug": "marketing-analytics",
-    "category": "Marketing"
+    "slug": "marketing-dashboards",
+    "title": "Marketing Dashboards",
+    "category": "marketing-dashboards"
   },
-  "count": 5
+  "collection_id": "690901e88bb9a020259fa715"
 }
