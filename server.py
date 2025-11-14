@@ -69,16 +69,72 @@ def download_thumbnail(url, output_dir="downloaded_thumbnails"):
         filename = str(uuid.uuid4())
     
     try:
+        logging.info(f"Downloading thumbnail from: {url}")
         resp = requests.get(url, timeout=30, stream=True)
         resp.raise_for_status()
-        # Skip SVGs or non-image responses
-        content_type = resp.headers.get("content-type", "")
-        if not content_type.startswith("image/"):
-            return None
-        if "svg" in content_type.lower():
+        
+        # Get content-type from header
+        content_type = resp.headers.get("content-type", "").lower()
+        logging.info(f"Content-Type header: {content_type}")
+        
+        # Download file first to check its content
+        filepath = os.path.join(output_dir, filename)
+        with open(filepath, "wb") as f:
+            for chunk in resp.iter_content(8192):
+                f.write(chunk)
+        
+        # Check file size
+        file_size = os.stat(filepath).st_size
+        logging.info(f"Downloaded file size: {file_size} bytes")
+        
+        if file_size < 500:
+            logging.warning(f"File too small ({file_size} bytes), removing")
+            os.remove(filepath)
             return None
         
-        # Ensure filename has proper extension based on content-type
+        # Read first few bytes to detect image type
+        with open(filepath, "rb") as f:
+            file_header = f.read(12)
+        
+        # Detect image type from magic bytes
+        detected_type = None
+        if file_header[:2] == b'\xff\xd8':
+            detected_type = 'image/jpeg'
+        elif file_header[:4] == b'\x89PNG':
+            detected_type = 'image/png'
+        elif file_header[:6] in (b'GIF87a', b'GIF89a'):
+            detected_type = 'image/gif'
+        elif file_header[:4] == b'RIFF' and file_header[8:12] == b'WEBP':
+            detected_type = 'image/webp'
+        elif file_header[:2] == b'BM':
+            detected_type = 'image/bmp'
+        
+        # If content-type header is missing or incorrect, use detected type
+        if not content_type.startswith("image/") or "octet-stream" in content_type:
+            if detected_type:
+                logging.info(f"Content-Type header missing/incorrect, detected: {detected_type}")
+                content_type = detected_type
+            else:
+                logging.warning(f"Could not detect image type from content, but file size is {file_size} bytes")
+                # If URL has .jpg extension, assume JPEG
+                if url.lower().endswith(('.jpg', '.jpeg')):
+                    content_type = 'image/jpeg'
+                    detected_type = 'image/jpeg'
+                elif url.lower().endswith('.png'):
+                    content_type = 'image/png'
+                    detected_type = 'image/png'
+                else:
+                    logging.error(f"Unknown image type for {url}")
+                    os.remove(filepath)
+                    return None
+        
+        # Skip SVGs
+        if "svg" in content_type:
+            logging.warning("SVG detected, skipping")
+            os.remove(filepath)
+            return None
+        
+        # Ensure filename has proper extension
         if not Path(filename).suffix:
             # Map content-type to file extension
             ext_map = {
@@ -91,18 +147,20 @@ def download_thumbnail(url, output_dir="downloaded_thumbnails"):
             }
             ext = ext_map.get(content_type.split(';')[0].strip().lower(), '.jpg')
             filename = filename + ext
+            # Rename file if extension was added
+            new_filepath = os.path.join(output_dir, filename)
+            if new_filepath != filepath:
+                os.rename(filepath, new_filepath)
+                filepath = new_filepath
         
-        filepath = os.path.join(output_dir, filename)
-        
-        with open(filepath, "wb") as f:
-            for chunk in resp.iter_content(8192):
-                f.write(chunk)
-        # Ensure file isn't empty/tiny
-        if os.stat(filepath).st_size < 500:
-            os.remove(filepath)
-            return None
+        logging.info(f"Successfully downloaded thumbnail to: {filepath}")
         return filepath
-    except Exception:
+        
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Failed to download thumbnail from {url}: {e}")
+        return None
+    except Exception as e:
+        logging.error(f"Unexpected error downloading thumbnail from {url}: {e}", exc_info=True)
         return None
 
 def process_webhook_item(
