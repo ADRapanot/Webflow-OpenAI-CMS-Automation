@@ -227,14 +227,14 @@ def get_dashboards_from_sites(query: str = "", limit: Optional[int] = None, incl
             if q in title:
                 count += 2  # strong preference if in title
             if q in extra:
-                count += 1
+                count += 2
             if q in description:
                 count += 1
             if q in source_url:
                 count += 2
             # Also count keywords overlap if query is multi-word.
             qwords = set(q.split())
-            for part in (title, extra):
+            for part in (title, extra,description,source_url):
                 for word in qwords:
                     if word and word in part:
                         count += 1

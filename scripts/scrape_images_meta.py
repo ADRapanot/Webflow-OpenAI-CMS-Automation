@@ -86,6 +86,35 @@ def _find_author(element):
     return ""
 
 
+def has_image_extension(url: str) -> bool:
+    """Check if URL contains an image file extension."""
+    if not url:
+        return False
+    
+    # Common image extensions
+    image_extensions = [
+        '.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp',
+        '.tiff', '.tif', '.heic', '.heif', '.avif', '.jfif', 'thumbnail'
+    ]
+    
+    # Parse URL and check path
+    parsed = urlparse(url)
+    path = parsed.path.lower()
+    
+    # Check if path ends with image extension
+    for ext in image_extensions:
+        if path.endswith(ext):
+            return True
+    
+    # Also check query parameters for image extensions (some CDNs use this)
+    query = parsed.query.lower()
+    for ext in image_extensions:
+        if ext in query:
+            return True
+    
+    return False
+
+
 def extract_image_metadata(img_tag, base_url: str) -> dict:
     """Derive contextual metadata for an image tag."""
     metadata = {}
@@ -222,15 +251,19 @@ def scrape_images_with_js(
                 if href:
                     image_urls.append(href)
         
-        # Convert to full URLs and remove duplicates
+        # Convert to full URLs, filter by image extension, and remove duplicates
         full_urls = []
         for img_url in image_urls:
             if img_url.startswith('data:'):
                 continue
             stripped_url = img_url.strip().split()[0]
             full_url = urljoin(url, stripped_url)
-            if urlparse(full_url).path.lower().endswith('.svg'):
+            
+            # Filter: only include URLs with image extensions
+            if not has_image_extension(full_url):
+                logging.debug(f"Skipping URL without image extension: {full_url}")
                 continue
+            
             full_urls.append(full_url)
             if full_url not in metadata_map and img_url in metadata_map:
                 metadata_map[full_url] = metadata_map[img_url]
