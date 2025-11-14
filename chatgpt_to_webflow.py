@@ -224,7 +224,7 @@ class DashboardGenerator:
         prompt = (
             "You find public {topic} on the given urls, verify they are accessible, and deliver a clean JSON "
             "library plus short website copy for a free dashboard library. "
-            "What you deliver - Curated list of {count} dashboards with validated links. Look given thumbnail image urls and choose appropriate that fits the dashboard. Don't choose more than 8 from tableau, select urls that from other pages in given urls. *Only Choose from given urls below.*"
+            "What you deliver - Curated list of {count} dashboards with validated links. Look given thumbnail image urls and choose appropriate that fits the dashboard. Don't choose more than 3 from same sources, select urls that from other pages in given urls. *Only Choose from given urls below.*"
             " - JSON array using stable keys and nulls for unknowns. JSON schema (use these keys in this order): {schema} "
             "How you work - Actively browse to discover and verify. - Prefer public/no-login examples and canonical URLs. "
             "Deduplicate. - Do not invent details; use null if unknown and note assumptions briefly. - Normalize categories "
