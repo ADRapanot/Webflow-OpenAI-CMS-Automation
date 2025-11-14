@@ -99,43 +99,36 @@ def clean_thumbnail_url(url: str) -> str:
     if not url:
         return url
     
-    # Look for CDN URLs in the string (cdn.sanity.io, cdn-cgi/image, etc.)
-    # First try to find cdn.sanity.io URLs (handles both https:/ and https://)
-    # Find the position of cdn.sanity.io and extract the URL starting from https? before it
+    # Look for cdn.sanity.io in the URL
     sanity_pos = url.find('cdn.sanity.io')
     if sanity_pos > 0:
-        # Look backwards to find the start of the URL (https: or http:)
-        # Search for https?: or http?: before the domain
-        protocol_match = re.search(r'https?:/+/cdn\.sanity\.io/[^\s?]+', url[max(0, sanity_pos-20):sanity_pos+200])
+        # Look backwards to find the protocol (https: or http:)
+        # Search in a window before the domain
+        search_start = max(0, sanity_pos - 50)
+        before_domain = url[search_start:sanity_pos]
+        
+        # Find https?: or http?: pattern (with one or two slashes)
+        protocol_match = re.search(r'(https?:/+)', before_domain)
         if protocol_match:
-            clean_url = protocol_match.group(0)
-            # Fix protocol to always have two slashes (https:/ -> https://)
-            clean_url = re.sub(r'^(https?):/', r'\1://', clean_url)
-            # Remove query parameters
-            if '?' in clean_url:
-                clean_url = clean_url.split('?')[0]
-            return clean_url
-        # Alternative: find https?:/ pattern before cdn.sanity.io
-        before_domain = url[:sanity_pos]
-        protocol_match = re.search(r'https?:/+/?$', before_domain)
-        if protocol_match:
-            # Extract from protocol match to query string or end
-            start_pos = protocol_match.start()
-            end_pos = url.find('?', sanity_pos)
-            if end_pos == -1:
-                end_pos = len(url)
-            clean_url = url[start_pos:end_pos]
-            # Fix protocol
-            clean_url = re.sub(r'^(https?):/', r'\1://', clean_url)
+            # Get the start position relative to full URL
+            protocol_start = search_start + protocol_match.start()
+            # Find the end (query string or end of URL)
+            query_pos = url.find('?', sanity_pos)
+            if query_pos == -1:
+                query_pos = len(url)
+            
+            # Extract the URL
+            clean_url = url[protocol_start:query_pos]
+            # Fix protocol to always have exactly two slashes (https:/ -> https://, https:/// -> https://)
+            clean_url = re.sub(r'^(https?):/+', r'\1://', clean_url)
             return clean_url
     
     # Try Cloudflare CDN wrapper pattern
     cloudflare_match = re.search(r'https?://[^/]+/cdn-cgi/image/[^/]+/(https?:/+/[^\s?]+)', url)
     if cloudflare_match:
         clean_url = cloudflare_match.group(1)
-        # Fix protocol to always have two slashes
-        clean_url = re.sub(r'^https?:/', 'https://', clean_url)
-        clean_url = re.sub(r'^http?:/', 'http://', clean_url)
+        # Fix protocol to always have exactly two slashes
+        clean_url = re.sub(r'^(https?):/+', r'\1://', clean_url)
         # Remove query parameters
         if '?' in clean_url:
             clean_url = clean_url.split('?')[0]
