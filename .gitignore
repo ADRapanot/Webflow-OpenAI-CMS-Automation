@@ -37,6 +37,11 @@ collection_schema_*.json
 staging_payloads/
 *.log
 logs/
+debug_output/
+downloaded_thumbnails/
+test_images/
+tests/
+content/
 
 # Selenium
 geckodriver.log

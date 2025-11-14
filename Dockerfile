@@ -4,14 +4,16 @@ FROM python:3.11-slim
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies including Chrome and ChromeDriver
-RUN apt-get update && apt-get install -y \
-    wget \
+# Install system dependencies including Chrome runtime libraries and image codecs
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates \
+    curl \
     gnupg \
     unzip \
-    curl \
-    # Chrome dependencies
+    wget \
+    # Chrome runtime dependencies
     fonts-liberation \
+    libappindicator3-1 \
     libasound2 \
     libatk-bridge2.0-0 \
     libatk1.0-0 \
@@ -20,16 +22,36 @@ RUN apt-get update && apt-get install -y \
     libdbus-1-3 \
     libdrm2 \
     libgbm1 \
+    libglib2.0-0 \
     libgtk-3-0 \
     libnspr4 \
     libnss3 \
+    libpango-1.0-0 \
+    libpangocairo-1.0-0 \
     libwayland-client0 \
+    libx11-6 \
+    libx11-xcb1 \
+    libxcb1 \
+    libxcb-dri3-0 \
     libxcomposite1 \
+    libxcursor1 \
     libxdamage1 \
     libxfixes3 \
+    libxi6 \
     libxkbcommon0 \
     libxrandr2 \
+    libxrender1 \
+    libxshmfence1 \
+    libxss1 \
+    libxtst6 \
     xdg-utils \
+    # Pillow runtime dependencies
+    libfreetype6 \
+    libjpeg62-turbo \
+    libopenjp2-7 \
+    libpng16-16 \
+    libtiff6 \
+    libwebp7 \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Google Chrome
@@ -50,6 +72,10 @@ RUN CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d '.' -f 
     && mv /tmp/chromedriver-linux64/chromedriver /usr/local/bin/ \
     && chmod +x /usr/local/bin/chromedriver \
     && rm -rf /tmp/chromedriver.zip /tmp/chromedriver-linux64
+
+# Configure Chrome environment paths for Selenium scripts
+ENV CHROME_BIN=/usr/bin/google-chrome \
+    CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
 
 # Copy requirements first for better caching
 COPY requirements.txt .

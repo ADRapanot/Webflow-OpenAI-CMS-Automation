@@ -8,3 +8,4 @@ webdriver-manager>=4.0.0
 undetected-chromedriver>=3.5.5
 gunicorn>=21.2.0
 python-dotenv>=1.0.0
+click>=8.1.0

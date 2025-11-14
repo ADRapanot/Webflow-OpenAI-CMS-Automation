@@ -36,26 +36,12 @@ REQUEST_TIMEOUT = 20
 
 TABLEAU_BASE = "https://public.tableau.com"
 WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
-    "https://windsor.ai/template-gallery/social-media-dashboard-reports/",
-    "https://windsor.ai/template-gallery/seo-dashboard-reports/",
-    "https://windsor.ai/template-gallery/ppc-dashboard-reports/",
-    "https://windsor.ai/template-gallery/ga4-dashboard-reports/",
-    "https://windsor.ai/template-gallery/content-marketing-dashboard-reports/",
-    "https://windsor.ai/template-gallery/email-marketing-dashboard-reports/",
-    "https://windsor.ai/template-gallery/web-analytics-dashboard-reports/",
-    "https://windsor.ai/template-gallery/lead-generation-dashboard-reports/",
-    "https://windsor.ai/ecommerce-marketing-dashboard-templates/",
-    "https://windsor.ai/template-gallery/linkedin-ads-dashboard-reports/",
-    "https://windsor.ai/template-gallery/google-ads-dashboard-reports/",
-    "https://windsor.ai/template-gallery/facebook-ads-dashboard-reports/",
-    "https://windsor.ai/template-gallery/cmo-dashboard-reports/",
-    "https://windsor.ai/template-gallery/crm-dashboard-reports/",
-    "https://windsor.ai/template-gallery/amazon-seller-central-dashboard-reports/",
-    "https://windsor.ai/template-gallery/youtube-ads-dashboard-reports/",
-    "https://windsor.ai/template-gallery/shopify-dashboard-reports/",
-    "https://windsor.ai/template-gallery/tiktok-ads-dashboard-reports/",
-    "https://windsor.ai/template-gallery/keyword-ranking-dashboard-reports/",
-    "https://windsor.ai/template-gallery/kpi-tracking-dashboard-reports/",
+    "https://supermetrics.com/template-gallery",
+    "https://supermetrics.com/template-gallery?page=2",
+    "https://supermetrics.com/template-gallery/reporting-tools/google-sheets",
+    "https://supermetrics.com/template-gallery/channels/google-analytics",
+    "https://supermetrics.com/template-gallery/looker-studio-linkedin-ads-overview",
+    "https://supermetrics.com/blog/facebook-ads-report-template"
 ]
 LOOKER_JS_URL = "https://lookerstudio.google.com/gallery/static/gallery/report_gallery_js.js"
 LOOKER_OUTPUT_PATH = Path(__file__).with_name("reports_looker.json")
@@ -93,11 +79,22 @@ def get_tableau_dashboards(query: str, num_results: int = 10, max_pages: int = 5
     Selenium so we can capture dynamically rendered gallery cards.
     """
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
+    options.add_argument("--headless=new")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
 
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    chrome_binary = os.getenv("CHROME_BIN") or os.getenv("GOOGLE_CHROME_BIN")
+    if chrome_binary:
+        options.binary_location = chrome_binary
+
+    chromedriver_path = os.getenv("CHROMEDRIVER_PATH")
+    if chromedriver_path and Path(chromedriver_path).exists():
+        service = Service(executable_path=chromedriver_path)
+    else:
+        service = Service(ChromeDriverManager().install())
+
+    driver = webdriver.Chrome(service=service, options=options)
 
     encoded_query = query.replace(" ", "%20")
     base_url = f"{TABLEAU_BASE}/app/search/vizzes/{encoded_query}"

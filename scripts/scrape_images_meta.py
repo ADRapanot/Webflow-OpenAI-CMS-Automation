@@ -229,6 +229,8 @@ def scrape_images_with_js(
                 continue
             stripped_url = img_url.strip().split()[0]
             full_url = urljoin(url, stripped_url)
+            if urlparse(full_url).path.lower().endswith('.svg'):
+                continue
             full_urls.append(full_url)
             if full_url not in metadata_map and img_url in metadata_map:
                 metadata_map[full_url] = metadata_map[img_url]
