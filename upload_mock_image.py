@@ -9,6 +9,7 @@ import hashlib
 import io
 import json
 import logging
+import mimetypes
 import os
 from pathlib import Path
 
@@ -45,16 +46,55 @@ def calculate_md5(data: bytes) -> str:
     return hashlib.md5(data).hexdigest()
 
 
+def detect_image_mime_type(file_name: str, file_data: bytes = None) -> str:
+    """
+    Detect the MIME type of an image file.
+    First tries to detect from file extension, then from file content if provided.
+    Falls back to 'image/jpeg' if detection fails.
+    """
+    # Try to detect from file extension
+    mime_type, _ = mimetypes.guess_type(file_name)
+    if mime_type and mime_type.startswith('image/'):
+        return mime_type
+    
+    # Try to detect from file content (magic bytes)
+    if file_data and len(file_data) >= 4:
+        # Check for common image formats
+        if file_data[:4] == b'\x89PNG':
+            return 'image/png'
+        elif file_data[:2] == b'\xff\xd8':
+            return 'image/jpeg'
+        elif file_data[:6] in (b'GIF87a', b'GIF89a'):
+            return 'image/gif'
+        elif file_data[:4] == b'RIFF' and file_data[8:12] == b'WEBP':
+            return 'image/webp'
+        elif file_data[:2] == b'BM':
+            return 'image/bmp'
+    
+    # Fallback to jpeg (most common)
+    logging.warning(f"Could not detect MIME type for {file_name}, defaulting to image/jpeg")
+    return 'image/jpeg'
+
+
 def upload_to_webflow(
     site_id: str,
     webflow_token: str,
     file_name: str,
     file_data: bytes,
     folder_id: str | None = None,
+    content_type: str | None = None,
 ) -> dict:
     """
     Upload an image to Webflow using the 2-step process.
     Returns dict with assetUrl, hostedUrl, and asset ID.
+    
+    Args:
+        site_id: Webflow site ID
+        webflow_token: Webflow API token
+        file_name: Name of the file to upload
+        file_data: Binary file data
+        folder_id: Optional folder ID to upload to
+        content_type: Optional MIME type. If not provided, will be auto-detected.
     """
     headers = {
         "Authorization": f"Bearer {webflow_token}",
@@ -64,6 +104,12 @@ def upload_to_webflow(
     
     file_hash = calculate_md5(file_data)
     logging.info("Calculated MD5 hash: %s", file_hash)
+    
+    # Detect MIME type if not provided
+    if not content_type:
+        content_type = detect_image_mime_type(file_name, file_data)
+    
+    logging.info(f"Detected MIME type: {content_type} for file: {file_name}")
     
     prepare_url = f"https://api.webflow.com/v2/sites/{site_id}/assets"
     payload = {
@@ -86,7 +132,7 @@ def upload_to_webflow(
     
     logging.info("Step 2: Uploading file to S3: %s", upload_url)
     
-    files = {'file': (file_name, file_data, 'image/png')}
+    files = {'file': (file_name, file_data, content_type)}
     s3_response = requests.post(upload_url, data=upload_details, files=files, timeout=60)
     
     if s3_response.status_code not in (200, 201, 204):

@@ -60,13 +60,14 @@ def fetch_and_save_collection_schema(collection_id: str, webflow_token: str) -> 
 
 def download_thumbnail(url, output_dir="downloaded_thumbnails"):
     """Download an image from the given URL and return its local file path."""
+    import uuid
+    
     os.makedirs(output_dir, exist_ok=True)
     # Use the last segment as filename, with fallback to a unique name
     filename = url.split("/")[-1].split("?")[0]
     if not filename:
-        import uuid
-        filename = str(uuid.uuid4()) + ".jpg"
-    filepath = os.path.join(output_dir, filename)
+        filename = str(uuid.uuid4())
+    
     try:
         resp = requests.get(url, timeout=30, stream=True)
         resp.raise_for_status()
@@ -76,6 +77,23 @@ def download_thumbnail(url, output_dir="downloaded_thumbnails"):
             return None
         if "svg" in content_type.lower():
             return None
+        
+        # Ensure filename has proper extension based on content-type
+        if not Path(filename).suffix:
+            # Map content-type to file extension
+            ext_map = {
+                'image/jpeg': '.jpg',
+                'image/jpg': '.jpg',
+                'image/png': '.png',
+                'image/gif': '.gif',
+                'image/webp': '.webp',
+                'image/bmp': '.bmp',
+            }
+            ext = ext_map.get(content_type.split(';')[0].strip().lower(), '.jpg')
+            filename = filename + ext
+        
+        filepath = os.path.join(output_dir, filename)
+        
         with open(filepath, "wb") as f:
             for chunk in resp.iter_content(8192):
                 f.write(chunk)
