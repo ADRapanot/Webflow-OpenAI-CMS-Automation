@@ -1,3459 +1,1065 @@
 [
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0,158,720,404&w=1282&h=720&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/excel-microsoft-ads-vs-google-ads-performance-template",
+    "title": "Microsoft Ads vs Google Ads performance",
     "author": "",
-    "extra_text": "Introducing Supermetrics AI Learn more"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "Build on Supermetrics Learn more"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0,85,1702,956&w=2004&h=1126&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "The Marketing Data Report 2025 Read report"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/625f00225642b482bbb6646bbefb71e3370acedb-1327x1097.png?w=1327&h=1097&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/625f00225642b482bbb6646bbefb71e3370acedb-1327x1097.png?w=1327&h=1097&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fd28eb407b33a9050369b40a8590c43c0338df2-1241x1114.png?w=1241&h=1114&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fd28eb407b33a9050369b40a8590c43c0338df2-1241x1114.png?w=1241&h=1114&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d25a46ae3ca06cd63903fba67dffba6d1e7e8282-1286x1171.png?w=1286&h=1171&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d25a46ae3ca06cd63903fba67dffba6d1e7e8282-1286x1171.png?w=1286&h=1171&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5797f9f26306ff62225aeeca87e2925fd18f8c9f-1240x989.png?w=1240&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5797f9f26306ff62225aeeca87e2925fd18f8c9f-1240x989.png?w=1240&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c292d1816c7a575006f656370fc767c7511e98dd-1333x1369.png?w=1333&h=1369&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c292d1816c7a575006f656370fc767c7511e98dd-1333x1369.png?w=1333&h=1369&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0f435951b6a83f163f6086a0d25712c11c5fdd55-1004x751.jpg?w=1004&h=751&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0f435951b6a83f163f6086a0d25712c11c5fdd55-1004x751.jpg?w=1004&h=751&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a0210e7f63fb3cdc5852d71f1a2bdbaa7120fc17-1393x1211.png?w=1393&h=1211&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a0210e7f63fb3cdc5852d71f1a2bdbaa7120fc17-1393x1211.png?w=1393&h=1211&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d7c7a2a197a2859be18a8af039fe96ba5547531b-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d7c7a2a197a2859be18a8af039fe96ba5547531b-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/287dd3218ce426819454ce0b53924dc8a556a9d8-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/287dd3218ce426819454ce0b53924dc8a556a9d8-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8bec59124879d8ff087c6e4782222b24390f1bb4-3334x3126.png?w=3334&h=3126&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8bec59124879d8ff087c6e4782222b24390f1bb4-3334x3126.png?w=3334&h=3126&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/63be0a54fa8483660ba075d866c57d6f8578ae07-1291x1092.png?w=1291&h=1092&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/63be0a54fa8483660ba075d866c57d6f8578ae07-1291x1092.png?w=1291&h=1092&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/040277d8e91d5f0a0827fd33c9800db7361aed14-1201x1003.png?w=1201&h=1003&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/040277d8e91d5f0a0827fd33c9800db7361aed14-1201x1003.png?w=1201&h=1003&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/990662d0bef5f2963bf8eaa460973fceca6b2353-1285x1022.png?w=1285&h=1022&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/990662d0bef5f2963bf8eaa460973fceca6b2353-1285x1022.png?w=1285&h=1022&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19342d5ee9528cf6e0443773dd70c8b469e3202f-1316x1168.png?w=1316&h=1168&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19342d5ee9528cf6e0443773dd70c8b469e3202f-1316x1168.png?w=1316&h=1168&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5a65814949ab51d2fc9775ed84dbcddd55c52bfa-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5a65814949ab51d2fc9775ed84dbcddd55c52bfa-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6268c493ecf38805551b643bc87d2c454d804233-2048x1365.jpg?w=2048&h=1365&fit=max",
-    "source_link": "",
-    "title": "Lachezar Arabadzhiev",
-    "author": "",
-    "extra_text": "Lachezar Arabadzhiev"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6268c493ecf38805551b643bc87d2c454d804233-2048x1365.jpg?w=2048&h=1365&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1aa7882ee219d25e043397e04f7cc0ea9e7e02af-1080x1080.png?w=1080&h=1080&fit=max",
-    "source_link": "",
-    "title": "Sean Whitmore",
-    "author": "",
-    "extra_text": "Sean Whitmore"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1aa7882ee219d25e043397e04f7cc0ea9e7e02af-1080x1080.png?w=1080&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4d1a68832c185a6e8ef66e29b8a9265b4c0c7228-704x704.jpg?w=704&h=704&fit=max",
-    "source_link": "",
-    "title": "José Murillo",
-    "author": "",
-    "extra_text": "José Murillo"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4d1a68832c185a6e8ef66e29b8a9265b4c0c7228-704x704.jpg?w=704&h=704&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/909869d5743c9fb140cc15483f9770aede344c07-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "Michael Schulz",
-    "author": "",
-    "extra_text": "Michael Schulz"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/909869d5743c9fb140cc15483f9770aede344c07-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d935df59b132fa143d10a9cdaa3bb05a6fdfa526-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d935df59b132fa143d10a9cdaa3bb05a6fdfa526-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/57dfbf0010f405b54310fde0e5770672965ef051-419x157.png?w=419&h=157&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/57dfbf0010f405b54310fde0e5770672965ef051-419x157.png?w=419&h=157&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ce8656057a626d0127ccd0dffbedda6d1620cf70-2217x240.png?w=2217&h=240&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ce8656057a626d0127ccd0dffbedda6d1620cf70-2217x240.png?w=2217&h=240&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487791aa4b4d160f1f65a57d072beb83f917a29d-1920x1203.jpg?w=1920&h=1203&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "let u=()=>{};document.addEventListener(\"astro:page-load\",()=>{document.querySelectorAll('[data-type=\"carousel\"]').forEach(c=>{const i=c.querySelector('[data-type=\"carousel-slides\"]'),l=c.querySelectorAll('[data-type=\"carousel-slide\"]'),v=c."
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487791aa4b4d160f1f65a57d072beb83f917a29d-1920x1203.jpg?w=1920&h=1203&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/faa36dccc32949fdf44e036cce2d465c543ab954-2165x2165.webp?w=2165&h=2165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "(function(){const info = {\"Display Name\":\"Template gallery / English\",\"Locale Title\":\"English\",\"Locale Slug\":\"en\",\"Full Slug\":\"template-gallery\",\"Page Slug\":\"template-gallery\",\"Page ID\":\"906b4e5a-f7ca-40d5-892e-51adf06b853b-en\",\"Time\":\"2025"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/faa36dccc32949fdf44e036cce2d465c543ab954-2165x2165.webp?w=2165&h=2165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://imgsct.cookiebot.com/1.gif?dgi=c9db5ef8-8c60-4be6-84e3-1a19a85abea3",
-    "source_link": "",
-    "title": "Cookiebot session tracker icon loaded",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=4f60c3df-3a9e-4a33-b8e6-d11782fd1cf4&bo=2&sid=eccb5020c10911f0a86b0fb6e273f9a1&vid=eccb7640c10911f0916d5326716d445a&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Free%20Marketing%20Dashboard%20And%20Reporting%20Templates&p=https%3A%2F%2Fsupermetrics.com%2Ftemplate-gallery&r=&lt=4525&evt=pageLoad&sv=2&asc=G&cdb=AQIT&rn=168343",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/625f00225642b482bbb6646bbefb71e3370acedb-1327x1097.png?w=1327&h=1097&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fd28eb407b33a9050369b40a8590c43c0338df2-1241x1114.png?w=1241&h=1114&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d25a46ae3ca06cd63903fba67dffba6d1e7e8282-1286x1171.png?w=1286&h=1171&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5797f9f26306ff62225aeeca87e2925fd18f8c9f-1240x989.png?w=1240&h=989&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c292d1816c7a575006f656370fc767c7511e98dd-1333x1369.png?w=1333&h=1369&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0f435951b6a83f163f6086a0d25712c11c5fdd55-1004x751.jpg?w=1004&h=751&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a0210e7f63fb3cdc5852d71f1a2bdbaa7120fc17-1393x1211.png?w=1393&h=1211&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d7c7a2a197a2859be18a8af039fe96ba5547531b-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/287dd3218ce426819454ce0b53924dc8a556a9d8-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8bec59124879d8ff087c6e4782222b24390f1bb4-3334x3126.png?w=3334&h=3126&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/63be0a54fa8483660ba075d866c57d6f8578ae07-1291x1092.png?w=1291&h=1092&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/040277d8e91d5f0a0827fd33c9800db7361aed14-1201x1003.png?w=1201&h=1003&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/990662d0bef5f2963bf8eaa460973fceca6b2353-1285x1022.png?w=1285&h=1022&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19342d5ee9528cf6e0443773dd70c8b469e3202f-1316x1168.png?w=1316&h=1168&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5a65814949ab51d2fc9775ed84dbcddd55c52bfa-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6268c493ecf38805551b643bc87d2c454d804233-2048x1365.jpg?w=2048&h=1365&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1aa7882ee219d25e043397e04f7cc0ea9e7e02af-1080x1080.png?w=1080&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4d1a68832c185a6e8ef66e29b8a9265b4c0c7228-704x704.jpg?w=704&h=704&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/909869d5743c9fb140cc15483f9770aede344c07-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d935df59b132fa143d10a9cdaa3bb05a6fdfa526-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/57dfbf0010f405b54310fde0e5770672965ef051-419x157.png?w=419&h=157&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ce8656057a626d0127ccd0dffbedda6d1620cf70-2217x240.png?w=2217&h=240&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487791aa4b4d160f1f65a57d072beb83f917a29d-1920x1203.jpg?w=1920&h=1203&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/faa36dccc32949fdf44e036cce2d465c543ab954-2165x2165.webp?w=2165&h=2165&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/eee7774699fe786de151ef9785e5392dc2da9d5a-3840x2160.png",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=805774af-1f2a-45a0-ab2f-f31b41ee2a0f&bo=2&sid=027dce70c10a11f0922925cdcec699fd&vid=027ddcc0c10a11f080047ff1c9b6bf20&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Free%20Marketing%20Dashboard%20And%20Reporting%20Templates&p=https%3A%2F%2Fsupermetrics.com%2Ftemplate-gallery%3Fpage%3D2&r=&lt=3480&evt=pageLoad&sv=2&asc=G&cdb=AQIT&rn=530114",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-klaviyo-email-marketing",
+    "title": "Klaviyo email report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-public-data-overview",
+    "title": "Facebook Public Data reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/e9b83577-4407-4668-98d9-a095288c789f/page/K9ZXC/preview",
+    "title": "Google Trends report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-instagram-public-data-overview",
+    "title": "Instagram Public Data template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
+    "source_link": "https://cdn.sanity.io/files/8ly2m84z/production/dc8fe3631cb6b4fb983f3055a0deb55479dcc31f.pbit",
+    "title": "LinkedIn Ads reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-tiktok-ads-overview",
+    "title": "TikTok Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/2434d707-1a00-41b1-8207-bda81f28c722/preview",
+    "title": "Facebook Ads ad fatigue template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-instagram-insight-overview",
+    "title": "Instagram Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-linkedIn-company-pages-overview",
+    "title": "LinkedIn Company Pages template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/adroll-looker-studio-paid-media",
+    "title": "AdRoll reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1QZ_QBdUtv_XSCV0jhC06yjYEZHlh9IwGcgWoyxRjzzg/template/preview",
+    "title": "Facebook Page dashboard template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1mMTFmMAcKmupeUFVP9V60CQPk7FACeTyFt94svGFBo0/template/preview",
+    "title": "Google Analytics 4 paid traffic report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-insights-overview",
+    "title": "Facebook Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/625f00225642b482bbb6646bbefb71e3370acedb-1327x1097.png?w=1327&h=1097&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-mailchimp-email-campaign-overview",
+    "title": "Mailchimp email campaign reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ZVgqUN_W4yRRW9h_sbxxs0x_CYMwy-DwnSKC0peneQM/template/preview",
+    "title": "Budget pacing report for Google Sheets (campaign level)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-shopify-overview-report",
+    "title": "Shopify reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-paid-channel-mix-overview",
+    "title": "Paid Channel Mix template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-ads",
+    "title": "Google Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fd28eb407b33a9050369b40a8590c43c0338df2-1241x1114.png?w=1241&h=1114&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/power-bi-facebook-ads-overview",
+    "title": "Facebook Ads reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-youtube-channel-overview",
+    "title": "YouTube analytics reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1KqGl8K5Bzf5T-Sx8YH3-W4JxRilCz6K1LuPNN4rpicU/template/preview",
+    "title": "Budget pacing template for Google Sheets (channel level)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-bigquery-paid-channel-mix-overview",
+    "title": "Ad report template for Looker Studio (via BigQuery or Supermetrics Storage)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-semrush-analytics-report",
+    "title": "Semrush SEO report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-my-business-overview",
+    "title": "Google My Business local SEO template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d25a46ae3ca06cd63903fba67dffba6d1e7e8282-1286x1171.png?w=1286&h=1171&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1jgYDa5wRylC3KQ1IwNxKVv90gBloB62s2w_Nc-q36IY/template/preview",
+    "title": "Website traffic template for Google Sheets with AI summary",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/1hOa5GoQc9ThhopauUQ2ifkItL38lPaZ3/page/VOPIC/preview",
+    "title": "HubSpot content marketing performance template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-instagram-ads",
+    "title": "Facebook & Instagram (Meta) Ads report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-ga4-website-performance",
+    "title": "Google Analytics 4 reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-ads-vs-facebook-ads",
+    "title": "Google Ads vs Facebook Ads comparison report for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-ecommerce-dashboard",
+    "title": "Ecommerce dashboard template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-hubspot-marketing-performance",
+    "title": "HubSpot marketing performance report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-microsoft-advertising-overview",
+    "title": "Microsoft (Bing) Advertising tracking template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-linkedin-ads-overview",
+    "title": "LinkedIn Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-organic-social-report-template",
+    "title": "Organic social media dashboard template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5797f9f26306ff62225aeeca87e2925fd18f8c9f-1240x989.png?w=1240&h=989&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-search-console-overview",
+    "title": "Google Search Console reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/power-bi-ga4-overview",
+    "title": "Google Analytics 4 reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-tiktok-organic-social-media",
+    "title": "TikTok organic reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c292d1816c7a575006f656370fc767c7511e98dd-1333x1369.png?w=1333&h=1369&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1X_mPYCsiRNrbDBs0vp993vi8VAk2ecHpWp8ViBuHhag/template/preview",
+    "title": "Google Ads copy edit tool template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1zPXUmn-F2jmStB40-D9hy0iUmKh3ovn23JIrqPryKeM/template/preview",
+    "title": "Google Ads ad label testing tool template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0f435951b6a83f163f6086a0d25712c11c5fdd55-1004x751.jpg?w=1004&h=751&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
+    "source_link": "https://datastudio.google.com/reporting/4461a2dc-6969-4b0b-acb6-6e9b1a3de3d7/page/jjcY&/preview/",
+    "title": "Adobe Analytics website performance template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/57713a30-3357-46db-9046-c08607f6fba1/page/7o0P/preview",
+    "title": "AdSense monthly reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a0210e7f63fb3cdc5852d71f1a2bdbaa7120fc17-1393x1211.png?w=1393&h=1211&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/f58637d5-fe82-42bd-b093-0f18355b8245/page/gnXBC/preview",
+    "title": "Apple Search Ads overview report for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1AuRToTZiloHLwLwQAypNV37BlmtLe02xB-ioDk_nCfA/template/preview",
+    "title": "Microsoft (Bing) Ads client budget tracker & alert template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1RYIMZvnlVgAmwZlCK050tOgKC8o2K81AL4-u6Xkmw2Q/template/preview",
+    "title": "Microsoft (Bing) Ads high-level monthly report template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d7c7a2a197a2859be18a8af039fe96ba5547531b-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1rIA7ROlfdbL5DsIyXXIulajQI6Gq0rnUcwKBojztuM0/template/preview",
+    "title": "Microsoft (Bing) Ads in-depth report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1gdqt234JCNzTsww4eWY_OhyUiigyT8vj/page/jjcY",
+    "title": "Bing Webmaster Tools reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ixL6fiuNOC4aAWazh-NLkAFdIzSgGbKZhDlRYXokCvo/template/preview",
+    "title": "Bulk ad performance checker template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1vnjIiAUF6USE7nVuPkMFrdZ1yizwKJxgCEg19m5h6pk/template/preview",
+    "title": "Google Ads budget tracker and alert template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/3222a248-4fcc-49c7-91bc-8b5071bb23e7/page/Qf6MC/preview",
+    "title": "Capterra PPC report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1x3ZOgVxVi87oETrA4izcZqUzdADKFlwEQ8Y99P7g4so/template/preview",
+    "title": "Detailed paid channel mix reporting template (with Yandex)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1Q_17ojqDQlVYUpNdVKu0z735dUm4t4s3UxnKGr3WiBM/template/preview",
+    "title": "Facebook Ads high-level monthly report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1j5MqvDABfcVA-oFyRDcgyXYoS7Q1GutA/page/Zye4/preview",
+    "title": "Google Ad Manager reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1VnIsZGcUpEIUXrS7PZWkVOccgnOh7cy5mDJSoqcUjtg/template/preview",
+    "title": "Google Ads quality score analysis template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1Y8JRnsWH-JSMxkaJwLv_pChHgcx4HSA0pAT34DOp134/template/preview",
+    "title": "Google Ads in-depth performance report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1sN1sf86IgojQE-D_sfsaivzK9VWHwVwdpN4AMI9mEhI/template/preview",
+    "title": "Google Ads monthly report template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1S7Z6SVol_H7qbjFPzC3K7FPvJWh0Tm0gi8-N7c7RDi0/template/preview",
+    "title": "Google Ads & organic keyword performance template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1P0XvL5ljbuXfDno2hxhPAFmJMaWZihP4HaEFNNN3nP0/template/preview",
+    "title": "Google AdSense reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1aj9jNdWR8fCJV8-YegjC1R09KfOLcgXy/page/nsh2/preview",
+    "title": "Google Campaign Manager 360 reporting template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/372a7936-df4f-49e6-96f3-2f48deac3305/page/YxWhC/preview",
+    "title": "Google Play Reviews report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ALd8KFSZY6u4pW3zGd8-fIeIejT_6VkchFjt1gec-DQ/template/preview",
+    "title": "Google Analytics 4 report template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/287dd3218ce426819454ce0b53924dc8a556a9d8-1275x1016.png?w=1275&h=1016&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1EwrH-CBk14ojcSKjcKDxa3pYCq1VmPnAnxZVtittIQE/template/preview",
+    "title": "Google Ads high-level monthly report template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1QOURQxesY6HSqvbpydwDXE7bB6QQ2JqS/page/l09FB/preview",
+    "title": "HubSpot cross-portal overview template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1kU5z5PJXUztoTD8jPt1PjUA4bs0JpwTM/page/l09FB/preview",
+    "title": "HubSpot email marketing template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1WwZYKBzxkcrktIPfNdx8T8oFoYOfRl4OnbkBaEjlTiw/template/preview",
+    "title": "HubSpot email reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1AwgXWQ8mcGHiL_0rXZyj5VJm-pSZ7oknQVU2DyyDRmI/template/preview",
+    "title": "HubSpot sales funnel reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8bec59124879d8ff087c6e4782222b24390f1bb4-3334x3126.png?w=3334&h=3126&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1r1anAg9Ie196OJGnX-9TfDzYpUVnV3xVROH-zZiW6HQ/template/preview",
+    "title": "Google Ads keyword heatmap analysis template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/63be0a54fa8483660ba075d866c57d6f8578ae07-1291x1092.png?w=1291&h=1092&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1fnr_fqcZEzKMuj3c2qzyc5_M3QdomkSGN4nfMOEMcec/template/preview",
+    "title": "LinkedIn Ads spend tracker template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/040277d8e91d5f0a0827fd33c9800db7361aed14-1201x1003.png?w=1201&h=1003&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1oWBBUjh9OYBpWHuYcwov1I7VypHJdfUf/page/jjcY/preview",
+    "title": "Moz SEO reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
+    "source_link": "https://prod-central-prod-sm-site-media.s3.eu-west-1.amazonaws.com/sm/public/wp-content/uploads/2023/10/02082900/Paid-Channel-Mix-template-by-Supermetrics-3.xlsx",
+    "title": "Paid channel mix reporting template for Excel",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/990662d0bef5f2963bf8eaa460973fceca6b2353-1285x1022.png?w=1285&h=1022&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1eptDqMZoqrhF7W20lePxkBWz-AOPAtm4/page/x9iqB/preview",
+    "title": "Pinterest Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19342d5ee9528cf6e0443773dd70c8b469e3202f-1316x1168.png?w=1316&h=1168&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1gkWTCSaYfVRKjEskwa7VEQKKCFnP00sF/page/UFkqB/preview",
+    "title": "Pinterest Organic reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5a65814949ab51d2fc9775ed84dbcddd55c52bfa-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/15TDPWuxKP9RFODt3g2fDXS_DmYmQEIxx1uOOBQD20QI/template/preview",
+    "title": "Standard Linkedin Ads metrics template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/b8e8160e-05c1-448f-9f60-3301599da147/page/p_87d3ktvyyc/preview",
+    "title": "X (Twitter) tweet engagement report for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6268c493ecf38805551b643bc87d2c454d804233-2048x1365.jpg?w=2048&h=1365&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7549157daa5717bde0eeb877b92928c4688c64dd-2836x1304.png?w=2836&h=1304&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/excel-microsoft-ads-vs-google-ads-performance-template",
+    "title": "Microsoft Ads vs Google Ads performance",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1aa7882ee219d25e043397e04f7cc0ea9e7e02af-1080x1080.png?w=1080&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/515921cc76d95b848bb52fd077ba6a3860208270-1253x1238.png?w=1253&h=1238&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-klaviyo-email-marketing",
+    "title": "Klaviyo email report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4d1a68832c185a6e8ef66e29b8a9265b4c0c7228-704x704.jpg?w=704&h=704&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6c67fb8de788580c372e18c1dfb97d18f45ad944-996x1177.png?w=996&h=1177&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-public-data-overview",
+    "title": "Facebook Public Data reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/909869d5743c9fb140cc15483f9770aede344c07-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a020f9f06b852915c777b7180ab718f49c55463a-2022x1892.png?w=2022&h=1892&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/e9b83577-4407-4668-98d9-a095288c789f/page/K9ZXC/preview",
+    "title": "Google Trends report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d935df59b132fa143d10a9cdaa3bb05a6fdfa526-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/039c9c21ca7d4cfa3efd388272c8843d9cec4990-768x695.png?w=768&h=695&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-instagram-public-data-overview",
+    "title": "Instagram Public Data template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/57dfbf0010f405b54310fde0e5770672965ef051-419x157.png?w=419&h=157&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3660f37c3fb0e61a02d8db14f832d453e749b387-4150x2400.png?w=4150&h=2400&fit=max",
+    "source_link": "https://cdn.sanity.io/files/8ly2m84z/production/dc8fe3631cb6b4fb983f3055a0deb55479dcc31f.pbit",
+    "title": "LinkedIn Ads reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ce8656057a626d0127ccd0dffbedda6d1620cf70-2217x240.png?w=2217&h=240&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/edbbd9e324fcacefd99a1ef2e205023eb07b462a-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-tiktok-ads-overview",
+    "title": "TikTok Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487791aa4b4d160f1f65a57d072beb83f917a29d-1920x1203.jpg?w=1920&h=1203&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a79a84f437d8ef855d33ceb81a3f40f020edea7b-4438x4375.jpg?w=4438&h=4375&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/2434d707-1a00-41b1-8207-bda81f28c722/preview",
+    "title": "Facebook Ads ad fatigue template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/faa36dccc32949fdf44e036cce2d465c543ab954-2165x2165.webp?w=2165&h=2165&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-instagram-insight-overview",
+    "title": "Instagram Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=857903ce-eaf1-45be-91a7-28d5e4d86fcb&bo=2&sid=1aa08420c10a11f0840b8ff2ca80d9e5&vid=1aa094a0c10a11f094da936c69a7a0e9&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Free%20Marketing%20Dashboard%20And%20Reporting%20Templates&p=https%3A%2F%2Fsupermetrics.com%2Ftemplate-gallery%3Freporting-tools%3Dgoogle-sheets&r=&lt=4193&evt=pageLoad&sv=2&asc=G&cdb=AQIT&rn=910193",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4238aad0a4106d7136fe2fb3432f87832782bb8c-2142x1740.png?w=2142&h=1740&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-linkedIn-company-pages-overview",
+    "title": "LinkedIn Company Pages template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/a2107f50489abc3ff6930306afb179424a77aad2-2162x1892.png?w=2162&h=1892&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/adroll-looker-studio-paid-media",
+    "title": "AdRoll reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4f5633f2c4b309f1cbc2d94b5c45792071406b36-1538x1027.png?w=1538&h=1027&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1QZ_QBdUtv_XSCV0jhC06yjYEZHlh9IwGcgWoyxRjzzg/template/preview",
+    "title": "Facebook Page dashboard template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://supermetrics.com/cdn-cgi/image/onerror=redirect,width=1644,height=682,format=webp/_astro/404bg.Cu4e6ni4.webp",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b7af1d1ce96f062781c1a2f5ba73c007624dde98-1333x896.png?w=1333&h=896&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1mMTFmMAcKmupeUFVP9V60CQPk7FACeTyFt94svGFBo0/template/preview",
+    "title": "Google Analytics 4 paid traffic report for Google Sheets",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=916885af-f362-4cd3-b865-6b4a0c76c3a1&bo=2&sid=35920860c10a11f0858715a211a001f2&vid=35924c30c10a11f0827707a9ddd95840&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=404%20-%20Page%20not%20found&p=https%3A%2F%2Fsupermetrics.com%2Ftemplate-gallery%2Fchannels%2Fgoogle-analytics&r=&lt=4901&evt=pageLoad&sv=2&asc=G&cdb=AQID&rn=750913",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-insights-overview",
+    "title": "Facebook Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e34530e85b11b7ff836e4578dfa47c4fb0e24a8f-1200x948.png?w=1200&h=948&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-mailchimp-email-campaign-overview",
+    "title": "Mailchimp email campaign reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b8f6490f61d19db7f62d2b7b1fe6ac2e5ba3d358-2358x1206.png?w=2358&h=1206&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ZVgqUN_W4yRRW9h_sbxxs0x_CYMwy-DwnSKC0peneQM/template/preview",
+    "title": "Budget pacing report for Google Sheets (campaign level)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1177d86cbc1776b9e0b07ebf44d12bf9d866a55c-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/01c987855b59f859f89da1c9e7a4011f0a3afb18-1351x1083.png?w=1351&h=1083&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-shopify-overview-report",
+    "title": "Shopify reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1177d86cbc1776b9e0b07ebf44d12bf9d866a55c-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e2108599e31aa25812dd4a9a9c0f17109f6e7d54-1552x1436.png?w=1552&h=1436&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-paid-channel-mix-overview",
+    "title": "Paid Channel Mix template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/db7ae5d20ac13ab4f80b4e7dee8b7e0ead4ad46f-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f0440e0062e022374b122449091b8bda45328eba-1399x1576.jpg?w=1399&h=1576&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-ads",
+    "title": "Google Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/db7ae5d20ac13ab4f80b4e7dee8b7e0ead4ad46f-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f18165d5a977758c3e8f7bd7d915826b84fb5fcf-1469x824.png?w=1469&h=824&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/power-bi-facebook-ads-overview",
+    "title": "Facebook Ads reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/48fb2bf619b8d8a5a046f9eecd5a98017c1f16c8-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c6140ca65652fed225f28bbec4064e95f582a981-7270x8192.png?w=7270&h=8192&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-youtube-channel-overview",
+    "title": "YouTube analytics reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/48fb2bf619b8d8a5a046f9eecd5a98017c1f16c8-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/cee2759dffbaaa6c2cc09fac9d9d61455d260a44-1017x605.png?w=1017&h=605&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1KqGl8K5Bzf5T-Sx8YH3-W4JxRilCz6K1LuPNN4rpicU/template/preview",
+    "title": "Budget pacing template for Google Sheets (channel level)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/9448d09aaaf8cc893e0d3b8de088c2c6247627ed-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c31dc11079ed83962eb45ad5624f869258514ee2-1887x1975.png?w=1887&h=1975&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-bigquery-paid-channel-mix-overview",
+    "title": "Ad report template for Looker Studio (via BigQuery or Supermetrics Storage)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/9448d09aaaf8cc893e0d3b8de088c2c6247627ed-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/da9dc96083f8fa7cdfa3f8da00aac15111508082-5501x4702.png?w=5501&h=4702&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-semrush-analytics-report",
+    "title": "Semrush SEO report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7000259e2b9a70792718eb6e13de6b070d859a38-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0b40fbcbd3aa94502758d1806d09e3dcf0140b79-929x871.png?w=929&h=871&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-my-business-overview",
+    "title": "Google My Business local SEO template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7000259e2b9a70792718eb6e13de6b070d859a38-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/05d0f8a2f9db8e631f68694324d917f37dc642a1-1206x1202.png?w=1206&h=1202&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1jgYDa5wRylC3KQ1IwNxKVv90gBloB62s2w_Nc-q36IY/template/preview",
+    "title": "Website traffic template for Google Sheets with AI summary",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c5bfc99bfc76a336dee2a718e5a3e4ee3e34e259-1920x1080.png?w=1920&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e3dbc7533e18014940c50b4fdbef448d60b991c2-1710x1399.png?w=1710&h=1399&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/1hOa5GoQc9ThhopauUQ2ifkItL38lPaZ3/page/VOPIC/preview",
+    "title": "HubSpot content marketing performance template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c5bfc99bfc76a336dee2a718e5a3e4ee3e34e259-1920x1080.png?w=1920&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-instagram-ads",
+    "title": "Facebook & Instagram (Meta) Ads report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/44f015332a519888886ec7474dd757fd32e2dd10-1280x720.png?w=1280&h=720&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f40e25ed3d68f4924c3ecdbcb533bcefef75dddf-932x989.png?w=932&h=989&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-ga4-website-performance",
+    "title": "Google Analytics 4 reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/44f015332a519888886ec7474dd757fd32e2dd10-1280x720.png?w=1280&h=720&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/31f00e66130a679a320721124e3b96a00e283752-1341x1161.png?w=1341&h=1161&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-google-ads-vs-facebook-ads",
+    "title": "Google Ads vs Facebook Ads comparison report for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fefebbf0ab880edf6a41ccf690aec2a4b0266fb-400x400.jpg?w=400&h=400&fit=max",
-    "source_link": "",
-    "title": "Tim Haag",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/af1b8d6d6ac014aee699433c2e18a75bc1bf5018-1062x1066.png?w=1062&h=1066&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-ecommerce-dashboard",
+    "title": "Ecommerce dashboard template for Looker Studio",
     "author": "",
-    "extra_text": "Tim Haag"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fefebbf0ab880edf6a41ccf690aec2a4b0266fb-400x400.jpg?w=400&h=400&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fb9c01004c946033c039918d5b965cee23d39748-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "Jesse Korhonen",
-    "author": "",
-    "extra_text": "Jesse Korhonen"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fb9c01004c946033c039918d5b965cee23d39748-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3fb4c261baf985d3f852451f85082a536d2a1107-1283x1116.png?w=1283&h=1116&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-hubspot-marketing-performance",
+    "title": "HubSpot marketing performance report template for Looker Studio",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/735007cfc2922e929d8429d98bc08debfca7b9d9-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "Vicken Sayrin",
-    "author": "",
-    "extra_text": "Vicken Sayrin"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/735007cfc2922e929d8429d98bc08debfca7b9d9-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d36a8f7b04e2ffbc8691d14cbc0c48baf0ef0178-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-microsoft-advertising-overview",
+    "title": "Microsoft (Bing) Advertising tracking template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7724c08178120e822db0718765f0f816de4b8175-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/27b324d7460030834c91b6ed11af4f781901540d-2240x2560.jpg?w=2240&h=2560&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-linkedin-ads-overview",
+    "title": "LinkedIn Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7724c08178120e822db0718765f0f816de4b8175-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1d3fe1fd2d581d3dccbba9265aed8b5dcc8df6e3-4375x5000.jpg?w=4375&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-organic-social-report-template",
+    "title": "Organic social media dashboard template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0049cb0644f2adbf2ecd6a360962e0da4ec8eec-504x158.png?w=504&h=158&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/282fae21a09ad1cd09c0f418da995e4d67ab6c36-1024x873.png?w=1024&h=873&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-search-console-overview",
+    "title": "Google Search Console reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0049cb0644f2adbf2ecd6a360962e0da4ec8eec-504x158.png?w=504&h=158&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/power-bi-ga4-overview",
+    "title": "Google Analytics 4 reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/96b7e00315b8e70236415e06f02a0815a63938cb-1510x942.png?w=1510&h=942&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-tiktok-organic-social-media",
+    "title": "TikTok organic reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3cbd6707296b33db45ff5ed89bb97d833a268fb1-1381x1301.png?w=1381&h=1301&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1X_mPYCsiRNrbDBs0vp993vi8VAk2ecHpWp8ViBuHhag/template/preview",
+    "title": "Google Ads copy edit tool template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3132c803eddf018631b2388418b321924fc55cf3-1291x1111.png?w=1291&h=1111&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1zPXUmn-F2jmStB40-D9hy0iUmKh3ovn23JIrqPryKeM/template/preview",
+    "title": "Google Ads ad label testing tool template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ffd6e3fce62d83d3570be7bce9e9ebfeaf6b99a2-1328x1282.png?w=1328&h=1282&fit=max",
+    "source_link": "https://datastudio.google.com/reporting/4461a2dc-6969-4b0b-acb6-6e9b1a3de3d7/page/jjcY&/preview/",
+    "title": "Adobe Analytics website performance template for Looker Studio",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d76042f64ef2a4ec76a7dd81e1f0d46c214b9c96-2560x1440.png?w=2560&h=1440&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "(function(){const info = {\"Display Name\":\"LinkedIn Ads reporting template for Looker Studio\",\"Locale Title\":\"English\",\"Locale Slug\":\"en\",\"Full Slug\":\"template-gallery/looker-studio-linkedin-ads-overview\",\"Page Slug\":\"looker-studio-linkedin-"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d76042f64ef2a4ec76a7dd81e1f0d46c214b9c96-2560x1440.png?w=2560&h=1440&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1edf5b9243461bd6734e05127c4f00a0fafab605-300x191.png?w=300&h=191&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/57713a30-3357-46db-9046-c08607f6fba1/page/7o0P/preview",
+    "title": "AdSense monthly reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=60487570-e5c5-4cec-af72-3504892c88a3&bo=2&sid=43e44f00c10a11f08e184bfb915b9a62&vid=43e476f0c10a11f0a9a4973cd7cf748f&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=LinkedIn%20Ads%20Report%20Template%20for%20Looker%20Studio%20-%20Supermetrics&p=https%3A%2F%2Fsupermetrics.com%2Ftemplate-gallery%2Flooker-studio-linkedin-ads-overview&r=&lt=9118&evt=pageLoad&sv=2&asc=G&cdb=AQIT&rn=342771",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7b632332f080bc08bc32c34bad9371299a1eb5dc-1321x1148.png?w=1321&h=1148&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/f58637d5-fe82-42bd-b093-0f18355b8245/page/gnXBC/preview",
+    "title": "Apple Search Ads overview report for Looker Studio",
     "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1177d86cbc1776b9e0b07ebf44d12bf9d866a55c-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/db7ae5d20ac13ab4f80b4e7dee8b7e0ead4ad46f-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/e1f52498eedee258db9a0c052ce8709fbd8fffec-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1AuRToTZiloHLwLwQAypNV37BlmtLe02xB-ioDk_nCfA/template/preview",
+    "title": "Microsoft (Bing) Ads client budget tracker & alert template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/48fb2bf619b8d8a5a046f9eecd5a98017c1f16c8-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7feb3aac609d3e2b17ed11b00a3d3907175bb765-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1RYIMZvnlVgAmwZlCK050tOgKC8o2K81AL4-u6Xkmw2Q/template/preview",
+    "title": "Microsoft (Bing) Ads high-level monthly report template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/9448d09aaaf8cc893e0d3b8de088c2c6247627ed-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/483d990e4744b7153ba98fdc7c9f8ed8488a74d8-1439x1160.png?w=1439&h=1160&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1rIA7ROlfdbL5DsIyXXIulajQI6Gq0rnUcwKBojztuM0/template/preview",
+    "title": "Microsoft (Bing) Ads in-depth report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7000259e2b9a70792718eb6e13de6b070d859a38-4375x5000.jpg?w=4375&h=5000&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/611429190c5902dc220fd54f11d75fccbae154e9-960x721.png?w=960&h=721&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1gdqt234JCNzTsww4eWY_OhyUiigyT8vj/page/jjcY",
+    "title": "Bing Webmaster Tools reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c5bfc99bfc76a336dee2a718e5a3e4ee3e34e259-1920x1080.png?w=1920&h=1080&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82ca58cbcf35ece08928e624cd9c31b596d37e54-1027x1063.png?w=1027&h=1063&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ixL6fiuNOC4aAWazh-NLkAFdIzSgGbKZhDlRYXokCvo/template/preview",
+    "title": "Bulk ad performance checker template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/44f015332a519888886ec7474dd757fd32e2dd10-1280x720.png?w=1280&h=720&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/12d29b3dff0a52b31c065472477af64f3fd9742e-1284x1248.png?w=1284&h=1248&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1vnjIiAUF6USE7nVuPkMFrdZ1yizwKJxgCEg19m5h6pk/template/preview",
+    "title": "Google Ads budget tracker and alert template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/2fefebbf0ab880edf6a41ccf690aec2a4b0266fb-400x400.jpg?w=400&h=400&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0000c1483cb3a233883aa1b3699a231a642a6fc6-1289x1325.png?w=1289&h=1325&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/3222a248-4fcc-49c7-91bc-8b5071bb23e7/page/Qf6MC/preview",
+    "title": "Capterra PPC report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fb9c01004c946033c039918d5b965cee23d39748-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/3b81538bf62f0a5c06ee9cac381d8f1029ce6d22-1377x1156.png?w=1377&h=1156&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1x3ZOgVxVi87oETrA4izcZqUzdADKFlwEQ8Y99P7g4so/template/preview",
+    "title": "Detailed paid channel mix reporting template (with Yandex)",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/735007cfc2922e929d8429d98bc08debfca7b9d9-800x800.jpg?w=800&h=800&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be167abf386c55956704542ecb15e9d1397b9620-1278x1165.png?w=1278&h=1165&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1Q_17ojqDQlVYUpNdVKu0z735dUm4t4s3UxnKGr3WiBM/template/preview",
+    "title": "Facebook Ads high-level monthly report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7724c08178120e822db0718765f0f816de4b8175-200x200.jpg?w=200&h=200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6002f6a2ee8ee0e3d4b1e19a231a64393eb235b3-1356x1329.png?w=1356&h=1329&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1j5MqvDABfcVA-oFyRDcgyXYoS7Q1GutA/page/Zye4/preview",
+    "title": "Google Ad Manager reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0049cb0644f2adbf2ecd6a360962e0da4ec8eec-504x158.png?w=504&h=158&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b0372f44fa547725905e1054a6c1f7caa9777f70-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1VnIsZGcUpEIUXrS7PZWkVOccgnOh7cy5mDJSoqcUjtg/template/preview",
+    "title": "Google Ads quality score analysis template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/d76042f64ef2a4ec76a7dd81e1f0d46c214b9c96-2560x1440.png?w=2560&h=1440&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/c7e089664a624b488d620378dfe599305ebfb884-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1Y8JRnsWH-JSMxkaJwLv_pChHgcx4HSA0pAT34DOp134/template/preview",
+    "title": "Google Ads in-depth performance report for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5250681aba2db938619742478bf2bb01ef456066-3840x2160.png",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f2ea2435ea8471c2c471cb7bf1d934208511c65e-1291x1032.png?w=1291&h=1032&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1sN1sf86IgojQE-D_sfsaivzK9VWHwVwdpN4AMI9mEhI/template/preview",
+    "title": "Google Ads monthly report template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/42b9a9380a12ec925685afa5664b1d22b4852196-720x720.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/be61f757818b5dd806982fe5cf5f65ebde7073f7-1378x1247.png?w=1378&h=1247&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1S7Z6SVol_H7qbjFPzC3K7FPvJWh0Tm0gi8-N7c7RDi0/template/preview",
+    "title": "Google Ads & organic keyword performance template",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8084fb995915f0c64e7c034a28ffb7fbb9850f71-740x416.png?w=740&h=416&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4c1261e62b4f6dcd64474be367d11d0986446bb3-1267x1088.png?w=1267&h=1088&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1P0XvL5ljbuXfDno2hxhPAFmJMaWZihP4HaEFNNN3nP0/template/preview",
+    "title": "Google AdSense reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b14cc8b75dff9d3667a38ccc57dbb8c294aaee30-1702x1126.png?rect=0",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8da8e15a218727d6521dc2f32c71cfd3cc9afb0b-300x207.png?w=300&h=207&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1aj9jNdWR8fCJV8-YegjC1R09KfOLcgXy/page/nsh2/preview",
+    "title": "Google Campaign Manager 360 reporting template",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6e1e2c56cec6f1d3cceabef7de2bb27160f337a2-1200x1200.png?w=1200&h=1200&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "Sophie Michaud"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6e1e2c56cec6f1d3cceabef7de2bb27160f337a2-1200x1200.png?w=1200&h=1200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6211e6058b96165cc24a63fbbaca053c28386151-1149x1085.png?w=1149&h=1085&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/372a7936-df4f-49e6-96f3-2f48deac3305/page/YxWhC/preview",
+    "title": "Google Play Reviews report template for Looker Studio",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ff30922d2b34833d46dd89cfc7409536a1a90428-1080x675.png?w=1080&h=675&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "These templates will help you organize and analyze your ad data, allowing you to make data-driven decisions and maximize your ad performance. Whether you’re managing ads on multiple platforms or focusing solely on Facebook, these templates "
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ff30922d2b34833d46dd89cfc7409536a1a90428-1080x675.png?w=1080&h=675&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/0dfcac7990617959163a9110906a145a8fe2f208-2721x2213.png?w=2721&h=2213&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1ALd8KFSZY6u4pW3zGd8-fIeIejT_6VkchFjt1gec-DQ/template/preview",
+    "title": "Google Analytics 4 report template for Google Sheets",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/998b161935cdc6077b74eb0c59d66b62a112fcd5-1600x1123.png?w=1600&h=1123&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "This report starts with your high-level insights and then goes deeper with more detailed views. Whether you want to look at specific demographics, detailed figures, or a campaign overview, this template covers it all. Get started with the F"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/998b161935cdc6077b74eb0c59d66b62a112fcd5-1600x1123.png?w=1600&h=1123&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/487435539db1f23191da38ffddd9c4a31e58bc67-1346x1273.png?w=1346&h=1273&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1EwrH-CBk14ojcSKjcKDxa3pYCq1VmPnAnxZVtittIQE/template/preview",
+    "title": "Google Ads high-level monthly report template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f27ab73c90c413be4267a5face1ba0407c15f075-2272x2560.jpg?w=2272&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/94fff9f6d725a77b395cdc3169463768628f1244-1313x1154.png?w=1313&h=1154&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1QOURQxesY6HSqvbpydwDXE7bB6QQ2JqS/page/l09FB/preview",
+    "title": "HubSpot cross-portal overview template for Looker Studio",
     "author": "",
-    "extra_text": "Want to see all your Facebook Ads reporting in a swanky two-pager? This template has all the metrics you need to quickly analyze your ad campaigns. Whether you’re using Facebook for lead generation"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f27ab73c90c413be4267a5face1ba0407c15f075-2272x2560.jpg?w=2272&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/865c4f78efcc6947b1fe354f410bfd9e4553bc36-1600x884.png?w=1600&h=884&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "We know this report has “detailed” in the title, but it’s no understatement. It has an overview sheet for all your ad platforms and a separate overview, and a detailed breakdown for each data source. Want to dig deeper? It even includes the"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/865c4f78efcc6947b1fe354f410bfd9e4553bc36-1600x884.png?w=1600&h=884&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/1ff00fdbc068ab6ea50d840c9d36e66471accab7-300x194.png?w=300&h=194&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1kU5z5PJXUztoTD8jPt1PjUA4bs0JpwTM/page/l09FB/preview",
+    "title": "HubSpot email marketing template for Looker Studio",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7285e0206fe4dce28702765e514454ba3287ae7a-1479x1104.png?w=1479&h=1104&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "Sometimes, all you need is a good one-page overview of your main ad platforms. We put the most popular ones into this report so you can compare each platform to the other. Get started with the paid channel mix reporting template"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7285e0206fe4dce28702765e514454ba3287ae7a-1479x1104.png?w=1479&h=1104&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/112601c9e79b2301fdaade9de35507198f909473-1285x1229.png?w=1285&h=1229&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1WwZYKBzxkcrktIPfNdx8T8oFoYOfRl4OnbkBaEjlTiw/template/preview",
+    "title": "HubSpot email reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ca5b4599707ea0ca704293e45d94ed9f8e30194d-1890x1417.png?w=1890&h=1417&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "Since Google and Facebook have the highest ad revenue out of all digital channels, chances are you have ads on both platforms. Want to see which one is performing best? We put them together in this two-page dashboard and included all the ma"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ca5b4599707ea0ca704293e45d94ed9f8e30194d-1890x1417.png?w=1890&h=1417&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ae88aaedb15dc6bc46e20ab4c652251e97d7fe9a-1354x1233.png?w=1354&h=1233&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1AwgXWQ8mcGHiL_0rXZyj5VJm-pSZ7oknQVU2DyyDRmI/template/preview",
+    "title": "HubSpot sales funnel reporting template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b3e060a4b8e3fbf2853aee7aae04d3063fb0afe5-1202x1176.png?w=1202&h=1176&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/5cfe35203fe612163f3639a20b9f63c18d10d9b1-2446x1794.png?w=2446&h=1794&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1r1anAg9Ie196OJGnX-9TfDzYpUVnV3xVROH-zZiW6HQ/template/preview",
+    "title": "Google Ads keyword heatmap analysis template",
     "author": "",
-    "extra_text": "For the quickest view of your top ad platforms’ performance, simply plug in your data sources to this one-page dashboard, and that’s it! All your metrics are in one place for an easy comparison. We included the top five most common ad platf"
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b3e060a4b8e3fbf2853aee7aae04d3063fb0afe5-1202x1176.png?w=1202&h=1176&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b17f295a93f1eb2966c0e19d9ecf7d4d86d974e4-1024x588.png?w=1024&h=588&fit=max",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "Last but not least, we put together the ultimate Excel dashboard for all your ad platforms. We included everything you need in one view and added the raw data for each platform separately if you want to dig into the numbers. This dashboard "
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b17f295a93f1eb2966c0e19d9ecf7d4d86d974e4-1024x588.png?w=1024&h=588&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/fcc70f4665b1cf808d6ce8ac73f8193413ada16c-1245x1008.png?w=1245&h=1008&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/1fnr_fqcZEzKMuj3c2qzyc5_M3QdomkSGN4nfMOEMcec/template/preview",
+    "title": "LinkedIn Ads spend tracker template for Google Sheets",
     "author": "",
     "extra_text": ""
-  },
-  {
-    "image_url": "https://bat.bing.com/action/0?ti=5511343&tm=gtm002&Ver=2&mid=d28695ea-f2a2-4f80-a55f-c1496b28a9b2&bo=2&sid=555585d0c10a11f08c2945fc04022cf3&vid=55559200c10a11f094d9c3c418a5924f&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Facebook%20Ads%20Report%20Templates%3A%20Streamline%20Your%20Campaign%20Analysis&p=https%3A%2F%2Fsupermetrics.com%2Fblog%2Ffacebook-ads-report-template&r=&lt=5111&evt=pageLoad&sv=2&asc=G&cdb=AQIT&rn=144890",
-    "source_link": "",
-    "title": "",
-    "author": "",
-    "extra_text": "html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{p"
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/6e1e2c56cec6f1d3cceabef7de2bb27160f337a2-1200x1200.png?w=1200&h=1200&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/19f7fb33c5c8e3ef086ab2e41ac0cb92c2e18693-1276x962.png?w=1276&h=962&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1oWBBUjh9OYBpWHuYcwov1I7VypHJdfUf/page/jjcY/preview",
+    "title": "Moz SEO reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ff30922d2b34833d46dd89cfc7409536a1a90428-1080x675.png?w=1080&h=675&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4043a3d662494f311ed57a93cc5a83ccaf551879-2264x1306.png?w=2264&h=1306&fit=max",
+    "source_link": "https://prod-central-prod-sm-site-media.s3.eu-west-1.amazonaws.com/sm/public/wp-content/uploads/2023/10/02082900/Paid-Channel-Mix-template-by-Supermetrics-3.xlsx",
+    "title": "Paid channel mix reporting template for Excel",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/998b161935cdc6077b74eb0c59d66b62a112fcd5-1600x1123.png?w=1600&h=1123&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f3b4f3b4b38de0c400421efa3d97c54b1d79c98c-1347x1143.png?w=1347&h=1143&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1eptDqMZoqrhF7W20lePxkBWz-AOPAtm4/page/x9iqB/preview",
+    "title": "Pinterest Ads reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/f27ab73c90c413be4267a5face1ba0407c15f075-2272x2560.jpg?w=2272&h=2560&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/82d8411b005455e8fdb4c09d14ee829f4eaa1daa-1310x1156.png?w=1310&h=1156&fit=max",
+    "source_link": "https://datastudio.google.com/u/0/reporting/1gkWTCSaYfVRKjEskwa7VEQKKCFnP00sF/page/UFkqB/preview",
+    "title": "Pinterest Organic reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/865c4f78efcc6947b1fe354f410bfd9e4553bc36-1600x884.png?w=1600&h=884&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b07da0c78b4d01e7e45e6d7f41bcce2dd1d091c5-1293x1241.png?w=1293&h=1241&fit=max",
+    "source_link": "https://docs.google.com/spreadsheets/d/15TDPWuxKP9RFODt3g2fDXS_DmYmQEIxx1uOOBQD20QI/template/preview",
+    "title": "Standard Linkedin Ads metrics template for Google Sheets",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/7285e0206fe4dce28702765e514454ba3287ae7a-1479x1104.png?w=1479&h=1104&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/222fd160b340e5b321294b616e18ca21db094072-1491x1301.png?w=1491&h=1301&fit=max",
+    "source_link": "https://lookerstudio.google.com/u/0/reporting/b8e8160e-05c1-448f-9f60-3301599da147/page/p_87d3ktvyyc/preview",
+    "title": "X (Twitter) tweet engagement report for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ca5b4599707ea0ca704293e45d94ed9f8e30194d-1890x1417.png?w=1890&h=1417&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/8cd0f18f0c57c395a82048f1996213bd4a804a81-4438x5000.jpg?w=4438&h=5000&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-instagram-ads",
+    "title": "Facebook & Instagram (Meta) Ads report template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b3e060a4b8e3fbf2853aee7aae04d3063fb0afe5-1202x1176.png?w=1202&h=1176&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/60390f10a166177b9d2a1d28883321f9e2258af9-1489x836.png?w=1489&h=836&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/power-bi-ga4-overview",
+    "title": "Google Analytics 4 reporting template for Power BI",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/b17f295a93f1eb2966c0e19d9ecf7d4d86d974e4-1024x588.png?w=1024&h=588&fit=max",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/23d608fe429edaa2cb64d2619d71c8ed2e076362-1062x962.png?w=1062&h=962&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-instagram-insight-overview",
+    "title": "Instagram Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn.sanity.io/images/8ly2m84z/production-2025/ea1a6604ed2182fe06209d9962a1c8da461f1138-1200x630.png",
-    "source_link": "",
-    "title": "",
+    "thumbnail": "https://cdn.sanity.io/images/8ly2m84z/production-2025/4fdf1c967d1cc20ce8330b0140364a3d3f69f69d-1416x794.png?w=1416&h=794&fit=max",
+    "source_link": "https://supermetrics.com/template-gallery/looker-studio-facebook-insights-overview",
+    "title": "Facebook Insights reporting template for Looker Studio",
     "author": "",
     "extra_text": ""
   }

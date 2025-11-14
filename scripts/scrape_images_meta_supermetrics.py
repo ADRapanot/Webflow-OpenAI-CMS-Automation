@@ -86,6 +86,68 @@ def _find_author(element):
     return ""
 
 
+def clean_thumbnail_url(url: str) -> str:
+    """
+    Clean thumbnail URL by extracting the actual CDN URL from wrapper URLs.
+    
+    Handles URLs like:
+    "https://supermetrics.com/template-gallery/reporting-tools/format=avif/https:/cdn.sanity.io/images/...?w=1887&h=1975&fit=max"
+    
+    Returns:
+    "https://cdn.sanity.io/images/..." (without query parameters)
+    """
+    if not url:
+        return url
+    
+    # Look for CDN URLs in the string (cdn.sanity.io, cdn-cgi/image, etc.)
+    # First try to find cdn.sanity.io URLs (handles both https:/ and https://)
+    # Find the position of cdn.sanity.io and extract the URL starting from https? before it
+    sanity_pos = url.find('cdn.sanity.io')
+    if sanity_pos > 0:
+        # Look backwards to find the start of the URL (https: or http:)
+        # Search for https?: or http?: before the domain
+        protocol_match = re.search(r'https?:/+/cdn\.sanity\.io/[^\s?]+', url[max(0, sanity_pos-20):sanity_pos+200])
+        if protocol_match:
+            clean_url = protocol_match.group(0)
+            # Fix protocol to always have two slashes (https:/ -> https://)
+            clean_url = re.sub(r'^(https?):/', r'\1://', clean_url)
+            # Remove query parameters
+            if '?' in clean_url:
+                clean_url = clean_url.split('?')[0]
+            return clean_url
+        # Alternative: find https?:/ pattern before cdn.sanity.io
+        before_domain = url[:sanity_pos]
+        protocol_match = re.search(r'https?:/+/?$', before_domain)
+        if protocol_match:
+            # Extract from protocol match to query string or end
+            start_pos = protocol_match.start()
+            end_pos = url.find('?', sanity_pos)
+            if end_pos == -1:
+                end_pos = len(url)
+            clean_url = url[start_pos:end_pos]
+            # Fix protocol
+            clean_url = re.sub(r'^(https?):/', r'\1://', clean_url)
+            return clean_url
+    
+    # Try Cloudflare CDN wrapper pattern
+    cloudflare_match = re.search(r'https?://[^/]+/cdn-cgi/image/[^/]+/(https?:/+/[^\s?]+)', url)
+    if cloudflare_match:
+        clean_url = cloudflare_match.group(1)
+        # Fix protocol to always have two slashes
+        clean_url = re.sub(r'^https?:/', 'https://', clean_url)
+        clean_url = re.sub(r'^http?:/', 'http://', clean_url)
+        # Remove query parameters
+        if '?' in clean_url:
+            clean_url = clean_url.split('?')[0]
+        return clean_url
+    
+    # If no CDN pattern found, just remove query parameters from the original URL
+    if '?' in url:
+        url = url.split('?')[0]
+    
+    return url
+
+
 def has_image_extension(url: str) -> bool:
     """Check if URL contains an image file extension."""
     if not url:
@@ -115,13 +177,116 @@ def has_image_extension(url: str) -> bool:
     return False
 
 
+def extract_supermetrics_report_metadata(article_tag, base_url: str) -> dict:
+    """
+    Extract metadata from a Supermetrics report article.
+    
+    Structure:
+    - <article data-template-type="report">
+      - <a href="source_link"><h3>title</h3></a>
+      - <picture> with <source> and <img> tags for thumbnail
+    """
+    metadata = {
+        "thumbnail": "",
+        "source_link": "",
+        "title": "",
+        "author": "",
+        "extra_text": ""
+    }
+    
+    # Extract title and source_link from <a><h3> structure
+    link_tag = article_tag.find("a", href=True)
+    if link_tag:
+        href = link_tag.get("href", "")
+        if href:
+            metadata["source_link"] = urljoin(base_url, href.strip())
+        
+        h3_tag = link_tag.find("h3")
+        if h3_tag:
+            metadata["title"] = h3_tag.get_text(strip=True)
+    
+    # Extract thumbnail from <picture> tag
+    picture_tag = article_tag.find("picture")
+    if picture_tag:
+        # First try to get the highest resolution from srcset in <source> tags
+        best_url = None
+        best_width = 0
+        
+        # Check all <source> tags for srcset
+        for source in picture_tag.find_all("source", srcset=True):
+            srcset = source.get("srcset", "")
+            # Parse srcset: "url1 320w, url2 480w, ..."
+            # Split by comma first, then parse each entry
+            for entry in srcset.split(','):
+                entry = entry.strip()
+                # Match: URL (may contain spaces) followed by space and number+w
+                match = re.search(r'(.+?)\s+(\d+)w\s*$', entry)
+                if match:
+                    url = match.group(1).strip()
+                    width_str = match.group(2)
+                    try:
+                        width = int(width_str)
+                        if width > best_width:
+                            best_width = width
+                            best_url = url
+                    except ValueError:
+                        continue
+        
+        # If no srcset found, try the <img> tag
+        if not best_url:
+            img_tag = picture_tag.find("img")
+            if img_tag:
+                # Try srcset first
+                img_srcset = img_tag.get("srcset", "")
+                if img_srcset:
+                    # Parse srcset: "url1 320w, url2 480w, ..."
+                    # Split by comma first, then parse each entry
+                    for entry in img_srcset.split(','):
+                        entry = entry.strip()
+                        # Match: URL (may contain spaces) followed by space and number+w
+                        match = re.search(r'(.+?)\s+(\d+)w\s*$', entry)
+                        if match:
+                            url = match.group(1).strip()
+                            width_str = match.group(2)
+                            try:
+                                width = int(width_str)
+                                if width > best_width:
+                                    best_width = width
+                                    best_url = url
+                            except ValueError:
+                                continue
+                
+                # Fall back to src attribute
+                if not best_url:
+                    img_src = img_tag.get("src", "")
+                    if img_src:
+                        best_url = img_src.strip()
+        
+        if best_url:
+            # Clean up the URL - extract actual CDN URL from wrapper URLs
+            # This handles URLs like:
+            # "https://supermetrics.com/template-gallery/reporting-tools/format=avif/https:/cdn.sanity.io/images/...?w=1887&h=1975&fit=max"
+            best_url = clean_thumbnail_url(best_url)
+            
+            # Convert relative URLs to absolute
+            if best_url.startswith("/"):
+                metadata["thumbnail"] = urljoin(base_url, best_url)
+            elif best_url.startswith("http"):
+                metadata["thumbnail"] = best_url
+            else:
+                metadata["thumbnail"] = urljoin(base_url, best_url)
+    
+    return metadata
+
+
 def extract_image_metadata(img_tag, base_url: str) -> dict:
     """Derive contextual metadata for an image tag."""
     metadata = {}
     
     src = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-lazy-src")
     if src:
-        metadata["thumbnail"] = urljoin(base_url, src.strip())
+        cleaned_src = clean_thumbnail_url(src.strip())
+        metadata["thumbnail"] = urljoin(base_url, cleaned_src)
     else:
         metadata["thumbnail"] = ""
     
@@ -165,18 +330,23 @@ def scrape_images_with_js(
     scroll: bool = True,
 ) -> list:
     """
-    Scrape ALL images from JavaScript-rendered page.
+    Scrape report metadata from Supermetrics pages.
+    
+    Specifically extracts:
+    - Title from <h3> tags inside <a> tags
+    - Source link from <a> href attributes
+    - Thumbnail images from <picture> tags (highest resolution from srcset)
     
     Args:
-        url: URL to scrape
-        output_dir: Directory to save images
+        url: Supermetrics URL to scrape
+        output_dir: Directory to save metadata
         keywords: (Unused - kept for backwards compatibility)
         headless: Run browser in headless mode
         wait_time: Seconds to wait for JavaScript to load
         scroll: Whether to scroll page for lazy-loaded images
     
     Returns:
-        List of saved file paths
+        List of metadata dictionaries with title, source_link, and thumbnail
     """
     logging.info("Starting browser and loading: %s", url)
     
@@ -209,88 +379,33 @@ def scrape_images_with_js(
         
         soup = BeautifulSoup(page_source, 'html.parser')
         
-        # Collect all image URLs (no keyword filtering - scoring happens later)
-        image_urls = []
-        metadata_map = {}
+        # Supermetrics-specific: Find all report articles
+        collected_metadata = []
+        articles = soup.find_all('article', {'data-template-type': 'report'})
+        logging.info("Found %d report articles", len(articles))
         
-        # Get images from <img> tags
-        for img in soup.find_all('img'):
-            src = img.get('src') or img.get('data-src') or img.get('data-lazy-src')
-            srcset = img.get('srcset') or img.get('data-srcset')
+        for idx, article in enumerate(articles, 1):
+            logging.info("Processing article %d/%d", idx, len(articles))
+            meta = extract_supermetrics_report_metadata(article, url)
             
-            if src and not src.startswith('data:'):
-                image_urls.append(src)
-                meta = extract_image_metadata(img, url)
-                if meta.get("thumbnail"):
-                    metadata_map[meta["thumbnail"]] = meta
-            
-            if srcset:
-                srcset_urls = re.findall(r'([^\s,]+(?:\.jpg|\.jpeg|\.png|\.gif|\.webp)[^\s,]*)', srcset, re.IGNORECASE)
-                image_urls.extend(srcset_urls)
+            # Only add if we have at least a thumbnail or title
+            if meta.get("thumbnail") or meta.get("title"):
+                collected_metadata.append(meta)
+                logging.debug(
+                    "Extracted: title='%s', source_link='%s', thumbnail='%s'",
+                    meta.get("title", ""),
+                    meta.get("source_link", ""),
+                    meta.get("thumbnail", "")
+                )
+            else:
+                logging.warning("Skipping article %d - no thumbnail or title found", idx)
         
-        # Get images from <source> tags
-        for source in soup.find_all('source'):
-            srcset = source.get('srcset') or source.get('data-srcset')
-            src = source.get('src')
-            
-            if srcset:
-                urls = re.findall(r'(https?://[^\s,]+)', srcset)
-                image_urls.extend(urls)
-            
-            if src:
-                image_urls.append(src)
-        
-        # Get images from meta tags (og:image, twitter:image)
-        for tag in soup.find_all(['meta', 'link']):
-            if tag.get('property') in ['og:image', 'twitter:image']:
-                content = tag.get('content')
-                if content:
-                    image_urls.append(content)
-            elif tag.get('rel') == ['image_src']:
-                href = tag.get('href')
-                if href:
-                    image_urls.append(href)
-        
-        # Convert to full URLs, filter by image extension, and remove duplicates
-        full_urls = []
-        for img_url in image_urls:
-            if img_url.startswith('data:'):
-                continue
-            stripped_url = img_url.strip().split()[0]
-            full_url = urljoin(url, stripped_url)
-            
-            # Filter: only include URLs with image extensions
-            if not has_image_extension(full_url):
-                logging.debug(f"Skipping URL without image extension: {full_url}")
-                continue
-            
-            full_urls.append(full_url)
-            if full_url not in metadata_map and img_url in metadata_map:
-                metadata_map[full_url] = metadata_map[img_url]
-        
-        # Remove duplicates while preserving order
-        image_urls = list(dict.fromkeys(full_urls))
-        logging.info("Found %d total images", len(image_urls))
+        logging.info("Collected metadata for %d reports", len(collected_metadata))
         
     finally:
         driver.quit()
     
     output_dir.mkdir(parents=True, exist_ok=True)
-    collected_metadata = []
-    
-    for idx, img_url in enumerate(image_urls, 1):
-        logging.info("Collecting metadata for %d/%d: %s", idx, len(image_urls), img_url)
-        meta = metadata_map.get(img_url, {})
-        if "thumbnail" not in meta or not meta["thumbnail"]:
-            meta = dict(meta)
-            meta["thumbnail"] = img_url
-        meta.setdefault("source_link", "")
-        meta.setdefault("title", "")
-        meta.setdefault("author", "")
-        meta.setdefault("extra_text", "")
-        collected_metadata.append(meta)
-    
-    logging.info("Collected metadata for %d images", len(collected_metadata))
     
     new_metadata_entries = []
     
@@ -343,7 +458,7 @@ def scrape_images_with_js(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Scrape images from JavaScript-rendered webpages"
+        description="Scrape report metadata from Supermetrics pages (titles, source links, thumbnails)"
     )
     parser.add_argument("url", help="URL to scrape images from")
     parser.add_argument(
@@ -408,9 +523,14 @@ def main():
     print(f"{'='*60}")
     
     if new_metadata:
-        print("\nNew image URLs:")
+        print("\nNew report entries:")
         for entry in new_metadata[:10]:
-            print(f"  - {entry.get('image_url', '')}")
+            title = entry.get('title', 'No title')
+            thumbnail = entry.get('thumbnail', 'No thumbnail')
+            source = entry.get('source_link', 'No source')
+            print(f"  - {title}")
+            print(f"    Thumbnail: {thumbnail}")
+            print(f"    Source: {source}")
         if len(new_metadata) > 10:
             print(f"  ... and {len(new_metadata) - 10} more")
 

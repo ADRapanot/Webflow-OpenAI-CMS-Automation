@@ -1,895 +1,895 @@
 [
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Excel.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Excel.png",
     "source_link": "https://databox.com/metric-library/data-source/excel",
     "title": "Excel",
     "author": "",
     "extra_text": "Excel"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/GoogleSheets.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleSheets.png",
     "source_link": "https://databox.com/metric-library/data-source/google-sheets",
     "title": "Google Sheets",
     "author": "",
     "extra_text": "Google Sheets"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/GoogleAnalytics4.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleAnalytics4.png",
     "source_link": "https://databox.com/metric-library/data-source/google-analytics-4",
     "title": "Google Analytics 4",
     "author": "",
     "extra_text": "Google Analytics 4"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/GoogleAd5.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleAd5.png",
     "source_link": "https://databox.com/metric-library/data-source/google-ads",
     "title": "Google Ads",
     "author": "",
     "extra_text": "Google Ads"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/GoogleSearchConsole.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleSearchConsole.png",
     "source_link": "https://databox.com/metric-library/data-source/google-search-console",
     "title": "Google Search Console",
     "author": "",
     "extra_text": "Google Search Console"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/FbAds.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/FbAds.png",
     "source_link": "https://databox.com/metric-library/data-source/facebook-ads",
     "title": "Facebook Ads",
     "author": "",
     "extra_text": "Facebook Ads"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Facebook.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Facebook.png",
     "source_link": "https://databox.com/metric-library/data-source/facebook",
     "title": "Facebook Pages",
     "author": "",
     "extra_text": "Facebook Pages"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Hubspot.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Hubspot.png",
     "source_link": "https://databox.com/metric-library/data-source/hubspot",
     "title": "HubSpot Marketing",
     "author": "",
     "extra_text": "HubSpot Marketing"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/HubspotCrm.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/HubspotCrm.png",
     "source_link": "https://databox.com/metric-library/data-source/hubspot-crm",
     "title": "HubSpot CRM",
     "author": "",
     "extra_text": "HubSpot CRM"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/LinkedInAds.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/LinkedInAds.png",
     "source_link": "https://databox.com/metric-library/data-source/linkedin-ads",
     "title": "LinkedIn Ads",
     "author": "",
     "extra_text": "LinkedIn Ads"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/SEMrush.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/SEMrush.png",
     "source_link": "https://databox.com/metric-library/data-source/semrush",
     "title": "SEMrush",
     "author": "",
     "extra_text": "SEMrush"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/InstagramBusiness.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/InstagramBusiness.png",
     "source_link": "https://databox.com/metric-library/data-source/instagram-business",
     "title": "Instagram Business",
     "author": "",
     "extra_text": "Instagram Business"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Mailchimp.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Mailchimp.png",
     "source_link": "https://databox.com/metric-library/data-source/mailchimp",
     "title": "Mailchimp",
     "author": "",
     "extra_text": "Mailchimp"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Shopify.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Shopify.png",
     "source_link": "https://databox.com/metric-library/data-source/shopify",
     "title": "Shopify",
     "author": "",
     "extra_text": "Shopify"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/QuickBooks.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/QuickBooks.png",
     "source_link": "https://databox.com/metric-library/data-source/quickbooks",
     "title": "QuickBooks",
     "author": "",
     "extra_text": "QuickBooks"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Stripe.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Stripe.png",
     "source_link": "https://databox.com/metric-library/data-source/stripe",
     "title": "Stripe",
     "author": "",
     "extra_text": "Stripe"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/BigQuery.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/BigQuery.png",
     "source_link": "https://databox.com/metric-library/data-source/google-bigquery",
     "title": "Google BigQuery",
     "author": "",
     "extra_text": "Google BigQuery"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/MySQL.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/MySQL.png",
     "source_link": "https://databox.com/metric-library/data-source/mysql",
     "title": "MySQL",
     "author": "",
     "extra_text": "MySQL"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Intercom.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Intercom.png",
     "source_link": "https://databox.com/metric-library/data-source/intercom",
     "title": "Intercom",
     "author": "",
     "extra_text": "Intercom"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/M1xpanel.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/M1xpanel.png",
     "source_link": "https://databox.com/metric-library/data-source/mixpanel",
     "title": "Mixpanel",
     "author": "",
     "extra_text": "Mixpanel"
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Klaviyo.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Klaviyo.png",
     "source_link": "",
     "title": "Klaviyo",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/ActiveCampaign.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/ActiveCampaign.png",
     "source_link": "",
     "title": "ActiveCampaign",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Freshdesk.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Freshdesk.png",
     "source_link": "",
     "title": "Freshdesk",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn1.databox.com/images/apps/s/Zendesk.png",
+    "thumbnail": "https://cdn1.databox.com/images/apps/s/Zendesk.png",
     "source_link": "",
     "title": "Zendesk Support",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21070716/Evenbound-Logo-1-1.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21070716/Evenbound-Logo-1-1.png",
     "source_link": "https://databox.com/customers/evendbound",
     "title": "How Evenbound Streamlined Reporting & Boosted Client Results",
     "author": "",
     "extra_text": "How Evenbound Streamlined Reporting & Boosted Client Results"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21113109/DT.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21113109/DT.png",
     "source_link": "https://databox.com/customers/dispatchtrack",
     "title": "How DispatchTrack Built a Data-Driven Culture",
     "author": "",
     "extra_text": "How DispatchTrack Built a Data-Driven Culture"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21094527/Conair-1.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2024/11/21094527/Conair-1.png",
     "source_link": "https://databox.com/customers/conair",
     "title": "How Conair Unified Data Across Five Brands",
     "author": "",
     "extra_text": "How Conair Unified Data Across Five Brands"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/marketing.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/marketing.jpg",
     "source_link": "",
     "title": "Marketing",
     "author": "",
     "extra_text": "200+ Must-Have Marketing Dashboard Examples and Templates All marketing dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/dislh6ijh9a.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/dislh6ijh9a.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Website Engagement Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/qjkc4p1anpp.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/qjkc4p1anpp.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Ads Performance Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/e95mnitmdl3.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/e95mnitmdl3.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Page Insights"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/1egpn5oaegh9.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/1egpn5oaegh9.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Instagram Business Profile Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/9emcc7n9ra4.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/9emcc7n9ra4.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot Marketing Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/bmlro4np2nl.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/bmlro4np2nl.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Analytics 4 Website traffic"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/oe7a0fl2bk9.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/oe7a0fl2bk9.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Pages & Facebook Ads: Engagement Summary"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ef9k8bdijs3.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ef9k8bdijs3.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Ads Performance Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hoa22ops1l4.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hoa22ops1l4.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Ads & Google Ads Dashboard"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/6emkt6c7lhg.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/6emkt6c7lhg.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Website Acquisition Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/4mh7fip80k5.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/4mh7fip80k5.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Search Console Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/eskfrfnl44k.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/eskfrfnl44k.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Business Profile Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/cbqk5a1s47b.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/cbqk5a1s47b.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Mailchimp Campaign Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/smhce655fac.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/smhce655fac.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "LinkedIn Company Pages Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/rqcj0ko1cqa.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/rqcj0ko1cqa.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Klaviyo Email Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/eq2jaqqorcl.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/eq2jaqqorcl.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot Email Campaigns"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/r2l0s4fn33n.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/r2l0s4fn33n.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "YouTube Channel Performance"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-g2crowd.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-g2crowd.png",
     "source_link": "",
     "title": "g2crowd",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-5stars.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-5stars.png",
     "source_link": "",
     "title": "Stars",
     "author": "",
     "extra_text": "4.5 out of"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/g2.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/g2.png",
     "source_link": "",
     "title": "G2",
     "author": "",
     "extra_text": "2023 Leader on the"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-capterra-2.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-capterra-2.png",
     "source_link": "",
     "title": "capterra",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-8stars.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-8stars.png",
     "source_link": "",
     "title": "Stars",
     "author": "",
     "extra_text": "4.8 out of"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-5.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-5.png",
     "source_link": "",
     "title": "Customize each metric block by date range, comparisons, goals, and more.",
     "author": "",
     "extra_text": "Customize each metric block"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-1.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-1.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": "Create a new dashboard using our Designer tool Name your dashboard"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-2.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-2.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": "Name your dashboard Select a data source"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-3.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-3.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": "Select a data source Drag-and-drop pre-built metrics from that source to your dashboard"
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-4.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/product/designer/wizard-4.png",
     "source_link": "",
     "title": "Drag-and-drop pre-built metrics from that source to your dashboard or drag a blank visualization first and select the metric you’d like to associate with it.",
     "author": "",
     "extra_text": "Drag-and-drop pre-built metrics from that source to your dashboard Customize each metric block"
   },
   {
-    "image_url": "https://cdn1.databox.com/website/images/pledge-one-percent.png",
+    "thumbnail": "https://cdn1.databox.com/website/images/pledge-one-percent.png",
     "source_link": "https://pledge1percent.org/",
     "title": "Pledge 1%",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/footer/badges.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/footer/badges.png",
     "source_link": "",
     "title": "Company badges",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/footer/g2-crowd-with-rating.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/footer/g2-crowd-with-rating.png",
     "source_link": "",
     "title": "G2 Rating",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/footer/capterra-with-rating.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/footer/capterra-with-rating.png",
     "source_link": "",
     "title": "Capterra Rating",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn1.databox.com/images/logo/databox-default.png",
+    "thumbnail": "https://cdn1.databox.com/images/logo/databox-default.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": "Already have an account? Sign in Start a Free Trial, No Credit Card Needed"
   },
   {
-    "image_url": "https://monitor.clickcease.com",
+    "thumbnail": "https://monitor.clickcease.com",
     "source_link": "https://www.clickcease.com",
     "title": "ClickCease",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=0fa8fe65-da32-4b9a-8798-c40427b34805&bo=1&sid=fbd3cb30c10711f0888ae3c50739a126&vid=fbd3f340c10711f0b0403d11442a1d32&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Explore%20200%2B%20Must-Have%20Marketing%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fmarketing&r=&lt=4450&evt=pageLoad&sv=2&cdb=AQAQ&rn=186114",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=0fa8fe65-da32-4b9a-8798-c40427b34805&bo=1&sid=fbd3cb30c10711f0888ae3c50739a126&vid=fbd3f340c10711f0b0403d11442a1d32&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Explore%20200%2B%20Must-Have%20Marketing%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fmarketing&r=&lt=4450&evt=pageLoad&sv=2&cdb=AQAQ&rn=186114",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-g2crowd.webp",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-g2crowd.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-5stars.webp",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-5stars.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/g2.webp",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/g2.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-capterra-2.webp",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/logo-capterra-2.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-8stars.webp",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/reviews/4-8stars.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdn1.databox.com/website/images/pledge-one-percent.webp",
+    "thumbnail": "https://cdn1.databox.com/website/images/pledge-one-percent.webp",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2025/09/01020631/databox-business-intelligence-software-and-business-analytics.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2025/09/01020631/databox-business-intelligence-software-and-business-analytics.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/sales.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/sales.jpg",
     "source_link": "",
     "title": "Sales",
     "author": "",
     "extra_text": "40+ Must-Have Sales Dashboard Examples and Templates All sales dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/8rrphk4jsfi.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/8rrphk4jsfi.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot CRM Overview Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hnnmgqs5ga5.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hnnmgqs5ga5.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot CRM Sales Rep Activity"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ljga4dmbiq1.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ljga4dmbiq1.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot CRM Deals Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ibajb509ld3.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ibajb509ld3.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Pipeline Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/7b5gffi3mqg.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/7b5gffi3mqg.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Salesforce Leads Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/d45qogqr72h.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/d45qogqr72h.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "CallRail Overview Dashboard"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/pab55pk1mfe.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/pab55pk1mfe.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot Marketing Lead Source Dashboard"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/f87gk6fibhh.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/f87gk6fibhh.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Salesforce Sales Pipeline"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/q63lgedgadm.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/q63lgedgadm.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Stripe MRR & Subscriptions Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ja3ktltsqdd.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ja3ktltsqdd.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Pipedrive CRM Account overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/l673eokj79j.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/l673eokj79j.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Eventbrite Event Analytics"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/nge8hg8jdjr.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/nge8hg8jdjr.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Outreach Prospects Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ae9hfbe0nkl.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ae9hfbe0nkl.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "CallRail Source & Keyword Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/j03r87k9lnn.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/j03r87k9lnn.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot CRM Deals KPIs"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/j43r2st1hl.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/j43r2st1hl.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Pipedrive CRM Activities Effort"
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=a46c5587-dd79-403b-86cc-09432e6b37c7&bo=1&sid=10785890c10811f089ceb34ce74e287e&vid=107864a0c10811f0adf0f7e2db03f2a9&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Explore%2040%2B%20Sales%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsales&r=&lt=4291&evt=pageLoad&sv=2&cdb=AQAQ&rn=959054",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=a46c5587-dd79-403b-86cc-09432e6b37c7&bo=1&sid=10785890c10811f089ceb34ce74e287e&vid=107864a0c10811f0adf0f7e2db03f2a9&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Explore%2040%2B%20Sales%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsales&r=&lt=4291&evt=pageLoad&sv=2&cdb=AQAQ&rn=959054",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/customer-support.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/customer-support.jpg",
     "source_link": "",
     "title": "Customer Support",
     "author": "",
     "extra_text": "Must-Have Customer Support Dashboard Templates All customer support dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/rc89fh6k0hf.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/rc89fh6k0hf.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Intercom Account Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/bph30lgmpko.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/bph30lgmpko.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HubSpot Service Tickets Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/82m3tbs1l88.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/82m3tbs1l88.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Intercom Customer Support Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/tej5rir22f7.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/tej5rir22f7.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HelpScout for Customer Support"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/c46fmlnqie.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/c46fmlnqie.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "HelpScout Docs Report"
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=13fadab4-1d9e-4e09-8765-e3df1a2cb01d&bo=1&sid=22897b90c10811f0b2418791c57715e1&vid=22896cb0c10811f097e3bf248c99f631&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Customer%20Support%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fcustomer-support&r=&lt=4213&evt=pageLoad&sv=2&cdb=AQAQ&rn=155984",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=13fadab4-1d9e-4e09-8765-e3df1a2cb01d&bo=1&sid=22897b90c10811f0b2418791c57715e1&vid=22896cb0c10811f097e3bf248c99f631&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Customer%20Support%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fcustomer-support&r=&lt=4213&evt=pageLoad&sv=2&cdb=AQAQ&rn=155984",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/ecommerce.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/ecommerce.jpg",
     "source_link": "",
     "title": "Ecommerce",
     "author": "",
     "extra_text": "Must-Have Ecommerce Dashboard Templates All ecommerce dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/aohpglr008e.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/aohpglr008e.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Shopify Sales Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/le13ipa8an6.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/le13ipa8an6.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "WooCommerce Shop Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jcrm4dg0lik.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jcrm4dg0lik.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Analytics 4 Ecommerce Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/634a7gn44k0c.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/634a7gn44k0c.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Ads Campaign Drill-down"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/27r59itt1i8d.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/27r59itt1i8d.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Facebook Ads Campaign for Ecommerce"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18082825/1-4.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18082825/1-4.png",
     "source_link": "",
     "title": "revenue data block",
     "author": "",
     "extra_text": "/wp:image wp:paragraph In this simple example, revenue is down by 29% month to date. What happened?"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18082936/2-2.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18082936/2-2.png",
     "source_link": "",
     "title": "individual traffic channels datablock",
     "author": "",
     "extra_text": "/wp:image wp:paragraph This data block uses the »channel« dimension from Google Universal Analytics to give a revenue breakdown. Make sure that you’ve properly set your channel data to capture each individual traffic channel you care about."
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083004/3-2.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083004/3-2.png",
     "source_link": "",
     "title": "revenue channels datablock",
     "author": "",
     "extra_text": "/wp:image wp:heading {\"level\":3} Keeping a Daily View of Your Key Revenue Channel"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083013/4-2.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083013/4-2.png",
     "source_link": "",
     "title": "email performance datablock",
     "author": "",
     "extra_text": "/wp:image wp:paragraph You can also make a chart with daily Facebook revenue and costs, or even a chart where you create a calculated metric for revenue from all of your paid channels and compare it with a calculated metric from all of your"
   },
   {
-    "image_url": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083021/5.png",
+    "thumbnail": "https://cdnwebsite.databox.com/wp-content/uploads/2021/11/18083021/5.png",
     "source_link": "",
     "title": "product revenue datablock",
     "author": "",
     "extra_text": "/wp:image wp:paragraph Ultimately, every dashboard you use needs to tell the specific story of your business and what's driving it. Think of the dashboard template we just went through as a starting point. Then adapt it to the specifics of "
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=33102504-8e5e-49e2-b6b9-c249832db683&bo=1&sid=33cc3110c10811f0856433c196891b9b&vid=33cc4470c10811f0bba435d98a0a64b1&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Ecommerce%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fecommerce&r=&lt=4009&evt=pageLoad&sv=2&cdb=AQAQ&rn=941572",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=33102504-8e5e-49e2-b6b9-c249832db683&bo=1&sid=33cc3110c10811f0856433c196891b9b&vid=33cc4470c10811f0bba435d98a0a64b1&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Ecommerce%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fecommerce&r=&lt=4009&evt=pageLoad&sv=2&cdb=AQAQ&rn=941572",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/uploads/2021/11/1-4.png",
+    "thumbnail": "https://databox.com/wp-content/uploads/2021/11/1-4.png",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/other/4xx-2x.png",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/other/4xx-2x.png",
     "source_link": "",
     "title": "Page not found",
     "author": "",
     "extra_text": "Oops, we can’t find that page (404) The link you followed may be outdated or typed incorrectly. While this page isn't available, you'll find plenty of helpful resources below or in the menu."
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=83a7f874-0c40-4e8f-a301-7c986a1cc028&bo=1&sid=453ab0f0c10811f085f1ab831628a501&vid=453abc10c10811f08d2f6128b471da36&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Page%20not%20found%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fproduct-management&r=&lt=3739&evt=pageLoad&sv=2&cdb=AQAQ&rn=968438",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=83a7f874-0c40-4e8f-a301-7c986a1cc028&bo=1&sid=453ab0f0c10811f085f1ab831628a501&vid=453abc10c10811f08d2f6128b471da36&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Page%20not%20found%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fproduct-management&r=&lt=3739&evt=pageLoad&sv=2&cdb=AQAQ&rn=968438",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/financial.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/financial.jpg",
     "source_link": "",
     "title": "Financial",
     "author": "",
     "extra_text": "10+ Must-Have Financial Dashboard Templates All project management dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular financial management tools. You can customize your templates at any t"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/16ombeg02d4h.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/16ombeg02d4h.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Quickbooks Income & Expenses Cash Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/na0n2ah3epf.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/na0n2ah3epf.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Xero Account Balance Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ei4nlo61146.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ei4nlo61146.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Stripe MRR & Churn Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jfh4md7r7mm.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jfh4md7r7mm.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "QuickBooks Financials Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/akcg5gjge42.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/akcg5gjge42.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "PayPal Account Overview"
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=163b0c12-2675-4fdf-b65e-8c3f5c6ac950&bo=1&sid=55f3ce20c10811f09e1b531e65106cc0&vid=55f3fe50c10811f0aa5151954c08b268&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Financial%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Ffinancial&r=&lt=4327&evt=pageLoad&sv=2&cdb=AQAQ&rn=925846",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=163b0c12-2675-4fdf-b65e-8c3f5c6ac950&bo=1&sid=55f3ce20c10811f09e1b531e65106cc0&vid=55f3fe50c10811f0aa5151954c08b268&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Financial%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Ffinancial&r=&lt=4327&evt=pageLoad&sv=2&cdb=AQAQ&rn=925846",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/software-development.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/software-development.jpg",
     "source_link": "",
     "title": "Software Development",
     "author": "",
     "extra_text": "Must-Have Software Development Dashboard Templates All software development dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jrpe29rbb38.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/jrpe29rbb38.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Bitbucket Overview Dashboard"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hgof7m7fnpf.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/hgof7m7fnpf.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "GitHub Overview Dashboard"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/flfjk6tlam3.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/flfjk6tlam3.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Jira Account Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/gca7253c2gj.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/gca7253c2gj.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Google Play Store Metrics"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ko937lj7673.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ko937lj7673.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Appfigures Sales Performance"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/77aphg7k5cl9.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/77aphg7k5cl9.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "Appfigures Subscriptions Overview"
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=0db36e44-a48e-4669-9f06-19e1c3664331&bo=1&sid=69b4e8a0c10811f0aafca9926ed1fea8&vid=69b50900c10811f0add895869e70320a&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Software%20Development%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsoftware-development&r=&lt=5225&evt=pageLoad&sv=2&cdb=AQAQ&rn=813858",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=0db36e44-a48e-4669-9f06-19e1c3664331&bo=1&sid=69b4e8a0c10811f0aafca9926ed1fea8&vid=69b50900c10811f0add895869e70320a&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20Software%20Development%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsoftware-development&r=&lt=5225&evt=pageLoad&sv=2&cdb=AQAQ&rn=813858",
     "source_link": "",
     "title": "",
     "author": "",
     "extra_text": ""
   },
   {
-    "image_url": "https://databox.com/wp-content/themes/databox/inc/img/templates/saas.jpg",
+    "thumbnail": "https://databox.com/wp-content/themes/databox/inc/img/templates/saas.jpg",
     "source_link": "",
     "title": "SaaS",
     "author": "",
     "extra_text": "Must-Have SaaS Dashboard Templates All SaaS dashboard templates come pre-built with some of the most commonly tracked metrics from the most popular SaaS tools. You can customize your templates at any time."
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/52apjjjfq13d.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/52apjjjfq13d.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "SaaS Sales Dashboard (CSO)"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/0593im4m4scp.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/0593im4m4scp.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "ProfitWell Revenue and Customer Overview"
   },
   {
-    "image_url": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ene6rj6ss0m.jpg",
+    "thumbnail": "https://dashboardsnapshots.s3.us-east-1.amazonaws.com/m/ene6rj6ss0m.jpg",
     "source_link": "",
     "title": "Dashboard example",
     "author": "",
     "extra_text": "SaaS Key Revenue Metrics for Decision-makers - Stripe"
   },
   {
-    "image_url": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=c40af971-6688-4d10-91ab-70d6d3e0b0ff&bo=1&sid=7c25a7a0c10811f082245d0ca73b86ea&vid=7c25b550c10811f0aab973bec5d42d76&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20SaaS%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsaas&r=&lt=4574&evt=pageLoad&sv=2&cdb=AQAQ&rn=354127",
+    "thumbnail": "https://bat.bing.com/action/0?ti=187108719&tm=gtm002&Ver=2&mid=c40af971-6688-4d10-91ab-70d6d3e0b0ff&bo=1&sid=7c25a7a0c10811f082245d0ca73b86ea&vid=7c25b550c10811f0aab973bec5d42d76&vids=1&msclkid=N&uach=pv%3D&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Must-Have%20SaaS%20Dashboard%20Examples%20and%20Templates%20%7C%20Databox&p=https%3A%2F%2Fdatabox.com%2Fdashboard-examples%2Fsaas&r=&lt=4574&evt=pageLoad&sv=2&cdb=AQAQ&rn=354127",
     "source_link": "",
     "title": "",
     "author": "",

@@ -11,7 +11,7 @@ import logging
 from pathlib import Path
 from time import sleep
 
-from scrape_images_meta import scrape_images_with_js
+from scrape_images_meta_supermetrics import scrape_images_with_js
 from scrape_urls_google import WINDSOR_TEMPLATE_PAGES
 
 
