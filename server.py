@@ -473,7 +473,7 @@ def webhook_endpoint():
             field_data = {
                 "name": item.title,
                 "slug": item.slug,
-                "category": item.slug,
+                "category": field_data.get('category', ''),
                 "thumbnail": item.thumbnail,  # Use link from generated item
                 "source-url": item.link,
                 "source": item.source,
