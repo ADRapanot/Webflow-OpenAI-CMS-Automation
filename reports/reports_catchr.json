@@ -1,0 +1,940 @@
+[
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68625a2768a44f5a1925403d_Youtube-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/youtube-channel-video-performances",
+    "title": "Youtube Channel & Video Performances",
+    "author": "",
+    "extra_text": "Free Looker Studio template to track your YouTube channel and video performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/685a9043f5e5baecbadf8c90_amazon%20seller-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/amazon-seller-central",
+    "title": "Amazon Seller Central",
+    "author": "",
+    "extra_text": "Free Looker Studio template to track your Amazon Seller Central performance and product metrics."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6851790161ad015bb028cf64_Ads%20perf-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/ads-performance",
+    "title": "Ads Performance",
+    "author": "",
+    "extra_text": "Free responsive Looker Studio template to track Meta, Microsoft, and Google Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6849535efb1a2a0072700499_GMC-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-merchant-center-responsive-dashboard",
+    "title": "Google Merchant Center Responsive dashboard",
+    "author": "",
+    "extra_text": "Free responsive Looker Studio template to track Google Merchant Center performance and product issues."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/684190d0fd653522155662b0_Brevo-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/brevo-responsive-dashboard",
+    "title": "Brevo Responsive Dashboard",
+    "author": "",
+    "extra_text": "Free responsive Looker Studio template to track your Brevo email performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68346cc1fa40ff318356dcab_GMB-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-my-business-responsive-dashboard",
+    "title": "Google My Business (GMB) Responsive dashboard",
+    "author": "",
+    "extra_text": "Free responsive Looker Studio dashboard to track your Google My Business performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/682d81bc040d9375661bf759_Klaviyo-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/klaviyo-responsive-dashboard",
+    "title": "Klaviyo Responsive Dashboard",
+    "author": "",
+    "extra_text": "Free responsive Looker Studio template to track Klaviyo email campaigns with clear performance insights."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/682722d8402382941d250891_Matomo-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/matomo-responsive-dashboard",
+    "title": "Matomo Responsive Dashboard",
+    "author": "",
+    "extra_text": "Responsive Looker Studio template to analyze your Matomo data clearly and efficiently."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/681a06da863b8f3f3b00e1a9_Meta%20Ads-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/meta-ads-responsive-report",
+    "title": "Meta Ads Responsive Report",
+    "author": "",
+    "extra_text": "Get a free responsive Looker Studio template to track your Meta Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6810cbbeb487900d3f5b580c_Bing-webmaster-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/bing-webmaster-tools",
+    "title": "Bing Webmaster Tools",
+    "author": "",
+    "extra_text": "Get a free Looker Studio responsive template to analyze your Bing Webmaster Tools data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/680209640a6f329b18a1eacc_shopify-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/shopify",
+    "title": "Shopify",
+    "author": "",
+    "extra_text": "Get a free responsive Looker Studio template to track your Shopify store performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67ffc8abb82b4f78a06bad24_Piwik%20pro-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/piwik-pro",
+    "title": "Piwik PRO",
+    "author": "",
+    "extra_text": "Get a free Looker Studio responsive template to visualize your Piwik PRO analytics data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67f66e7957763e7dcff3df1c_Reddit%20ads-1a.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/reddit-ads",
+    "title": "Reddit Ads",
+    "author": "",
+    "extra_text": "Get a free responsive Looker Studio template to analyze your Reddit Ads."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67eaa8f964ae4114d02f1f5d_Pinterest%20Ads-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/pinterest-ads",
+    "title": "Pinterest Ads",
+    "author": "",
+    "extra_text": "Get a free Looker Studio template to analyze your Pinterest Ads data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67e2ca3f1802919b703a6010_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-search-console",
+    "title": "Google Search Console (GSC)",
+    "author": "",
+    "extra_text": "Get a free Looker Studio template to analyze your GSC data visually."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67d98ed91d2c1c71ab1eb33b_GA4-overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-analytics-4-quick-view",
+    "title": "Google Analytics 4 - Quick view",
+    "author": "",
+    "extra_text": "Get a quick overview of your website activity and audience. Free & ready to use in Looker Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67d2a59d50e33e83a556b67c_Google%20Ads-3.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-ads-keyword-performance",
+    "title": "Google Ads Keyword Performance",
+    "author": "",
+    "extra_text": "Analyze your keyword performance with a streamlined 1-page Looker Studio dashboard."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67c5c3e1345d8afad80b8e54_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/snapchat-ads",
+    "title": "Snapchat Ads",
+    "author": "",
+    "extra_text": "Quick view of your Snapchat Ads performances. Easily analyze your campaign with our Looker Studio template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67bf25bbcfa16e9922c3480b_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/pipedrive",
+    "title": "Pipedrive",
+    "author": "",
+    "extra_text": "Track your deals with a simple dashboard available on Looker Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67b48f855130118d9eda63fe_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/woocommerce",
+    "title": "WooCommerce",
+    "author": "",
+    "extra_text": "Ready-to-use dashboard template to analyze your e-commerce performances with WooCommerce."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67ab7efcc88ef3c8feb95dab_Instagram%20Public%20Data.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-instagram-public-data",
+    "title": "Facebook & Instagram Public data",
+    "author": "",
+    "extra_text": "Analyze and compare your competitors' performances on Instagram and Facebook effortlessly! Gain valuable insights with our Looker Studio dashboard."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67a5e2f94bbd7d08714fd58a_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/meta-ads-campaign-objective",
+    "title": "Meta Ads - Campaign Objective",
+    "author": "",
+    "extra_text": "Complete overview of your Meta Ads performances by Campaign Objective. Get it for free."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/679b7a2ca382a556ce0f76e3_Sponso%20product-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/amazon-ads",
+    "title": "Amazon Ads",
+    "author": "",
+    "extra_text": "Complete dashboard template of all the essential KPIs by campaign, integrated in Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/678faaf4c5b0d0c621391422_Pinterest%20Organic-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/pinterest-organic-dashboard",
+    "title": "Pinterest Organic dashboard",
+    "author": "",
+    "extra_text": "Get an overview of your Pinterest organic KPIs on Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6789228215d0c4643225641b_Capture%20d%E2%80%99e%CC%81cran%202025-01-16%20a%CC%80%2016.07.29.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-ads-funnel",
+    "title": "Google Ads Funnel",
+    "author": "",
+    "extra_text": "Analyze your Google Ads campaign in three stages: Awareness (visibility), Consideration (engagement), and Conversion (sales)."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/677d4e367ef1fc53f3c89eac_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-page",
+    "title": "LinkedIn Pages",
+    "author": "",
+    "extra_text": "Track the impact of your employer brand with a comprehensive overview of your LinkedIn Page KPIs."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6762e0a81e49097106760770_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/app-store-connect",
+    "title": "App Store Connect",
+    "author": "",
+    "extra_text": "Quick overview of your app performances on Looker Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67614f9ff384131815769126_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-play-store-overview",
+    "title": "Google Play Store Overview",
+    "author": "",
+    "extra_text": "Easily analyze the performance of your apps on Google Play Store with Looker Studio's ready-to-use dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67602cdab30ebb9b1a246ec2_Template%20Tiktok%20Organic.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-organic",
+    "title": "TIkTok Organic",
+    "author": "",
+    "extra_text": "A quick view of your Tiktok organic KPIs to easily analyze your account!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/675819929d17d73b0f524cd7_GMC%20-%20Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-merchant-center",
+    "title": "Google Merchant Center (GMC)",
+    "author": "",
+    "extra_text": "Get a complete overview of your Google Merchant Center insights! Ready-to-use dashboard template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67518008d3e75ee916b0867b_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/instagram",
+    "title": "Instagram",
+    "author": "",
+    "extra_text": "Get a clear overview of your Instagram performance with this 3-page dashboard template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6749b205595a78b4084d1255_1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-pages-insight-dashboard",
+    "title": "Facebook Pages Insight",
+    "author": "",
+    "extra_text": "Easily analyse Facebook Pages performance! Free template ready-to-use."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/673cae34069e9fb12e3b54e9_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/microsoft-ads",
+    "title": "Microsoft Ads",
+    "author": "",
+    "extra_text": "Follow essential KPIs of your Microsoft Ads campaign! Ready-to-use dashboard template for Looker Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/673498426cfb2042333b157e_TikTok%20Ads-overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-ads-performance",
+    "title": "TikTok Ads Performance",
+    "author": "",
+    "extra_text": "Essential KPIs to follow your Tiktok ads campaign and take well-considered decision. Ready-to-use dashboard template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6733736156115062f5d02eeb_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/social-media-organic-overview",
+    "title": "Social Media Organic Overview",
+    "author": "",
+    "extra_text": "Get an overview of your social media, in a single template dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67238e5b9dd531eb210c9dca_overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/youtube",
+    "title": "Youtube Analytics",
+    "author": "",
+    "extra_text": "Ready-to-use template to analyze your Youtube video performances!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/671a63f54c19fced6706ad9b_Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/seo-overview",
+    "title": "SEO overview",
+    "author": "",
+    "extra_text": "SEO dashboard template using Google Analytics 4 and Google Search Console data!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/670699cd98872542a83058b2_LinkedIn-Ads-Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-ads",
+    "title": "LinkedIn Ads - Global Overview",
+    "author": "",
+    "extra_text": "Global dashboard template overview of the essential metrics to understand and improve your results on LinkedIn Ads!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6700013d30a22196e51b653f_Google-ads-overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-ads",
+    "title": "Google Ads KPIs",
+    "author": "",
+    "extra_text": "Google Ads most essential KPIs in 1 template dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/66f3e2bf7e30e8efc2948a29_GMB-1.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-my-business-overview",
+    "title": "Google My Business - Global Overview",
+    "author": "",
+    "extra_text": "Follow your reviews and rating of your GMB account!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/66eac0453dbd4ce7b563a3ce_GA4-Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-analytics-4",
+    "title": "Google Analytics 4",
+    "author": "",
+    "extra_text": "Follow the activity on your website thanks to this GA4 dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/66e42f21fd5f53abc489d0fd_Meta-Overview.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/meta-ads",
+    "title": "Meta Ads",
+    "author": "",
+    "extra_text": "Follow your Facebook Ads campaign easily with a 4 pages complete dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/66a365d3bc2d46e7354a5a96_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/piwik-overview",
+    "title": "Piwik Overview",
+    "author": "",
+    "extra_text": "Ready-to-use Piwik template for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/662fb39b581b1ccebbcc87d3_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/twitter-ads-audience",
+    "title": "Twitter Ads Audience",
+    "author": "",
+    "extra_text": "Get an overview of your X (Twitter) ads audience with the ready-to-copy templates for Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/662fad2098d459143fec164b_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/twitter-ads-overview",
+    "title": "Twitter Ads Overview",
+    "author": "",
+    "extra_text": "Get a full Twitter Ads dashboard for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/66017b62d34f84f0aad0b34e_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-play-store",
+    "title": "Google Play Store",
+    "author": "",
+    "extra_text": "Get a quick reviews of your App Install and reviews with this ready-to-copy template for Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65f8a6945391c8568686a9f9_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-merchant-center-template",
+    "title": "Google Merchant Center Template",
+    "author": "",
+    "extra_text": "Google Merchant Center template for Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65f85f88c2518eac112e596c_tempsnip.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/stripe",
+    "title": "Stripe",
+    "author": "",
+    "extra_text": "Ready-to-share Stripe dashboard for Looker Studio made by Catchr"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65e5a9c20636543d0b4734db_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/apple-search-ads---overview",
+    "title": "Apple Search Ads - Overview",
+    "author": "",
+    "extra_text": "Apple Search Ads Overview template for Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65e58022925dbddd233067b3_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/spotify-ads-overview",
+    "title": "Spotify Ads Overview",
+    "author": "",
+    "extra_text": "Spotify overview dashboard Looker Studio, ready-to-copy and ready-to-share!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65cf337f13269306e770f517_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/pinterest-ads-overview-v2",
+    "title": "Pinterest Ads Overview v3",
+    "author": "",
+    "extra_text": "Complete overview for your Pinterest Ads in Looker Studio"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65c4de705ae36d6a248eb4d0_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-brevo-campaign-insight",
+    "title": "Template Brevo Campaign Insight",
+    "author": "",
+    "extra_text": "Ready-to-copy Brevo template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65ba5fe4377cb450ddf2a144_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-linkedin-company-pages",
+    "title": "Template LinkedIn Company Pages Overview",
+    "author": "",
+    "extra_text": "Ready-to-copy and share dashboard for LinkedIn Company Page !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/659e9910d214fb14f6d3e935_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-hubspot-overview",
+    "title": "Template Hubspot Overview",
+    "author": "",
+    "extra_text": "Get an overview of your Hubspot quickly with this ready to copy template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65968d0470e46bddcd9ae574_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-meta-ads-overview-v2",
+    "title": "Template Meta Ads - Overview V2",
+    "author": "",
+    "extra_text": "Get an overview of your Meta Ads campaign quickly with this ready to copy template for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65968ac160dd4cf3456e4da0_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-tiktok-ads-ecommerce",
+    "title": "Template Tiktok Ads Overview Ecommerce",
+    "author": "",
+    "extra_text": "Get an overview of your Tiktok Ads campaign quickly with this ready to copy template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6564b0f42756f29c17852603_GMB2.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-google-my-business-v2",
+    "title": "Template Google My Business V2",
+    "author": "",
+    "extra_text": "Free Google My Business template for Looker Studio, check your search impressions progress, questions asked and reviews from customers!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/654cb22c89775ab0fdbfbfb7_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-klaviyo",
+    "title": "Template Klaviyo -  Campaign Overview",
+    "author": "",
+    "extra_text": "Analyze your Klaviyo campaign and share your performance easily with this free template for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6543b99e1962cffaf9e404b8_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-shopify-overview",
+    "title": "Template Shopify Overview",
+    "author": "",
+    "extra_text": "Overview of your Shopify account, follow your sales and customer easily with this ready-to-copy template for Shopify!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6544f2aad8e716a099122673_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-activecampaign-campaign-overview",
+    "title": "Template ActiveCampaign - Campaign Overview",
+    "author": "",
+    "extra_text": "Get your free ActiveCampaign template for Looker Studio and start analyzing your campaign results in no time!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/652d4a474d8d87c3144ededd_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-mailchimp-campaign-overview",
+    "title": "Template Mailchimp - Campaign Overview",
+    "author": "",
+    "extra_text": "Mailchimp Email campaign overview - analyze and share your campaign easily with this ready-to-go template for Looker Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65279863d8eb0b2b1dbd1968_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-matomo-visits-behaviours-acquisition",
+    "title": "Template Matomo - Visits / Behaviours / Acquisition",
+    "author": "",
+    "extra_text": "Accelerate your reporting creation with this ready-to-copy Matomo templates for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/64a3d5dc1cdf81203c1ce650_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-pinterest-overview-v2",
+    "title": "Template Pinterest Overview V2",
+    "author": "",
+    "extra_text": "Ready-to-copy Pinterest Ads template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6448dbf73336f63c4220fb96_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-google-ads-overview-v2",
+    "title": "Template Google Ads Overview V2",
+    "author": "",
+    "extra_text": "A new design for our Google Ads Overview templates for Looker Studio! Get a ready-to-copy beautiful dashboard for your presentation!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/642d9397e8a3e928c9066f68_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/catchr-facebook-pages-template-v2",
+    "title": "Template Facebook Pages - QuickView V2",
+    "author": "",
+    "extra_text": "Get a quick view of your Facebook Pages KPIs with this redesigned template!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6426f2b5a937cc8178332a4b_Screen%20Shot%202023-03-31%20at%204.47.56%20PM.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-facebook-ads-overview-v2",
+    "title": "Template Facebook Ads - Overview v2",
+    "author": "",
+    "extra_text": "Get an overview of your Facebook Ad campaign with this second versions of our Facebook Ads template!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/642309c6aed48c10dc85a50d_Screen%20Shot%202023-03-28%20at%205.37.22%20PM.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-linkedin-ads-leads-performance",
+    "title": "Template LinkedIn Ads - Leads Performance",
+    "author": "",
+    "extra_text": "Get a ready-to-copy Looker Studio template for your LinkedIn Ads account and start analyzing your leads generation performance!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/640849b01cb61df86687446c_Capture%20d%E2%80%99e%CC%81cran%202023-03-08%20a%CC%80%2009.38.17.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-microsoft-ads-overview-v2",
+    "title": "Template Microsoft Ads - Overview - V2",
+    "author": "",
+    "extra_text": "Ready-to-copy Looker Studio Template Overview for your Microsoft Ads account by Catchr."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63fe25812bb68b41faf939d1_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/snapchat-ads-overview",
+    "title": "Snapchat Ads - Overview",
+    "author": "",
+    "extra_text": "Check on your ads performance on Snapchat Ads with this ready-to-copy templates for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63fca58f5cdc245be2fae567_Capture%20d%E2%80%99e%CC%81cran%202023-02-27%20a%CC%80%2013.38.10.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/instagram-followers",
+    "title": "Instagram Followers",
+    "author": "",
+    "extra_text": "You'll get to know everything about your followers with this Instagram template for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63f757451a562563d1f2e93b_Capture%20d%E2%80%99e%CC%81cran%202023-02-23%20a%CC%80%2013.08.20.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-instagram-quickview",
+    "title": "Template Instagram Quickview",
+    "author": "",
+    "extra_text": "Quick View of your Instagram post and profile! Debrief your Instagram performance easily with this ready-to-go template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6718b6ac23942717af0488af_tiktok%20quickview%20profil.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-quickview",
+    "title": "Template Tiktok Quickview",
+    "author": "",
+    "extra_text": "Quickview of your TikTok Account: How many followers? Views and likes on videos? Everything is in this template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63e39361c958f2bbbda1ed99_Capture%20d%E2%80%99e%CC%81cran%202023-02-08%20a%CC%80%2013.18.06.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-linkedin-ads-post-overview",
+    "title": "Template LinkedIn Ads - Post overview",
+    "author": "",
+    "extra_text": "Get a quick insight into your LinkedIn Ads account and check which post has the best performance!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63da2a732b059e203bbd243b_Capture%20d%E2%80%99e%CC%81cran%202023-02-01%20a%CC%80%2010.01.26.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-facebook-pages-quickview",
+    "title": "Template Facebook - Quickview",
+    "author": "",
+    "extra_text": "Get a quick insight of your Facebook Pages growth with this ready to go template for Looker Studio !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6385d0fc1d98dd590f08be9d_Capture%20d%E2%80%99e%CC%81cran%202022-11-29%20a%CC%80%2010.29.16.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/meta-ads-platform-performance",
+    "title": "Template Meta Ads - Platform Performance",
+    "author": "",
+    "extra_text": "Compare your Ads performance on the Meta platform thanks to this go-to template for Looker Studio!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/637e1e4a29483df7dbd0fe24_Capture%20d%E2%80%99e%CC%81cran%202022-11-23%20a%CC%80%2014.12.31.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/youtube-analytics-template",
+    "title": "Youtube Analytics Template",
+    "author": "",
+    "extra_text": "Get a quick insight on your Youtube Channel ! How many views, likes, shares do you have by video? How many new subscriber this week?"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6375f05726d0a7b8b4ed83b3_Capture%20d%E2%80%99e%CC%81cran%202022-11-17%20a%CC%80%2009.26.33.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-ads-overview",
+    "title": "​Tiktok Ads - Overview",
+    "author": "",
+    "extra_text": "Quick insight on your Tiktok Ads account ! Get information about your visibility, your investment and your result easily !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/636cc9e26f2a8fc024421581_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-search-console-query-insight",
+    "title": "Google Search Console - Query Insight",
+    "author": "",
+    "extra_text": "Get a free template for your Google Search Console data, copy it and use it in 2 minutes !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/635951face4e0f7f8a84cfd9_Capture%20d%E2%80%99e%CC%81cran%202022-10-26%20a%CC%80%2017.24.08.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/microsoft-ads-budget-template",
+    "title": "Microsoft Ads - Budget Template",
+    "author": "",
+    "extra_text": "Manage your budget easily thanks to this ready to go 1-page template for Microsoft Ads in Looker Studio (ex Google Data Studio)."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/635919472568c92a9d655e97_Capture%20d%E2%80%99e%CC%81cran%202022-10-26%20a%CC%80%2013.22.51.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/microsoft-ads-overview",
+    "title": "Microsoft Ads - Overview",
+    "author": "",
+    "extra_text": "This is a full report for you Microsoft Ads account, you'll get to know everything about how your ads are displayed, how many clicks it gets, what it cost and for which result !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63529b6cab1db6d98035c3bc_Capture%20d%E2%80%99e%CC%81cran%202022-10-21%20a%CC%80%2015.14.17.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-page-page-insight",
+    "title": "LinkedIn Pages - Company Page Insight",
+    "author": "",
+    "extra_text": "Get a quick insight of your Company Page Views and Company Page Follower. Where do they come from, which Industry, which company, how old are they?"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/634fa1eb895e3c22693f56ef_Capture%20d%E2%80%99e%CC%81cran%202022-10-19%20a%CC%80%2009.05.06.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-pages-post-insight",
+    "title": "LinkedIn Pages - Post Insight",
+    "author": "",
+    "extra_text": "You want a quick view of your post performance for your LinkedIn Business Pages ? Here is your ready to go report!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6349493ea75ed2b2c08416a4_Capture%20d%E2%80%99e%CC%81cran%202022-10-14%20a%CC%80%2013.34.11.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-my-business-questions-and-reviews-report",
+    "title": "Google My Business Reviews and Questions report",
+    "author": "",
+    "extra_text": "Look into your most recent reviews, your worst reviews, questions without answer and recent question easily with this ready to go template for Google My Business"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/634721b31b95e44a7b2dd4bb_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-ads-budget-report",
+    "title": "Tiktok Ads Budget Report",
+    "author": "",
+    "extra_text": "Follow your budget and revenue on Tiktok Ads easily with this ready to go template !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6332b609aeec8c15347ff5d1_Capture%20d%E2%80%99e%CC%81cran%202022-09-27%20a%CC%80%2010.35.27.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-ads-budget-report",
+    "title": "LinkedIn Ads Budget Report",
+    "author": "",
+    "extra_text": "Keep your objective in sight with this budget report template for LinkedIn Ads on Google Data Studio."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/632b40d6d945333e33198078_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/linkedin-ads-lead-generation",
+    "title": "LinkedIn Ads Lead Generation",
+    "author": "",
+    "extra_text": "Sum up your lead generation result on LinkedIn Ads thanks to this free templates."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63282779cd4b8a26d5dc2a05_Capture%20d%E2%80%99e%CC%81cran%202022-09-19%20a%CC%80%2010.25.06.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-analytics-funnel-template",
+    "title": "Google Analytics Funnel Template",
+    "author": "",
+    "extra_text": "Learn everything you can about your funnel on your e-commerce website."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/631b4a1db55a24744194328b_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-ads-budget-template",
+    "title": "Google Ads Budget Template",
+    "author": "",
+    "extra_text": "Get a hold on your Google Ads Budget with this on-page template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/631b05c6abb33520eedb8dd5_Capture%20d%E2%80%99e%CC%81cran%202022-09-09%20a%CC%80%2011.21.33.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-ads-funnel-template",
+    "title": "Google Ads Funnel Template",
+    "author": "",
+    "extra_text": "Learn everything about each step of your funnel for your Google Ads campaign."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/630c8a2e6e7f64ec3f841225_facebook%20ads%20funnel%20capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-ads-funnel-template",
+    "title": "Facebook Ads Funnel Template",
+    "author": "",
+    "extra_text": "Learn everything about each step of your funnel for your Facebook Ads campaign."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63170694ccbf3c521ee2f5e2_Capture%20d%E2%80%99e%CC%81cran%202022-09-06%20a%CC%80%2010.36.18.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-funnel-template",
+    "title": "Facebook Funnel Template",
+    "author": "",
+    "extra_text": "Learn how your user go through your content once it has been seen!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/630dca9f5d55d3801bb8f52b_Capture%20d%E2%80%99e%CC%81cran%202022-08-30%20a%CC%80%2010.30.00.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-ads-budget-template",
+    "title": "Facebook Ads Budget Template",
+    "author": "",
+    "extra_text": "Follow your budget on Facebook Ads thanks to this one page template !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/631a0345878e577a96e9accd_Capture%20d%E2%80%99e%CC%81cran%202022-09-08%20a%CC%80%2016.58.55.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-ads-shopping-template",
+    "title": "Facebook Ads Shopping Template",
+    "author": "",
+    "extra_text": "Learn everything about your product shop on Facebook Ads Shopping !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/63049cb544ef1126c703f459_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-profil-report",
+    "title": "Tiktok Profil Report",
+    "author": "",
+    "extra_text": "Debrief your Tiktok profile performance, see how many times your content has been seen, liked, shared and commented."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62da551980f7f3bc1a7da441_tiktok%20video%20ads.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/template-tiktok-ads-video-views-performance",
+    "title": "Tiktok Ads video performance",
+    "author": "",
+    "extra_text": "Check on your video performance with this Tiktok ads template for Google Data Studio and optimize your ads easily."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62c5a24f78f629acc12a32a5_Capture%20d%E2%80%99e%CC%81cran%202022-07-06%20a%CC%80%2016.54.45.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/facebook-ads",
+    "title": "Facebook Ads",
+    "author": "",
+    "extra_text": "New Designed Facebook Ads Templates ! Check on your performance with this 4 pages reports and discover new information to manage your ads."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62b57d348d298a5a53afe443_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/google-analytics-template",
+    "title": "Google Analytics Template",
+    "author": "",
+    "extra_text": "Get a custom report for your Google Analytics 4 account. Adapt it to fit your needs and start reporting in a minutes !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62a83c2a7317e27e8565164d_Capture%20d%E2%80%99e%CC%81cran%202022-06-14%20a%CC%80%2008.51.31.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/instagram-post-insight",
+    "title": "Instagram - Post Insight",
+    "author": "",
+    "extra_text": "Get a quick view of your Post on your Instagram Page ! How many impressions do you make, how many people do you reach?"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62a6ff3e2dc88da38dc945c2_Capture%20d%E2%80%99e%CC%81cran%202022-06-13%20a%CC%80%2011.08.52.png",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/tiktok-ads-quickview",
+    "title": "TikTok Ads - Quickview",
+    "author": "",
+    "extra_text": "Get insight about your reach, the engagement your content generate and the outcome of all of your Tiktok Ads!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/62971d89ee09af6e18479ae2_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/looker-studio-templates/pinterest-quickview",
+    "title": "Pinterest Ads - Quickview",
+    "author": "",
+    "extra_text": "Get meaningful insight of what happens with your ads on Pinterest and dive into your campaign easily!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/686664670bbde330596765f9_YOUTUBE-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/youtube-analytics",
+    "title": "Youtube Analytics",
+    "author": "",
+    "extra_text": "Free Google Sheets template to track your YouTube channel performance and video metrics."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68493ed4328545091d5d83d3_pinterest-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/pinterest-organic-pinterest-ads",
+    "title": "Pinterest Organic & Pinterest Ads",
+    "author": "",
+    "extra_text": "Free Google Sheets template to track Pinterest Organic and Ads performance in one place."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6842f4d101f4e42f3c0c9d16_social-media-organic-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/social-media-organic-performances",
+    "title": "Social Media Organic Performances",
+    "author": "",
+    "extra_text": "Free Google Sheets template to track organic performance on Facebook, Instagram, LinkedIn, TikTok, and Pinterest. All in one place."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/683591d651a3352030a8338e_ads-perf-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/ads-performance-report",
+    "title": "Ads Performance report",
+    "author": "",
+    "extra_text": "Free Google Sheets template to track and compare Google, Microsoft, and Meta Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/682d99f3da6c19e98604f780_GMC-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/google-merchant-center",
+    "title": "Google Merchant Center (GMC)",
+    "author": "",
+    "extra_text": "Free Google Sheets template to track GMC performance and product issues."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68273ac569a5faa1b0d3ae8d_SEO-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/seo-report",
+    "title": "SEO report",
+    "author": "",
+    "extra_text": "Get a free, ready-to-use Google Sheets template to track your SEO with GA4 and GSC."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/681a1cd714b4245eaea0fa8d_Facebook%20pages-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/facebook-pages",
+    "title": "Facebook Pages",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your Facebook Pages performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6811dc9768ad05491dee0f19_Microsoft%20ads-overview.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/microsoft-ads",
+    "title": "Microsoft Ads",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your Microsoft Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68026556d7943a679eb099c5_Tiktok-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/tiktok-organic-tiktok-ads",
+    "title": "TikTok Organic & TikTok Ads",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your TikTok Organic and TikTok Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/680f2ab9979f6c79e21d53b3_linkedin-1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/linkedin-pages-linkedin-ads",
+    "title": "LinkedIn Pages & LinkedIn Ads",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your LinkedIn Pages and LinkedIn Ads performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67f8cf67d1d997a80beefb33_Overviex.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/instagram",
+    "title": "Instagram",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your organic Instagram performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67efed5389efdf7ffb2d3516_gsc-overview.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/google-search-console",
+    "title": "Google Search Console (GSC)",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to analyze your Google Search Console data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67f671ec7cbff610e8587eca_Overview.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/google-my-business",
+    "title": "Google My Business (GMB)",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to track your Google My Business data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67e18278c68bf5bb56b01abf_Overview.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/google-analytics-4",
+    "title": "Google Analytics (GA4)",
+    "author": "",
+    "extra_text": "Get a free Google Sheets template to analyze your GA4 data."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67e1883855d1bea729104a73_1.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/google-ads",
+    "title": "Google Ads",
+    "author": "",
+    "extra_text": "Track and optimize your Google Ads campaigns with this Google Sheets template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/67cfea60747417af601237a6_Overview.png",
+    "source_link": "https://www.catchr.io/template/google-sheets-templates/meta-ads",
+    "title": "Meta Ads",
+    "author": "",
+    "extra_text": "Gain a complete and insightful view of your Meta Ads performance with this ready-to-use Google Sheets dashboard!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68a6ec233fd221a2e418c559_1.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/meta-ads-campaign-platform",
+    "title": "Meta Ads Performances",
+    "author": "",
+    "extra_text": "Free Power BI template to track Meta Ads performance by campaign and platform (Facebook & Instagram)."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/689c6582c523e15e9d032fe1_GSC-1.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/google-search-console-insight",
+    "title": "Google Search Console Insight",
+    "author": "",
+    "extra_text": "Free Power BI template to analyze your Google Search Console data and SEO performance."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/68594c16c186dc7d0c871e1e_GA4-1.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/google-analytics-4-quick-view",
+    "title": "Google Analytics 4 (GA4)",
+    "author": "",
+    "extra_text": "Free Power BI template to analyze your Google Analytics 4 data in a visual, structured report."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6895d8656b3d18c24283f923_tiktok-template.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/tiktok-profil-video-insight",
+    "title": "Tiktok Profil Video Insight",
+    "author": "",
+    "extra_text": "Bring your Tiktok video performance into Power BI easily thanks to this ready-to-use template."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6895d64ccf5cba14f9df80e0_brevo-template.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/template-brevo-campaign-insight",
+    "title": "Brevo Campaign Insight",
+    "author": "",
+    "extra_text": "Brevo Campaign Insight template for Power BI!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6895d66c600fe67e9f3f0542_linkedin-page-template.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/linkedin-company-page-overview",
+    "title": "LinkedIn Company Page Overview",
+    "author": "",
+    "extra_text": "Bring your LikedIn Company Page data into Power BI thanks to this ready-to-copy template !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65b75950cdec57eabca6ace5_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/instagram-followers-overview",
+    "title": "Instagram Followers Overview",
+    "author": "",
+    "extra_text": "Get a quick followers insight report for Instagram on Power BI !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65b75ed5adf3e5f1448d1240_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/instagram-post-overview",
+    "title": "Instagram Post Overview",
+    "author": "",
+    "extra_text": "Get an overview of your Instagram Post in not time with this ready-to-go template for Power BI"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6895d376e71eff6152541bde_tiktok-ads-template.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/tiktok-ads---overview",
+    "title": "Tiktok Ads - Overview",
+    "author": "",
+    "extra_text": "Ready-to-use Tiktok Ads template for Power BI. Get insight on your campaigns, ad groups and ads quickly and easily!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6895d20060c2d4480e36562a_activecampaign-template.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/template-activecampaign-campaign-overview",
+    "title": "ActiveCampaign Overview",
+    "author": "",
+    "extra_text": "Analyze your ActiveCampaign emails campaign easily with this ready-to-go template for Power BI!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/689af1572015ad360cc25495_Google%20My%20Business-1.png",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/google-my-business-overview",
+    "title": "Google My Business Overview",
+    "author": "",
+    "extra_text": "Google My Business template for Power BI, be ready to follow your evolution in no-time!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/656473f2f3660070ad0a7f9f_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/google-analytics-4",
+    "title": "Google Analytics 4",
+    "author": "",
+    "extra_text": "Get your free Power BI template for Google Analytics 4 and start analyzing your traffic and visits in no time !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/655e2384cefd343bc07b7b69_Linkedinads%20template.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/linkedin-ads-overview",
+    "title": "LinkedIn Ads Overview",
+    "author": "",
+    "extra_text": "Get your LinkedIn Ads data to Power BI easily and share your report with your team."
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65b38c9f6be26c7398f98c32_Capture.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/snapchat-ads-overview",
+    "title": "Snapchat Ads Overview",
+    "author": "",
+    "extra_text": "Free ready-to-go Snapchat Ads template for Power BI ! Get your dashboard and share it quickly with all your team!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/6511a0f45785dd395bb9104f_PowerBI%20Pinterest%201.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/pinterest-ads-overview",
+    "title": "Pinterest Ads Overview",
+    "author": "",
+    "extra_text": "Free Pinterest Ads for Power BI template! Get ready to to analyze and share your results with your team quickly!"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/65117a295c7af2600ff8fa6f_PowerBI%20Bingads1.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/microsoft-ads-overview",
+    "title": "Microsoft Ads Overview",
+    "author": "",
+    "extra_text": "Free Microsoft Ads template for Power BI"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/650b044ac15d94b606162f9e_MetaAds%20PBI1.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/meta-ads-overview",
+    "title": "Meta Ads Overview",
+    "author": "",
+    "extra_text": "Get a free Meta Ads template for Power BI and start analyzing your ads on Facebook, Instagram or Messenger !"
+  },
+  {
+    "thumbnail": "https://cdn.prod.website-files.com/61f0f48a97255128fb175a87/650ae95131e66f34aa2c92a2_Pbi%20gads%201.PNG",
+    "source_link": "https://www.catchr.io/template/power-bi-templates/google-ads-overview",
+    "title": "Google Ads Overview",
+    "author": "",
+    "extra_text": "Get a customizable template for Google Ads in Power BI and start debriefing your ads easily!"
+  }
+]

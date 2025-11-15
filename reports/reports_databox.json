@@ -21,13 +21,6 @@
     "extra_text": "Google Analytics 4"
   },
   {
-    "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleAd5.png",
-    "source_link": "https://databox.com/metric-library/data-source/google-ads",
-    "title": "Google Ads",
-    "author": "",
-    "extra_text": "Google Ads"
-  },
-  {
     "thumbnail": "https://cdn1.databox.com/images/apps/s/GoogleSearchConsole.png",
     "source_link": "https://databox.com/metric-library/data-source/google-search-console",
     "title": "Google Search Console",

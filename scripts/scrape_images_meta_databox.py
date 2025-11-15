@@ -170,33 +170,59 @@ def extract_image_metadata(img_tag, base_url: str) -> dict:
     else:
         metadata["thumbnail"] = ""
     
-    anchor = img_tag.find_parent("a", href=True)
-    if anchor:
-        metadata["source_link"] = urljoin(base_url, anchor["href"])
-    else:
-        metadata["source_link"] = ""
+    # For Databox template cards, look for parent dbx-template-card container
+    template_card = img_tag.find_parent("div", class_=lambda x: x and "dbx-template-card" in x)
     
-    title = img_tag.get("alt") or img_tag.get("title")
-    if not title:
-        # Check parent figure or caption
-        figure = img_tag.find_parent("figure")
-        if figure:
-            caption = figure.find("figcaption")
-            if caption:
-                title = caption.get_text(strip=True)
-    metadata["title"] = title or ""
+    if template_card:
+        # Extract title from h4.dbx-template-card__title
+        title_elem = template_card.find("h4", class_=lambda x: x and "dbx-template-card__title" in x)
+        if title_elem:
+            metadata["title"] = title_elem.get_text(strip=True)
+        else:
+            metadata["title"] = ""
+        
+        # Extract source link from a.dbx-container-anchor
+        anchor = template_card.find("a", class_=lambda x: x and "dbx-container-anchor" in x)
+        if anchor and anchor.get("href"):
+            metadata["source_link"] = urljoin(base_url, anchor["href"])
+        else:
+            metadata["source_link"] = ""
+        
+        # Extract extra_text from p.dbx-template-card__text
+        text_elem = template_card.find("p", class_=lambda x: x and "dbx-template-card__text" in x)
+        if text_elem:
+            metadata["extra_text"] = text_elem.get_text(" ", strip=True)
+    else:
+        # Fallback to original logic for non-Databox structures
+        anchor = img_tag.find_parent("a", href=True)
+        if anchor:
+            metadata["source_link"] = urljoin(base_url, anchor["href"])
+        else:
+            metadata["source_link"] = ""
+        
+        title = img_tag.get("alt") or img_tag.get("title")
+        if not title:
+            # Check parent figure or caption
+            figure = img_tag.find_parent("figure")
+            if figure:
+                caption = figure.find("figcaption")
+                if caption:
+                    title = caption.get_text(strip=True)
+        metadata["title"] = title or ""
     
     metadata["author"] = _find_author(img_tag)
     
-    figure = img_tag.find_parent("figure")
-    caption_text = ""
-    if figure:
-        caption = figure.find("figcaption")
-        if caption:
-            caption_text = caption.get_text(" ", strip=True)
-    nearby_text = _get_nearby_text(img_tag)
-    
-    metadata["extra_text"] = caption_text or nearby_text
+    # Only set extra_text if it wasn't already set from Databox template
+    if "extra_text" not in metadata or not metadata.get("extra_text"):
+        figure = img_tag.find_parent("figure")
+        caption_text = ""
+        if figure:
+            caption = figure.find("figcaption")
+            if caption:
+                caption_text = caption.get_text(" ", strip=True)
+        nearby_text = _get_nearby_text(img_tag)
+        
+        metadata["extra_text"] = caption_text or nearby_text
     
     return metadata
 
