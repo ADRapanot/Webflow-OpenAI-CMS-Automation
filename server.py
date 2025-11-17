@@ -61,12 +61,11 @@ def fetch_and_save_collection_schema(collection_id: str, webflow_token: str) -> 
 def download_thumbnail(url, output_dir="downloaded_thumbnails"):
     """Download an image from the given URL and return its local file path."""
     import uuid
-    
+
     os.makedirs(output_dir, exist_ok=True)
     # Use the last segment as filename, with fallback to a unique name
-    filename = url.split("/")[-1].split("?")[0]
-    if not filename:
-        filename = str(uuid.uuid4())
+    filename =str(uuid.uuid4())
+
     
     try:
         logging.info(f"Downloading thumbnail from: {url}")
@@ -201,114 +200,7 @@ def process_webhook_item(
     else:
         keywords = tags if tags else ''
     
-    # link = field_data.get('link') or field_data.get('source-url', '')
-    
-    # if not link:
-    #     logging.error("No link found in field_data")
-    #     return {"error": "No link field found in fieldData"}
-    
-    # if not keywords:
-    #     logging.warning("No keywords found, using 'dashboard' as default")
-    #     keywords = "dashboard"
-    
-    # logging.info(f"Processing item with keywords: '{keywords}' and link: {link}")
-    
-    # # Create directories for this processing run
-    # datetime_str = datetime.now().strftime("%Y%m%d_%H-%M-%S")
-    # slug_safe = slugify(keywords)
-    
-    # images_dir = Path("images") / f"{datetime_str}_{slug_safe}"
-    # best_match_dir = Path("best_match") / f"{datetime_str}_{slug_safe}"
-    
-    # try:
-    #     # Step 3: Scrape images using Selenium
-    #     logging.info(f"Scraping images from: {link}")
-        
-    #     saved_images = scrape_images_with_js(
-    #         url=link,
-    #         output_dir=images_dir,
-    #         keywords=None,  # Scrape ALL images, not just matching keywords
-    #         headless=True,
-    #         wait_time=5,
-    #         scroll=True,
-    #     )
-        
-    #     if not saved_images:
-    #         logging.warning(f"No images scraped from {link}")
-    #         return {"error": "No images found at the provided link", "skip_item": True}
-        
-    #     logging.info(f"Scraped {len(saved_images)} images")
-        
-    #     # Step 4: Select best image
-    #     # If only one image, skip AI selection and use it directly
-    #     if len(saved_images) == 1:
-    #         logging.info("Only one image found, skipping AI selection")
-    #         best = {
-    #             'path': saved_images[0],
-    #             'score': 100,
-    #             'reasoning': 'Only one image available, using it by default'
-    #         }
-    #     else:
-    #         # Multiple images: Use AI to select best
-    #         logging.info(f"Selecting best image from {len(saved_images)} using AI with keywords: {keywords}")
-            
-    #         api_key = os.getenv("OPENAI_API_KEY")
-    #         if not api_key:
-    #             logging.error("OPENAI_API_KEY not set")
-    #             return {"error": "OPENAI_API_KEY not configured"}
-            
-    #         best = None
-    #         threshold_score = 90.0
-            
-    #         for idx, image_path in enumerate(saved_images, 1):
-    #             try:
-    #                 logging.info(f"[{idx}/{len(saved_images)}] Analyzing {Path(image_path).name}")
-    #                 result = analyze_image(image_path, keywords, api_key)
-                    
-    #                 score = result['score']
-    #                 logging.info(f"Score: {score}/100 - {result['reasoning']}")
-                    
-    #                 if best is None or score > best['score']:
-    #                     best = {
-    #                         'path': image_path,
-    #                         'score': score,
-    #                         'reasoning': result['reasoning']
-    #                     }
-                    
-    #                 if score >= threshold_score:
-    #                     logging.info(f"Found match with score {score} >= {threshold_score}. Stopping.")
-    #                     break
-                    
-    #                 if idx % 10 == 0:
-    #                     logging.info(f"Batch complete. Best so far: {best['score']}/100")
-                        
-    #             except Exception as e:
-    #                 logging.error(f"Failed to analyze {Path(image_path).name}: {e}")
-            
-    #         # If no images could be analyzed, return error
-    #         if not best:
-    #             logging.warning(f"Failed to analyze any images")
-    #             return {"error": "Failed to analyze images", "skip_item": True}
-            
-    #         # Always use the best image found, even if score is low
-    #         logging.info(f"Selected image with highest score: {best['score']}/100")
-        
-    #     # Save best match
-    #     best_match_dir.mkdir(parents=True, exist_ok=True)
-    #     best_image_path = Path(best['path'])
-    #     dest_path = best_match_dir / best_image_path.name
-        
-    #     counter = 1
-    #     while dest_path.exists():
-    #         stem = best_image_path.stem
-    #         ext = best_image_path.suffix
-    #         dest_path = best_match_dir / f"{stem}_{counter}{ext}"
-    #         counter += 1
-        
-    #     shutil.copy2(best['path'], dest_path)
-    #     logging.info(f"Saved best match to: {dest_path}")
-        
-        # Step 5: Upload image to Webflow
+    # Step 5: Upload image to Webflow
     logging.info("Uploading image to Webflow...")
     imageData = download_thumbnail(field_data['thumbnail'])
     print(field_data)
@@ -351,10 +243,9 @@ def process_webhook_item(
     slug_remap = {
         "thumbnail": thumbnail_field,
         "tags": "tags-2",
-        "description": "post-summary",
-        "link": "source-url",
+        # "description": "post-summary",
+        # "link": "source-url",
     }
-    
     updated_field_data = {}
     for key, value in field_data.items():
         slug = slug_remap.get(key, key)
@@ -366,13 +257,13 @@ def process_webhook_item(
             value = ", ".join(value)
         
         updated_field_data[slug] = value
-    
+    print(field_data)
     updated_field_data[thumbnail_field] = {"url": thumbnail_url}
-    
+    updated_field_data['link'] = field_data['source-url']
     # Ensure required system fields exist
     updated_field_data.setdefault("_archived", False)
     updated_field_data.setdefault("_draft", False)
-    
+    print(updated_field_data)
     return {
         "success": True,
         "thumbnail_url": thumbnail_url,
@@ -490,7 +381,7 @@ def webhook_endpoint():
             return jsonify({'error': 'count must be an integer'}), 400
         
         # Extract topic from fieldData (slug or category)
-        topic = field_data.get('title', '') + ' ' + field_data.get('slug', '') + ' ' + field_data.get('description', '')
+        topic = field_data.get('title', '') + ' ' + field_data.get('description', '')
         Slug = field_data.get('slug', '')
         if not collection_id:
             return jsonify({'error': 'collection_id is required'}), 400
