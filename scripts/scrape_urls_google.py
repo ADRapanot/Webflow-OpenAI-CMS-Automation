@@ -38,7 +38,7 @@ TABLEAU_BASE = "https://public.tableau.com"
 # WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
 #     "https://www.catchr.io/template"
 # ]
-WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
+DATABOX_TEMPLATE_PAGES: Sequence[str] = [
     "https://databox.com/dashboard-examples/marketing",
     "https://databox.com/dashboard-examples/sales",
     "https://databox.com/dashboard-examples/customer-support",
@@ -107,6 +107,31 @@ WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
     "https://databox.com/dashboard-examples/freshbooks-dashboards",
     "https://databox.com/dashboard-examples/chartmogul-dashboards",
     "https://databox.com/dashboard-examples/ahrefs-dashboards",
+]
+
+WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
+    "https://portermetrics.com/en/templates/",
+    "https://portermetrics.com/en/templates/2",
+    "https://portermetrics.com/en/templates/3",
+    "https://portermetrics.com/en/templates/4",
+    "https://portermetrics.com/en/templates/5",
+    "https://portermetrics.com/en/dashboard-templates/",
+    "https://portermetrics.com/en/report-templates/",
+    "https://portermetrics.com/en/report-templates/2",
+    "https://portermetrics.com/en/report-templates/3",
+    "https://portermetrics.com/en/report-templates/4",
+    "https://portermetrics.com/en/templates/digital-marketing/",
+    "https://portermetrics.com/en/templates/e-commerce/",
+    "https://portermetrics.com/en/templates/ppc/",
+    "https://portermetrics.com/en/templates/social-media/",
+    "https://portermetrics.com/en/templates/lead-generation/",
+    "https://portermetrics.com/en/templates/facebook-ads/",
+    "https://portermetrics.com/en/templates/google-sheets/",
+    "https://portermetrics.com/en/templates/google-sheets/facebook-ads/",
+    "https://portermetrics.com/en/templates/google-sheets/ppc/",
+    "https://portermetrics.com/en/templates/google-sheets/social-media/",
+    "https://portermetrics.com/en/templates/google-sheets/e-commerce/",
+    "https://portermetrics.com/en/examples/",
 ]
 LOOKER_JS_URL = "https://lookerstudio.google.com/gallery/static/gallery/report_gallery_js.js"
 LOOKER_OUTPUT_PATH = Path(__file__).with_name("reports_looker.json")
