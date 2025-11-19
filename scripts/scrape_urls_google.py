@@ -379,8 +379,8 @@ def get_dashboards_from_sites(query: str = "", limit: Optional[int] = None, incl
 
     # Sort by score (descending), preserve original order for ties.
     results = sorted(results, key=relevance_score, reverse=True)
-    # Return only top 100 results.
-    results = results[:100]
+    # Return only top 300 results.
+    results = results[:300]
     return results
 
 
