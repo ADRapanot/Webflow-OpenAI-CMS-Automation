@@ -109,7 +109,7 @@ DATABOX_TEMPLATE_PAGES: Sequence[str] = [
     "https://databox.com/dashboard-examples/ahrefs-dashboards",
 ]
 
-WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
+PORTERMETRICS_TEMPLATE_PAGES: Sequence[str] = [
     "https://portermetrics.com/en/templates/",
     "https://portermetrics.com/en/templates/2",
     "https://portermetrics.com/en/templates/3",
@@ -132,6 +132,52 @@ WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
     "https://portermetrics.com/en/templates/google-sheets/social-media/",
     "https://portermetrics.com/en/templates/google-sheets/e-commerce/",
     "https://portermetrics.com/en/examples/",
+]
+AGENCYANALYTICS_TEMPLATE_PAGES: Sequence[str] = [
+    "https://agencyanalytics.com/templates"
+]
+WINDSOR_TEMPLATE_PAGES: Sequence[str] = [
+    "https://bymarketers.co/browse/business-processes/",
+    "https://bymarketers.co/browse/content-marketing/",
+    "https://bymarketers.co/browse/display-advertising/",
+    "https://bymarketers.co/browse/ecommerce/",
+    "https://bymarketers.co/browse/email-marketing/",
+    "https://bymarketers.co/browse/finance/",
+    "https://bymarketers.co/browse/graphic-design/",
+    "https://bymarketers.co/browse/paid-advertising/",
+    "https://bymarketers.co/browse/project-management/",
+    "https://bymarketers.co/browse/seo/",
+    "https://bymarketers.co/browse/social-media/",
+    "https://bymarketers.co/browse/ux/",
+    "https://bymarketers.co/platforms/amazon/",
+    "https://bymarketers.co/platforms/bing/",
+    "https://bymarketers.co/platforms/google-ads/",
+    "https://bymarketers.co/platforms/ga4/",
+    "https://bymarketers.co/platforms/google-my-business/",
+    "https://bymarketers.co/platforms/google-search-console/",
+    "https://bymarketers.co/platforms/instagram/",
+    "https://bymarketers.co/platforms/linkedin/",
+    "https://bymarketers.co/platforms/mailchimp/",
+    "https://bymarketers.co/platforms/meta/",
+    "https://bymarketers.co/platforms/notion/",
+    "https://bymarketers.co/platforms/other/",
+    "https://bymarketers.co/platforms/pinterest/",
+    "https://bymarketers.co/platforms/salesforce/",
+    "https://bymarketers.co/platforms/semrush/",
+    "https://bymarketers.co/platforms/shopify/",
+    "https://bymarketers.co/platforms/snapchat/",
+    "https://bymarketers.co/platforms/tik-tok/",
+    "https://bymarketers.co/file-type/clickup/",
+    "https://bymarketers.co/file-type/google-docs/",
+    "https://bymarketers.co/file-type/google-looker-studio/",
+    "https://bymarketers.co/file-type/google-sheets/",
+    "https://bymarketers.co/file-type/google-slides/",
+    "https://bymarketers.co/file-type/ms-doc/",
+    "https://bymarketers.co/file-type/ms-excel/",
+    "https://bymarketers.co/file-type/notion/",
+    "https://bymarketers.co/file-type/other/",
+    "https://bymarketers.co/file-type/powerpoint/",
+    "https://bymarketers.co/file-type/powerbi/"
 ]
 LOOKER_JS_URL = "https://lookerstudio.google.com/gallery/static/gallery/report_gallery_js.js"
 LOOKER_OUTPUT_PATH = Path(__file__).with_name("reports_looker.json")

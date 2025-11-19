@@ -1,0 +1,688 @@
+[
+  {
+    "title": "Ahrefs Dashboard",
+    "extra_text": "Monitor backlinks and domain authority in one place to stay ahead of SEO trends. Identify optimization opportunities with live Ahrefs data while providing clients with a clear, up-to-date view of their search performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7BPUc7XcwcVCVsf2KFe4mq%2F8fc4f94004894535825945450e19df5a%2FAhrefs-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/ahrefs-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Amazon Ads Dashboard",
+    "extra_text": "Deliver up-to-date Amazon Ads performance data in a fully customizable dashboard. Track ad spend, conversion rates, and ROAS while providing clients with a live, transparent view of campaign results. Optimize performance faster and reinforce trust with real-time access to key advertising metrics.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6QhLeB4yj2u3Nh2o9ljtho%2F65b6528adfcc7c99e37c4bca87adc2e8%2FAmazon-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/amazon-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Amazon Ads Report",
+    "extra_text": "Manual reporting shouldn’t slow you down. The customizable Amazon Ads Report Template makes it easy to consolidate impressions, clicks, ad spend, and conversions in one place. Send client updates without wasting hours copying and pasting data.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5cxDgwv6FNhm0gglTxkgGO%2F31e999222399773f2dcba0aa4ee9f83b%2FAmazon-Ads-Report-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/amazon-ads",
+    "author": ""
+  },
+  {
+    "title": "Bing Dashboard",
+    "extra_text": "Track Bing SEO and ad campaign performance in one customizable dashboard. Monitor clicks, conversions, and impressions in real time while providing clients with clear, actionable insights. Spend less time switching between tools and more time improving ROI.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FKZzHB1C2tUlwlB3ZHVg1C%2F06838ce590e009ce0390b47a50e7e8dd%2FBing-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/bing-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Brand Search Report",
+    "extra_text": "Show clients exactly how their brand appears in search results. The Brand Search Report Template tracks branded search terms, highlighting trends in visibility, traffic, and engagement—so you deliver clear, data-backed reports without the manual work.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7pQhgGYRUVD4Aj3F0Kn3U0%2F2474ed9b23d336c8d2f6ac04ef68b1f0%2FBrand-Search-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/brand-search",
+    "author": ""
+  },
+  {
+    "title": "Call Tracking Dashboard",
+    "extra_text": "Track and analyze call data from platforms like WildJar, Twilio, CallSource, and WhatConverts in a fully customizable dashboard. Monitor call volume, duration, and lead quality while providing clients with live insights that enhance transparency and decision-making.\n\nAnalyze call analytics in real-time, quickly spot sales bottlenecks, and make informed campaign decisions while your clients stay informed.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2Fgm8CQPs7AjhmvKyWX31IE%2Fb376b914a88fe35949a421905cdd0e70%2FCall-Tracking-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/call-tracking-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Call Tracking Report",
+    "extra_text": "Multi-client call and web form reporting made for marketing agencies. Track where your clients’ calls are coming from and what’s making their phones ring so you can improve campaign performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7IeWRclGu0UVlMV5YIAETk%2Ff03bca72002a73222119aca5c3c0b87a%2Fcall-tracking-reports.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/call-tracking",
+    "author": ""
+  },
+  {
+    "title": "Campaign Performance Dashboard",
+    "extra_text": "Monitor campaign performance in a fully customizable dashboard that consolidates insights from 80+ platforms. Track key metrics in one place, eliminate manual reporting, and provide clients with a live, transparent view of their marketing results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3BWjX1j3IpcDdyNmx6CRc7%2Fe0941e8c328a4f500b2e2ed47f466070%2FCampaign-Performance-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/campaign-performance-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Campaign Performance Report",
+    "extra_text": "Scattered campaign data leads to messy reports. The Campaign Performance Report Template centralizes performance metrics, making it easy to track wins, call out optimizations, and show clients how their marketing dollars are working for them.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F17AbsiOT2j06MiTdgd7ohB%2F1f479f23285f9449e85b196e4097f904%2FCampaign-Performance-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/campaign-performance",
+    "author": ""
+  },
+  {
+    "title": "Client Dashboard",
+    "extra_text": "Consolidate SEO, PPC, email, and social media insights into a single, real-time client dashboard. Eliminate hours of manual reporting while providing clients with clear, branded access to the data that matters most.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F015LMNW5TVVJSXREwmitMQ%2F2027113f367132edc9e788ed8e3443f9%2FClient-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/client-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Client Report",
+    "extra_text": "Skip the tedious report-building. The customizable Client Report Template automatically pulls key metrics, giving you a polished, easy-to-share update that keeps clients informed—without wasting your team’s time.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FjRJ5mOXNt7KLTOaBhxbr6%2F30169584ad7dd3ac297cc96e6e734268%2FMonthly-Client-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/client-report",
+    "author": ""
+  },
+  {
+    "title": "Content Marketing Report",
+    "extra_text": "Develop detailed content performance reports that emphasize critical metrics and deliver actionable insights. Utilize the customizable Content Marketing Report Template for efficient client communication, saving time for strategic content creation and optimization.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1SVqDtwEZPbEdsKArrbLCk%2Fb3a284e461eb4d2babfa1b9c0cdc35ed%2FContent-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/content-marketing",
+    "author": ""
+  },
+  {
+    "title": "Core Vitals Report",
+    "extra_text": "Page speed, user experience, and mobile performance—share it all in one report. The customizable Core Vitals Report Template tracks essential web vitals so you easily identify issues, fine-tune site performance, and show clients exactly how your agency is making an impact.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FhK9rObCHwclTyMDsg7yOF%2F21733284b9c9e9ac7cefd1f7d22a5f3a%2FCore-Vitals-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/core-vitals",
+    "author": ""
+  },
+  {
+    "title": "Demand Gen Report",
+    "extra_text": "Easily gather and display key performance metrics across SEO, PPC, and social media. The customizable Demand Gen Report Template brings together all your client's demand gen campaign metrics in one place—so you quickly spot trends, adjust strategies, and show clients the results that matter.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7irvag0MOPGiZYZ13ObOCg%2F37cd2c8175d91dd62fc92df7fed19f4d%2FDemand-Gen-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/demand-gen",
+    "author": ""
+  },
+  {
+    "title": "Dental Marketing Report",
+    "extra_text": "Show dental clients exactly how their marketing is driving new patient leads. The customizable Dental Marketing Report Template tracks ROI, conversion rates, and key performance metrics—so you deliver easy-to-understand updates without spending hours on reporting.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5Rxe67SaigBFeugoE3em9c%2F849ac5096fcb67c3b0a4e65d7f9d9e48%2FDental-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/dental-marketing",
+    "author": ""
+  },
+  {
+    "title": "Digital Marketing Dashboard",
+    "extra_text": "Bring all your client’s digital marketing metrics together in one place. From SEO and PPC to social and email, a customizable dashboard makes reporting faster and clearer—for both your agency and your clients. Join over 7,000 successful agencies and experience the benefits of using a customizable digital marketing dashboard!",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4NSNhpuH29d7EEqbhLavwd%2F46db91a4787c4445f4fef7a72cabd0d8%2FDigital-Marketing-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/digital-marketing-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Digital Marketing Proposal",
+    "extra_text": "Deliver polished, persuasive pitches in less time. The customizable digital marketing proposal template helps agencies present services clearly, tie directly to client goals, and confidently walk through their strategy. Skip formatting headaches and start with a structure designed to scale.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3Kcma1dQGKhlwEXJxtyLRP%2F323439d828b557e371f5a80009eed0fc%2FDigital-Marketing-Proposal-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/proposals/digital-marketing-proposal",
+    "author": ""
+  },
+  {
+    "title": "Digital Marketing Report",
+    "extra_text": "Generate clear, actionable digital marketing reports in minutes. The customizable Digital Marketing Report Template focuses on the KPIs that matter, turning raw marketing data into reports that clients use to make better business decisions.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5IxoVjjl2m4DR2bbyDOYAn%2F6b77e9e6aea614c923483db13c7ec476%2FDigital-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/digital-marketing",
+    "author": ""
+  },
+  {
+    "title": "Earned Media Report",
+    "extra_text": "Easily track and report on the success of earned media campaigns. Use the customizable Earned Media Report Template to show clients the real impact of PR, social media, and organic visibility, all without tedious manual reporting.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FOTdVT9P4m1YzOOhNFPdPf%2F93f99fb038e1e1d11a9d9b1d495049ad%2FEarned-Media-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/earned-media",
+    "author": ""
+  },
+  {
+    "title": "Ecommerce Dashboard",
+    "extra_text": "Track sales, conversion rates, PPC performance, and SEO in a fully customizable ecommerce dashboard. Consolidate key metrics in one place, automate reporting, and provide clients with live insights to optimize their online store’s growth. Find out why over 7,000 successful agencies choose AgencyAnalytics to save time, boost profitability, and keep clients on the path to growth.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2r8wSI1BTI0LE4SeHLvGIw%2F63777a67fadcdaa6581f3c47434c2ad2%2FEcommerce-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/ecommerce-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Ecommerce Report",
+    "extra_text": "Revenue trends, conversion rates, and customer insights—all in one place. The customizable Ecommerce Report Template takes the guesswork out of ecommerce reporting, helping you present sales data in a way that drives smarter decisions.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3TZBN6NEhbYb4neeFsUlq6%2Fc2d8c959866336151a20b590080bc5ee%2FEcommerce-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/ecommerce",
+    "author": ""
+  },
+  {
+    "title": "Email Marketing Dashboard",
+    "extra_text": "Track open rates, click-throughs, and conversions in a fully customizable email marketing dashboard. Whether you're monitoring automations in Mailchimp or workflows in HubSpot, get a live, actionable view of what’s working—so your agency spends less time reporting and more time improving results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F74N2NWUUxddLf7ygpV1C6b%2Ffea067bae09acde0f2fc7d013923561e%2FEmail_Marketing_Dashboard_Template_Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/email-marketing-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Email Marketing Report",
+    "extra_text": "Generate professional email marketing reports in minutes, not hours. The customizable Email Marketing Report Template pulls in key metrics like open rates and click-through rates—so you quickly show clients what’s working and free up more time to optimize campaigns.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F15fnL4eIZh42H6bVHqW61S%2F7ba5881a22d1bdc5f0e5cedeeae5eba5%2FEmail-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/email-marketing",
+    "author": ""
+  },
+  {
+    "title": "Facebook Ads Dashboard",
+    "extra_text": "Track Facebook Ads performance across campaigns in one streamlined dashboard. Consolidate spend, clicks, conversions, and ROI into a single view that keeps your team and clients aligned and engaged.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4VQAilw98LWeq4HQpnSLvc%2F1a4a4a9dc6f70223dbd924a0b9dcf69b%2FFacebook-Ads-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/facebook-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Facebook Ads Report",
+    "extra_text": "Save time on Facebook Ads reporting while tracking key metrics like impressions, clicks, and conversions. The customizable Facebook Ads Report Template breaks down ad data so clients see the real impact of their ad spend without the fluff.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6DIAibbtFnNRVGxjGrXKcl%2F038f1e7ae999619128b0decaef360b5b%2FFacebook-Ads-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/facebook-ads",
+    "author": ""
+  },
+  {
+    "title": "Facebook Dashboard",
+    "extra_text": "Track Facebook engagement, reach, and overall performance in a fully customizable dashboard. Monitor key metrics, automate reporting, and provide clients with live insights that highlight the impact of your social media efforts.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7s9RJss3WmGpxqlAotjeqb%2Fc5396a22786d3c0021ba81567c0ed3d8%2FFacebook-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/facebook-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Facebook Report",
+    "extra_text": "Skip the manual work. The customizable Facebook Report Template pulls in key metrics like engagement, reach, and likes—so you deliver clear, professional updates without spending hours on reporting.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F14h08qnNroTPqTzUVfSYKi%2Fb124dd71d000af19b312be7d997296c8%2FFacebook-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/facebook",
+    "author": ""
+  },
+  {
+    "title": "Google Ads Dashboard",
+    "extra_text": "Track ad spend, conversions, and ROI in a fully customizable Google Ads dashboard. Consolidate multiple accounts in one place, automate reporting, and provide clients with live insights that optimize ad performance and budget allocation.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2TbyvoZErV5Tj8Zh7Frbkg%2Fba59b7847919845d3c70f0f6ae74a931%2FGoogle-Ads-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/google-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Google Ads Report",
+    "extra_text": "Easily share key Google Ads metrics in one concise report. Use the customizable Google Ads Report Template to showcase the agency's impact, present performance results, and guide clients toward data-driven decisions.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5UeH9aR3CS6KWV6uJkHNJa%2Ff84bc5306ecce930146bdb22b795c33a%2FGoogle-Ads-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-ads",
+    "author": ""
+  },
+  {
+    "title": "Google Analytics Dashboard",
+    "extra_text": "Track traffic, engagement, and conversions in a fully customizable Google Analytics dashboard. Automate reporting, simplify analysis, and provide clients with live insights that drive smarter optimization decisions. Find out why over 7,000 successful agencies choose AgencyAnalytics to gain insights, impress clients, and win back billable hours.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7McL2aU0HzwMtrwuJp03JB%2Fa0340f76a7b32c86e572f2bfecfa352c%2FGoogle-Analytics-4-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/google-analytics-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Google Analytics Report",
+    "extra_text": "Turn Google Analytics data into reports that clients understand. The customizable Google Analytics Report Template simplifies web traffic, conversions, and user behavior into insights that tell a real story—not just a list of numbers.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6WNSyi78vsS3XODsiQoatw%2F04f8eaeac148c8bd5635fded5798eb2e%2FGoogle-Analytics-4-Report-Template-Example__1_.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-analytics",
+    "author": ""
+  },
+  {
+    "title": "Google Business Profile Dashboard",
+    "extra_text": "Track search visibility, customer engagement, and local rankings in a fully customizable Google Business Profile dashboard. Automate reporting, provide clients with live insights, and optimize local strategies to improve performance and demonstrate results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5uV2S2JVQPoqnIWHHn1OpH%2Fc4feea6301c54678c4dd1ac3ec262820%2FGoogle-Business-Profile-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/google-business-profile-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Google Business Profile Report",
+    "extra_text": "Deliver clear, data-driven insights on visibility, engagement, and customer actions with the customizable Google Business Profile Report Template. Help clients track performance and make strategic decisions to drive business growth.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5uQeZBxTJdSn129N9qMCFO%2F58a2f8749a80cd7eee7ccfaf08e9978a%2FGoogle-Business-Profile-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-business-profile",
+    "author": ""
+  },
+  {
+    "title": "Google Lighthouse Report",
+    "extra_text": "Technical site audits shouldn’t feel like decoding a foreign language. The customizable Google Lighthouse Report Template organizes Core Web Vitals and site performance data into an easy-to-share report that helps clients make smarter optimization decisions.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2duTGTiZRiul4reBeTeOlj%2Fd0f9330859dc3ad9c08205af2003772a%2FGoogle-Lighthouse-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-lighthouse",
+    "author": ""
+  },
+  {
+    "title": "Google Local Services Ads Report",
+    "extra_text": "Generate clear, data-driven reports that showcase campaign performance with stunning visuals and key metrics. The customizable Google Local Services Ads Report Template automatically tracks performance, making it easy to show clients exactly where their leads are coming from—and what’s bringing in new business.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6f8eKDDw81k423PaMjz7t8%2Fe32ec92bd0195c98289a772e174a0095%2FGoogle-Local-Services-Ads-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-local-services-ads",
+    "author": ""
+  },
+  {
+    "title": "Google Search Console Dashboard",
+    "extra_text": "Track organic traffic, click-through rates, and search rankings in a fully customizable Google Search Console dashboard. Automate reporting, provide clients with live insights, and refine SEO strategies to improve search visibility and website performance.\nLeverage the dashboard to fine-tune strategies and optimize campaigns efficiently, ensuring your team stays ahead of the competition.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7iU7FSDK7TGIEi8mvMlwrA%2F8b08d3dfedce9a913da4b83023dc7d2b%2FGoogle-Search-Console-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/google-search-console-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Google Search Console Report",
+    "extra_text": "Search rankings only tell part of the story. The customizable Google Search Console Report Template pulls in impressions, click-through rates, and indexing insights, so you keep clients informed on what’s driving organic traffic—and where they should focus next.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F21QiRSlXCDwjkUcDddXFpH%2F4c1474e60029f244b775e2ff50c24df3%2FGoogle-Search-Console-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/google-search-console",
+    "author": ""
+  },
+  {
+    "title": "Healthcare Marketing Report",
+    "extra_text": "Consolidate campaign performance and patient acquisition trends into a single, comprehensive report. Use the customizable Healthcare Marketing Report Template to save time on data work and focus on strategies that show healthcare providers exactly how marketing drives results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3qJNbQrage6Lzod1WpneDu%2F3cfbc1b959204c8620ec201479941ddb%2FHealthcare-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/healthcare-marketing",
+    "author": ""
+  },
+  {
+    "title": "HighLevel Dashboard",
+    "extra_text": "Experience seamless client reporting and campaign optimization with the customizable HighLevel Dashboard. Track key metrics from the Go HighLevel platform in a fully customizable dashboard. Automate reporting, consolidate data from 80+ integrations, and provide clients with live insights that enhance transparency and optimize marketing performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6G52FwG3IASLt90nMTHcVy%2Fc6e71b4b39c2adc309d3a3aa27994da9%2FHighlevel-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/highlevel-dashboard",
+    "author": ""
+  },
+  {
+    "title": "HighLevel Report",
+    "extra_text": "Ditch the spreadsheets. The customizable HighLevel Report Template pulls in key client data automatically, so your team spends less time on manual work and more time refining strategy, optimizing campaigns, and delivering results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1CqRxmOaXuYby1B09LQs7O%2F8260ae66b74aa63168215e923611a35d%2FHighlevel-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/highlevel",
+    "author": ""
+  },
+  {
+    "title": "HubSpot Dashboard",
+    "extra_text": "Track customer data, marketing performance, and sales pipelines in a fully customizable HubSpot dashboard. Consolidate HubSpot data into an intuitive, easy-to-understand format that saves time and drives strategy.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FkIgDDe7xPvrJcqfOLE6w3%2Fe4c4b27a6579ab80a0aac56a6c00ac98%2FHubspot-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/hubspot-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Instagram Ads Dashboard",
+    "extra_text": "Monitor ad performance with an up-to-date Instagram Ads Dashboard that keeps your team and clients on the same page. Track impressions, engagement, conversions, and cost metrics in one streamlined view. Maximize campaign ROI and build stronger agency-client relationships along the way.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1KlX9mrkGqlMNw2MB4Iy1j%2F8d9ab5fa489c5916df0fab036a8530ca%2FInstagram-Ads-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/instagram-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Instagram Dashboard",
+    "extra_text": "Track followers, engagement, and impressions in a fully customizable Instagram dashboard. Automate reporting, provide clients with live insights, and focus on optimizing Instagram strategies instead of spending hours compiling data.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3JyB3mNKiTm2NqfvszcSEn%2F449a284daa63a98c391417a4c930d83f%2FInstagram-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/instagram-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Instagram Report",
+    "extra_text": "Track key Instagram metrics like engagement, follower growth, and reach in one easy-to-read monthly report. Use the customizable Instagram Report Template to save time on reporting and provide clients with actionable insights that showcase campaign success.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5iFf4A4XWNfECj4VGYvlEk%2F3242cb1b46e3e1ffeb38df29aea488ea%2Finstagram-report-template-example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/instagram",
+    "author": ""
+  },
+  {
+    "title": "Keyword Ranking Report",
+    "extra_text": "Make keyword tracking easy. The customizable Keyword Ranking Report Template compiles ranking data so you highlight progress, track visibility trends, and show clients how their SEO strategy is paying off.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7f48bDZWjFCCQH45AUKbUN%2F096b9bbfbb64c3f7fb42e67eefed8620%2FKeyword-Ranking-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/keyword-ranking",
+    "author": ""
+  },
+  {
+    "title": "KPI Report",
+    "extra_text": "Help clients see the bigger picture. The customizable KPI Report Template organizes key marketing metrics in one place, making it easy to track progress, showcase results, and keep performance goals on track.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F21VPSDcAv74qurlDF6zIuC%2F1fe78d314a9cd5fb238796336ed359f1%2FKPI-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/kpi",
+    "author": ""
+  },
+  {
+    "title": "Law Firm Marketing Report",
+    "extra_text": "Show law firms exactly how their marketing is driving new clients. The customizable Law Firm Marketing Report Template brings together key performance metrics so you present clear, professional updates without sifting through scattered data.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2Fa8mLUsbukEtXXmQNqWnfP%2F562f7f88480c07012a8d92572c9660be%2FLaw-Firm-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/law-firm-marketing",
+    "author": ""
+  },
+  {
+    "title": "Link Building Report",
+    "extra_text": "Give clients a clear view of their backlink profile. The customizable Link Building Report Template tracks link-building progress, monitors domain authority, and highlights SEO improvements—all in an easy-to-read report.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F52tMWuf0cEXnt4I2GUHMoW%2F5e7143b1756fbdc153e7db8f9e4d5316%2Flink-building-template.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/link-building",
+    "author": ""
+  },
+  {
+    "title": "Link-Building Dashboard",
+    "extra_text": "Track backlink growth, referring domains, and link quality in a fully customizable link-building dashboard. Automate reporting, provide clients with up-to-date insights, and refine link-building strategies to improve search rankings and SEO performance. Enjoy a clear view of data that informs strategy and frees up time for what truly counts: executing effective link-building campaigns.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4joJqX8QiPHeMUYnELdtE%2F10e60182e67e5e61beeceace2b93b9c7%2FLink-Building-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/link-building-dashboard",
+    "author": ""
+  },
+  {
+    "title": "LinkedIn Ads Dashboard",
+    "extra_text": "Streamline your agency’s reporting and campaign optimization with a LinkedIn Ads dashboard built specifically for marketing agencies. Give clients up-to-date visibility into their ad campaigns, track what matters, and spend less time compiling reports. Strengthen client relationships and free up time to focus on high-level strategies.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4X9UcdRqZLXGYlBGrJRB1m%2F9b712d10ee11ad32d806c08d93d9b181%2FLinkedIn-Ads-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/linkedin-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "LinkedIn Dashboard",
+    "extra_text": "Showcase marketing performance with a live LinkedIn Dashboard that gives clients instant visibility into engagement, lead generation, and reach. Save time while keeping reporting simple and strategy-focused. Leverage up-to-the-minute insights to fine-tune strategies, ensure optimal performance, and streamline operations from one centralized platform.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1chpgoGAVDjjh083EPn5Be%2F4891d4bc65d58aabad2c2f3c33d80253%2FLinkedIn-Reporting-Tool-Analytics-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/linkedin-dashboard",
+    "author": ""
+  },
+  {
+    "title": "LinkedIn Report",
+    "extra_text": "Track LinkedIn performance with an easy-to-read analytics report. Use the customizable LinkedIn Report Template to monitor engagement, follower growth, and ad performance while saving time on reporting and providing clients with key insights.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3WF4hsSKmtaxYOjLwYsgla%2F3b0606b37e39a314677fc4346e9e8934%2FLinkedIn-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/linkedin",
+    "author": ""
+  },
+  {
+    "title": "Local SEO Dashboard",
+    "extra_text": "Eliminate guesswork in local SEO performance. Track keyword rankings, review insights, and Google Business Profile metrics in a Local SEO Dashboard built for clarity, transparency, and trust. Boost efficiency, drive better results, and ensure campaigns achieve maximum ROI.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2YP7vy3SWKISOAReLAESg9%2F552d338a949ac972c8e938b2b2a9eeb7%2FLocal-SEO-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/local-seo-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Local SEO Report",
+    "extra_text": "Quickly track local search rankings, Google Business Profile performance, and customer engagement. Use the customizable Local SEO Report Template to save time on reporting while equipping your agency with the insights needed to optimize local visibility for clients.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1ZbU6rUbNFygD2hkkmrBaZ%2Ff7a925c66a98754e230664efaccc779f%2FLocal-Seo-Report-Template-Hero.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/local-seo-report",
+    "author": ""
+  },
+  {
+    "title": "Mailchimp Dashboard",
+    "extra_text": "Track open rates, click-through rates, and audience growth in a fully customizable Mailchimp dashboard. Automate reporting, provide clients with live insights, and optimize email campaigns to drive engagement and maximize ROI. Strengthen client relationships through data-driven insights.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1oDWmPs4AGS5r27MNYDlSG%2F5cd818edd03e13669b2550366ce507de%2FMailchimp-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/mailchimp-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Mailchimp Report",
+    "extra_text": "Stop manually pulling email stats. The customizable Mailchimp Report Template automatically tracks open rates, click-throughs, and conversions—helping you present clear, insightful reports that keep clients engaged.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3JzgGchz1EXKMtchmDXKEo%2Fbcf9bd252c2e1d58b78a8aadbfb7c456%2FMailchimp-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/mailchimp",
+    "author": ""
+  },
+  {
+    "title": "Marketing Agency Dashboard",
+    "extra_text": "Track SEO, PPC, social media, and more in a fully customizable Marketing Agency Dashboard. Automate reporting, provide clients with live insights, and identify optimization opportunities—all from one powerful, centralized platform. Join the ranks of over 7,000 successful agencies already reaping the rewards of using a customizable digital marketing dashboard.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4FVi1XDfTM1pCx6rFJizq1%2F76084cbc4dde6529eaed558b4750f50d%2FMarketing-Agency-Dashboard-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/marketing-agency-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Marketing Dashboard",
+    "extra_text": "Track PPC, SEO, social media, and call tracking metrics in an automated marketing dashboard. Automate reporting, provide clients with live insights, and optimize campaigns to drive better results—all from one centralized platform. Create client reports in minutes and spend more time executing effective campaigns.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5Hro9H2StityybXp0gVrlL%2F23ad5f9cb6e9f02c3cf1ceef95680340%2FMarketing-Dashboard-Software-Tool-Screenshot.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/marketing-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Marketing Report",
+    "extra_text": "Marketing data is only valuable if it’s easy to understand. The customizable Marketing Report Template transforms campaign metrics into client-friendly reports, helping you present results without the clutter.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2jrqH8hqf7d2ZXvQ3BoT2M%2F753d135ffb7e3e6c8af1a14b2c6e3865%2FMarketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/marketing",
+    "author": ""
+  },
+  {
+    "title": "Matomo Dashboard",
+    "extra_text": "Track user engagement, conversion rates, and traffic sources in a fully customizable Matomo dashboard. Automate reporting, provide clients with live insights, and streamline website analysis to optimize campaign performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1P94x8lRKeLFiR32xxI1Ey%2Fe63fea918af7e21e24babd6b6632657c%2FMatomo-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/matomo-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Matomo Report",
+    "extra_text": "Skip the manual data collection and track key website analytics in minutes. The customizable Matomo Report Template compiles traffic, engagement, and conversion metrics so you share key insights with clients in minutes—not hours.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7sQXpfh1NP59lh1hDQS3Mu%2F1e0d95f5456d1a2b3b37e986130de554%2FMatomo-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/matomo",
+    "author": ""
+  },
+  {
+    "title": "Meta Ads Dashboard",
+    "extra_text": "Track Facebook, Instagram, and Messenger ad performance in a fully customizable Meta Ads dashboard. Automate reporting, provide clients with live insights, and optimize campaign strategies to maximize ROI and ad effectiveness. Monitor ad performance, analyze emerging trends, and consolidate metrics into a centralized location.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2vYhKNaV7PnZnHoMW4ccY0%2F8b23cbcc9d12995a3419732c4dcc2b73%2FMeta-Ads-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/meta-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Meta Dashboard",
+    "extra_text": "Track Facebook, Instagram, and Meta Ads performance in a fully customizable Meta dashboard. Automate reporting, provide clients with live insights, and optimize campaign performance—all from one centralized platform. Keep clients informed and free up your team’s time for high-level strategy.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F70R0iPTfOVYZEfmbrMLoIE%2Fe3ba8268877244037ccc931396abc17a%2FMeta-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/meta-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Meta Report",
+    "extra_text": "Easily track key performance metrics across Facebook, Instagram, and Meta Ads in one report. The customizable Meta Report Template consolidates data into a single, streamlined report that highlights performance and ad effectiveness.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FAFOCnueBeYlaSf6s6qlzQ%2F8c049e30451017f5c129d0be4240b529%2FMeta-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/meta",
+    "author": ""
+  },
+  {
+    "title": "Microsoft (Bing) Ads Report",
+    "extra_text": "Track ad performance and optimize campaigns with a streamlined, automated report. The customizable Microsoft (Bing) Ads Report Template tracks ad spend, click-through rates, and conversions, helping you give clients a transparent view of their paid search performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F137S0kAl8Cs5dwQIqoEJmH%2F65f498f5bf3702d80ee7107c80bc70d2%2FMicrosoft-Bing-Ads-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/microsoft-ads",
+    "author": ""
+  },
+  {
+    "title": "Monthly Report",
+    "extra_text": "Easily track and present key campaign metrics in a structured, professional report. The customizable Monthly Report Template tracks key performance trends so you deliver professional updates that highlight real marketing impact.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2wpzb1lW8nZKJLUOk1Pv3B%2F1f3413af5b6950820f84d435907c7373%2FMonthly-Report-Template-Example.webp&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/monthly",
+    "author": ""
+  },
+  {
+    "title": "Moz Dashboard",
+    "extra_text": "Show clients how their SEO campaigns are performing with a Moz dashboard built specifically for marketing agencies. Combine domain authority metrics, link growth, and keyword rankings—all in a branded, up-to-date view.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5gQ1RdOtoESuxzIXxogukV%2F59ed10d510c4d64cae329cf797994bb2%2FMoz-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/moz-dashboard",
+    "author": ""
+  },
+  {
+    "title": "PPC Campaign Proposal",
+    "extra_text": "Pitch with clarity, speed, and confidence. This PPC campaign proposal template helps marketing agencies clearly outline their ad strategy, budgets, timelines, and results, without building from scratch. Whether you’re presenting a Google PPC proposal, a social media advertising strategy, or a multi-platform ad campaign, this template speeds up your sales process and helps you land more clients.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2zjXaW97M8RD1hTMVpbWNR%2F560a92226b63fb356d9ad2d454993735%2FPPC-Proposal-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/proposals/ppc-campaign-proposal",
+    "author": ""
+  },
+  {
+    "title": "PPC Dashboard",
+    "extra_text": "Track spend, conversions, and click-through rates in a fully customizable PPC dashboard. Automate reporting, provide clients with live insights, and optimize paid media strategies across platforms like Google Ads, Facebook Ads, and Microsoft Ads—all from one place. Monitor PPC campaign results without the hassle of manual data collection.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FQWrG6gtVemmt7ZbqBdNtt%2F785fa8f11c3cfce3aa952e4f4108cc89%2FPPC-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/ppc-dashboard",
+    "author": ""
+  },
+  {
+    "title": "PPC Report",
+    "extra_text": "Easily track ad performance, conversions, and ROI with an automated PPC report. The customizable PPC Report Template gathers key metrics like cost-per-click, conversions, and ROI—so reporting takes minutes, not hours.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F2iEMtUF83VoeeIJ79tu5v2%2Fac2180a0b5e4c0ecbecc22197f8fccdd%2FPPC-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/ppc",
+    "author": ""
+  },
+  {
+    "title": "Quarterly Report",
+    "extra_text": "Clients want to see the big picture. The customizable Quarterly Marketing Report Template organizes key wins, trends, and marketing impact—making it easy to report on long-term success.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F52KiT1fRtEF1yZqb8i7VwH%2F30340d534390d3c57b303b6b07e450ab%2FQuarterly-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/quarterly",
+    "author": ""
+  },
+  {
+    "title": "Real Estate Marketing",
+    "extra_text": "Track lead volume, conversion rates, and ROI in an easy-to-read report. Use the customizable Real Estate Marketing Report Template to measure campaign success, refine strategies, and help real estate agents grow their business while reducing time spent on data gathering.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4HT8B7z6C6PSKGRkZCromk%2F63d726aa318a2d703647119ae05dbe5e%2FReal-Estate-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/real-estate-marketing",
+    "author": ""
+  },
+  {
+    "title": "Salesforce Dashboard",
+    "extra_text": "Track pipeline progress, lead conversion rates, and revenue forecasts in a fully customizable Salesforce dashboard. Automate reporting, provide clients with live insights, and drive better results with strategic, data-backed decisions—all from one centralized view. Automate data retrieval and free up valuable time to focus on high-level strategies and delivering client results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4xNoieTBVyvtYNSYHi2BQN%2F963c91a183e518cfcfecd93a3b2ce9e0%2FSalesforce-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/salesforce-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Salesforce Report",
+    "extra_text": "Automate client reporting and track key Salesforce metrics with ease. Use the customizable Salesforce Report Template to save hours on manual tasks, present clear performance insights, and strengthen client relationships with professional, data-driven reports.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FNDh3S5sChdbERyxjecwOc%2Fcc9e4c29cda80fe2676a942d49b16703%2FSalesforce-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/salesforce",
+    "author": ""
+  },
+  {
+    "title": "SEM Dashboard",
+    "extra_text": "Track CTR, conversions, and paid search ROI in a fully customizable SEM dashboard. Automate reporting, provide clients with live access to campaign data, and optimize search engine marketing strategies for better results across platforms.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6y40R9a5ayBWwO81cvIWfM%2F4e0dca9cf3fd5aec84c9903310bfcb4b%2FSEM-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/sem-dashboard",
+    "author": ""
+  },
+  {
+    "title": "SEM Report",
+    "extra_text": "Eliminate manual data work and generate SEM reports in minutes. The customizable SEM Report Template pulls together PPC and SEO performance metrics so you deliver quick, professional reports with real client impact.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6fk1YXUf5udA4rAGgr4U4L%2F3d72a37b9e9507a6fca34ecbf90f891e%2FSEM-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/sem",
+    "author": ""
+  },
+  {
+    "title": "Semrush Report",
+    "extra_text": "Generate detailed, white-label reports in minutes with the customizable Semrush Report Template. Track essential SEO metrics, reduce time spent on manual reporting, and provide clients with clear, data-driven insights—all while reinforcing your agency’s brand.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5WfuchIKfxKYqzwl6PGy2c%2F0d8e8880d7ac1ee48e2a284fd031f17a%2FSemrush-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/semrush",
+    "author": ""
+  },
+  {
+    "title": "SEO Dashboard",
+    "extra_text": "Track keyword rankings, organic traffic, backlinks, and goal completions in a customizable SEO reporting dashboard. Automate reporting, give clients live access to campaign data, and use up-to-date insights to improve performance and prove ROI. Join over 7,000 satisfied customers and experience the benefits of using an SEO dashboard!",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1MEC1Kc2RFOGvh79IM5WIc%2F21cb143513d1cc92a717df20120bd79b%2FSEO-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/seo-dashboard",
+    "author": ""
+  },
+  {
+    "title": "SEO Proposal",
+    "extra_text": "Create client-ready SEO proposals in minutes. This customizable SEO proposal template helps agencies pitch strategy, deliverables, and results without starting from scratch. Whether you're targeting local businesses, ecommerce brands, or enterprise accounts, this template gives you the structure to close deals with confidence.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F4DmOgHk5pv5p7bCkQpAymh%2F48a60cd9deebf9724eec49a37dd1ca33%2FCustom-SEO-Propsal-Template-Sample.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/proposals/seo-proposal",
+    "author": ""
+  },
+  {
+    "title": "SEO Report",
+    "extra_text": "SEO reporting shouldn’t be overwhelming. Our completely customizable monthly SEO Report Template compiles rankings, backlinks, and site performance into a structured, easy-to-read report—so SEO clients see real progress, not just data dumps.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F32bwweINITzwXptD1jK1aV%2F0c63ab5bb5e871132dfe0e1789665986%2FSEO-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/seo",
+    "author": ""
+  },
+  {
+    "title": "Shopify Dashboard",
+    "extra_text": "Track orders, revenue, and customer trends in a fully customizable Shopify analytics dashboard. Automate ecommerce reporting, provide clients with live insights, and optimize campaigns to improve sales and store performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FNTWJcecvtapBp5qOIxHsN%2Ff88865252655b31a61d8e2b185a22501%2FShopify-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/shopify-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Shopify Report",
+    "extra_text": "Eliminate manual data work and create polished Shopify reports in minutes. The customizable Shopify Report Template pulls revenue, order trends, and customer insights into one report—giving clients a clear view of what’s driving their store’s growth.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7EbxPnYvuTSiOGkDrxiZ1I%2F345b7f8c4ec08568f2a008ae068b5445%2FShopify-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/shopify",
+    "author": ""
+  },
+  {
+    "title": "Social Media Dashboard",
+    "extra_text": "Track engagement, reach, clicks, and conversions across Facebook, Instagram, LinkedIn, YouTube, and more—all from one customizable social media analytics dashboard. Deliver live insights, save time, and keep clients aligned with your agency’s strategy. Join over 7,000 satisfied customers and experience the benefits of using a social media dashboard!",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F5F9uFUQSur7ZUNT0jxwN5z%2F5d3ef10597f1c8de48275a94e9fbc05d%2FSocial-Media-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/social-media-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Social Media Proposal",
+    "extra_text": "Deliver professional, platform-specific proposals that land clients faster. This social media marketing proposal template helps your agency outline goals, target audiences, and campaign strategies across all major platforms—without starting from scratch. Impress from the first click with a customizable structure built to save time and close more deals.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1eQ7VWlYfvkEXU6yPZAMVh%2F9eb6a285ac29c9fda78484289f5ab37d%2FSocial-Media-Marketing-Propsal-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/proposals/social-media-proposal",
+    "author": ""
+  },
+  {
+    "title": "Social Media Report",
+    "extra_text": "Social media performance reporting shouldn’t slow you down. Our customizable Social Media Report Template automatically tracks engagement, audience growth, and ad performance so that you deliver client updates without the extra work.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6doFq6Y6GfL34EgJ9RLOFo%2F5c4e83f3b85323f06f156ccd9aadc35f%2FSocial-Media-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/social-media",
+    "author": ""
+  },
+  {
+    "title": "Stripe Dashboard",
+    "extra_text": "Track transactions, revenue trends, and customer metrics in a fully customizable Stripe dashboard. Provide clients with live access to financial performance, automate reporting, and simplify how your agency tracks and presents Stripe data. Foster trust and equip your team with actionable insights for faster optimization.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3NtTumDDAAvscAP4KC0d4J%2Ff5ce0ed4c7c1824c3f5b77bd44c42023%2FStripe-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/stripe-dashboard",
+    "author": ""
+  },
+  {
+    "title": "TikTok Ads Dashboard",
+    "extra_text": "Track spend, impressions, and conversions with a customizable TikTok Ads dashboard. Automate reporting, deliver live performance insights to clients, and optimize ad campaigns without the hassle of logging into TikTok Ads Manager. Ensure campaigns achieve maximum ROI and strengthen agency-client relationships in the process.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F439NokwPZ7lTBRgS5ir5xn%2F117d0295d563e1542dc3ab72afbff2eb%2FTikTok-Ads-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/tiktok-ads-dashboard",
+    "author": ""
+  },
+  {
+    "title": "TikTok Dashboard",
+    "extra_text": "Track views, follower growth, and video performance in a customizable TikTok dashboard. Give clients live access to campaign data, streamline reporting, and make smarter, faster optimization decisions. Invest in a robust reporting solution and streamline your workflow.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F78tUorrOVL90eyIeX2mBZf%2F903a3b6100988a4b24d8a24640e988c3%2FTikTok-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/tiktok-dashboard",
+    "author": ""
+  },
+  {
+    "title": "TikTok Report",
+    "extra_text": "Keep up with TikTok’s fast-moving trends. The customizable TikTok Report Template pulls data from business and ad accounts, making it easy to track views, engagement, and ad spend—all in one place.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6uM1N6MLX0kYoX4RW5fRMm%2Fcf73343f41fbe330ae30421e1ae07ca7%2FTikTok-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/tiktok",
+    "author": ""
+  },
+  {
+    "title": "Twilio Dashboard",
+    "extra_text": "Monitor call metrics, SMS delivery, and client engagement in a customizable Twilio dashboard. Deliver live access to communication data, automate reporting, and present clear, client-friendly insights that show your impact.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6DM3mM1yTOcUtBVkXMhjLC%2Fa2a153e3eba878f7a37a22e4aab26ee2%2FTwilio-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/twilio-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Web Analytics Dashboard",
+    "extra_text": "Unify web analytics from platforms like Google Analytics, Matomo, and 80+ marketing channels in a single dashboard. Monitor live engagement metrics, optimize campaign performance, and present insights in a client-friendly format that reflects your agency’s brand. Give your agency the edge to make smarter marketing decisions and improve results.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3yyuVQqgzMOMr2AGytPI4u%2F85f2a29fa2b977819e36531d96c85fa2%2FWeb-Analytics-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/web-analytics-dashboard",
+    "author": ""
+  },
+  {
+    "title": "Web Analytics Report",
+    "extra_text": "Traffic alone doesn’t tell the full story. The customizable Web Analytics Report Template organizes key site metrics—like visitor behavior, engagement, and conversions—so you show clients what’s working and where to improve.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1rFK70NG5BLYuNbEo5yTDj%2Fc3748ae8af9d9d3f9969a46840f0fde6%2FWeb-Analytics-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/web-analytics",
+    "author": ""
+  },
+  {
+    "title": "Website Proposal",
+    "extra_text": "Present polished, persuasive proposals that win web design and development clients—without starting from scratch. This customizable website proposal template helps your agency communicate scope, timeline, and results to potential clients. Whether pitching a redesign or a brand-new build, the website proposal template is your shortcut to a more innovative sales process.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3H6ITOhkxcFCbwwxooWEmb%2F49323e37c691bd2bbd6fdb3982adfd36%2FWesbite-Design-Development-Propsal-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/proposals/website-design-development-proposal",
+    "author": ""
+  },
+  {
+    "title": "Weekly Report",
+    "extra_text": "Automate client reporting with a structured weekly report. Use the customizable Weekly Marketing Report Template to track key metrics from 80+ marketing platforms, reduce manual data work, and deliver clear, professional updates on campaign performance.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FumA8PUlreongnfwaX4ZDA%2F105dfe3a4c386e2a58cd43a7fb70cf6f%2FWeekly-Marketing-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/weekly",
+    "author": ""
+  },
+  {
+    "title": "WooCommerce Dashboard",
+    "extra_text": "Track store performance, revenue trends, and customer behavior in a customizable WooCommerce dashboard. Provide clients with live access to ecommerce analytics, automate reporting, and optimize campaigns without logging into individual WordPress accounts.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F7aDrXx8fRGfqRuq2yQ5eik%2Fa53c1fd9ecf4d4eb490a3ba83c86734d%2FWooCommerce-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/woocommerce-dashboard",
+    "author": ""
+  },
+  {
+    "title": "WooCommerce Report",
+    "extra_text": "Eliminate manual data work and generate professional WooCommerce reports in minutes. Use the customizable WooCommerce Report Template to track sales, revenue, and customer trends while showcasing the impact of your agency’s efforts on ecommerce growth.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2FHUZQfCNs4jI829ic5vW7H%2Fdb741f2e828f9be7cfd716ef48321e3d%2FWooCommerce-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/woocommerce",
+    "author": ""
+  },
+  {
+    "title": "YouTube Dashboard",
+    "extra_text": "Track YouTube channel growth, video performance, and engagement metrics in a single dashboard. Automate reporting, save time, and give clients direct access to up-to-date analytics—all while reinforcing your agency’s brand. Spend less time on reporting and more time creating killer YouTube marketing strategies.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F1WpYLWUPPM5UKH7Ujf3GV2%2F4a96a4e1adc75946c2eb161421e71ce0%2FYouTube-Dashboard-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/dashboards/youtube-dashboard",
+    "author": ""
+  },
+  {
+    "title": "YouTube Report",
+    "extra_text": "Track video performance, audience engagement, and subscriber growth in an easy-to-read report. Use the customizable YouTube Report Template to automate reporting, reduce manual data work, and provide clients with the insights they need to refine their video strategy.",
+    "thumbnail": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F6KdxqatE2QEjIfrhz22h7p%2F1bbc32831a6a63a97cb5d7d6d0feeb43%2FYouTube-Report-Template-Example.png&w=640&q=75",
+    "source_link": "https://agencyanalytics.com/templates/reports/youtube",
+    "author": ""
+  }
+]

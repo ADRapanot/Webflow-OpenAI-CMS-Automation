@@ -223,15 +223,30 @@ def extract_elementor_posts(soup: BeautifulSoup, base_url: str) -> list:
         link_tag = article.select_one("a.elementor-post__thumbnail__link[href]") or article.select_one("h2.elementor-post__title a[href]")
         source_link = urljoin(base_url, link_tag["href"].strip()) if link_tag and link_tag.has_attr("href") else ""
 
-        # Thumbnail
+        # Thumbnail - extract from img tag, never use source_link if img tag exists
         img_tag = article.select_one(".elementor-post__thumbnail img")
         thumbnail = ""
+        img_tag_found = img_tag is not None
+        
         if img_tag:
-            src = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-lazy-src")
-            if src:
-                thumbnail = urljoin(base_url, src.strip())
-        # If there is no image in the card, use the source link as the thumbnail placeholder
-        if not thumbnail and source_link:
+            # Handle srcset first - extract the largest image URL if srcset exists
+            srcset = img_tag.get("srcset") or img_tag.get("data-srcset")
+            if srcset:
+                # Extract URLs from srcset (format: "url1 size1, url2 size2")
+                srcset_urls = re.findall(r'([^\s,]+(?:\.jpg|\.jpeg|\.png|\.gif|\.webp)[^\s,]*)', srcset, re.IGNORECASE)
+                if srcset_urls:
+                    # Use the largest image (usually the last one in srcset)
+                    thumbnail = urljoin(base_url, srcset_urls[-1].strip())
+            
+            # If no thumbnail from srcset, try src attribute and other data attributes
+            if not thumbnail:
+                src = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-lazy-src") or img_tag.get("data-original")
+                if src and src.strip() and not src.startswith('data:'):
+                    thumbnail = urljoin(base_url, src.strip())
+        
+        # Only use source_link as fallback if no img tag was found at all
+        # Never overwrite a valid image URL with source_link, and never use source_link if img tag exists
+        if not thumbnail and source_link and not img_tag_found:
             thumbnail = source_link
 
         # Title
